@@ -9,38 +9,19 @@ import org.openqa.selenium.By.ByClassName;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class Home_Page extends BaseClass {
+public class Home_Page {
 	
 			
-	public Home_Page(WebDriver driver) {
-		super(driver);
-	}
+	static WebDriver driver;
 	
-	//static WebDriver driver = new ChromeDriver();
-	
-	public static WebElement elemento = null;
+	 @FindBy(how = How.ID, using ="menuUserLink")
+	 public static WebElement minhaConta;
 
-	public static WebElement minhaConta() throws Exception{
-		try{
-			
-			elemento = driver.findElement(By.id("menuUserLink"));
-		}
-		//Log.info("dasdasdas");
-		catch (Exception e){
-			throw (e);
-		};
-		return elemento;
-		}
+	 @FindBy(how = How.XPATH, using = "/html/body/login-modal/div/div/div[3]/a[2]") 
+	 public static WebElement novaConta;
 
-	public static WebElement novaConta() throws Exception {
-		try {			
-		elemento = driver.findElement(By.xpath("/html/body/login-modal/div/div/div[3]/a[2]"));
-		}
-		catch (Exception e) {
-			throw (e);
-			};
-	return elemento;
-}
 }
