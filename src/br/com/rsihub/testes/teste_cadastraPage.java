@@ -4,6 +4,7 @@ import br.com.rsihub.pageObject.cadastra_Page;
 
 public class teste_cadastraPage {
 
+	
 	cadastra_Page cadastro = new cadastra_Page(driver) {
 	};
 	
