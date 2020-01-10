@@ -3,12 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="br.com.rsihub.testes.CadastraUsuarioTest">
+      <class name="br.com.rsinet.hub_TDD.testes.CadastraUsuarioTest">
         <methods>
-          <include name="beforeMethod"/>
           <include name="test"/>
         </methods>
-      </class> <!-- br.com.rsihub.testes.CadastraUsuarioTest -->
+      </class> <!-- br.com.rsinet.hub_TDD.testes.CadastraUsuarioTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

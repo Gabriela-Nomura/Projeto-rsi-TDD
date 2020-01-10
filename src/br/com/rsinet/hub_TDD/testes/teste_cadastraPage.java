@@ -1,4 +1,4 @@
-package br.com.rsihub.testes;
+package br.com.rsinet.hub_TDD.testes;
 
 import java.util.*;
 import java.util.concurrent.TimeUnit;
@@ -14,11 +14,9 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.BeforeMethod;
 
-import br.com.rsihub.pageObject.Cadastra_Page;
-import br.com.rsihub.pageObject.Home_Page;
-import br.com.rsihub.utils.ExcelUtils;
-import br.com.rsihub.utils.constantes;
-import br.com.rsihub.utils.*;
+import br.com.rsinet.hub_TDD.pageObject.Cadastra_Page;
+import br.com.rsinet.hub_TDD.pageObject.Home_Page;
+import br.com.rsinet.hub_TDD.utils.*;
 
 public class teste_cadastraPage {
 

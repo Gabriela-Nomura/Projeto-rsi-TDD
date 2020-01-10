@@ -1,4 +1,4 @@
-package br.com.rsihub.utils;
+package br.com.rsinet.hub_TDD.utils;
 
 import static org.junit.Assert.*;
 
