@@ -7,10 +7,11 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
 
-import br.com.rsinet.hub_TDD.pageObject.Cadastra_Page;
-import br.com.rsinet.hub_TDD.pageObject.Home_Page;
+import br.com.rsinet.hub_TDD.pageFactory.Cadastra_Page;
+import br.com.rsinet.hub_TDD.pageFactory.HomePage_POF;
 import br.com.rsinet.hub_TDD.utils.ExcelUtils;
 import br.com.rsinet.hub_TDD.utils.constantes;
 
@@ -24,10 +25,12 @@ public class ModuloCadastra {
 		 Logger Log = Logger.getLogger("br.com.rsinet.hub_TDD.ModuloCadastra");
 		 
 //		 This is to get the values from Excel sheet, passing parameters (Row num &amp; Col num)to getCellData method
-
+		 PageFactory.initElements(driver, Cadastra_Page.class);
+			Log.info("A fabrica de objetos da página de cadastro foi instanciada");
+			
 		String sNomeUsuario = ExcelUtils.getCellData(1, constantes.Col_userName);
 		Log.info("O nome de usuário obtido do excel é "+ sNomeUsuario );
-		Cadastra_Page.nomeUsuario.sendKeys(sNomeUsuario);
+		Cadastra_Page.nomeUsuario.sendKeys( sNomeUsuario );
 		Log.info("Insere o nome de usuario");
 		
 		String sEmail = ExcelUtils.getCellData(1, constantes.Col_Email);
@@ -82,16 +85,4 @@ public class ModuloCadastra {
 		Cadastra_Page.registraUsuario.click();
 	}
 }
-		/*
-		Home_Page.lnk_MyAccount(driver).click();
-		Log.info("Click action performed on My Account link");
-
-		LogIn_Page.txtbx_UserName(driver).sendKeys(sUserName);
-		Log.info("Username entered in the Username text box");
-
-		LogIn_Page.txtbx_Password(driver).sendKeys(sPassword);
-		Log.info("Password entered in the Password text box");
-
-		((WebElement) LogIn_Page.btn_LogIn(driver)).click();
-		Log.info("Click action performed on Submit button");*/
-
+		

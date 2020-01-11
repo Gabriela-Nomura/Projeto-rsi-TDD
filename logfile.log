@@ -154,3 +154,754 @@
 2020-01-10 10:22:57,544 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
 2020-01-10 10:22:57,594 INFO  [CadastraUsuarioTest] A fabrica de objetos da página inicial foi instanciada 
 2020-01-10 10:22:57,603 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 13:37:14,940 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 13:37:14,948 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 13:37:16,645 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 13:37:17,085 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 13:37:42,177 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 13:37:42,182 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 13:37:43,137 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 13:37:43,493 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 13:37:43,500 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 13:42:35,976 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 13:42:35,981 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 13:42:36,911 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 13:42:37,305 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 13:42:37,312 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 13:42:37,333 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 13:43:32,167 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 13:43:32,173 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 13:43:33,112 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 13:43:33,501 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 13:43:33,509 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 13:43:33,529 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 13:47:53,537 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 13:47:53,542 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 13:47:54,360 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 13:47:54,717 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 13:47:54,722 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 13:47:54,737 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 13:48:40,529 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 13:48:40,534 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 13:48:41,428 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 13:48:41,785 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 13:48:41,790 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 13:48:41,806 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 13:49:32,590 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 13:49:32,595 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 13:49:33,509 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 13:49:33,881 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 13:49:33,888 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 13:49:33,907 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 13:49:33,907 INFO  [Home_Modulo] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 13:59:36,155 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 13:59:36,161 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 13:59:37,123 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 13:59:37,467 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 13:59:37,473 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 13:59:37,490 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 13:59:37,490 INFO  [Home_Modulo] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:02:58,199 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 14:02:58,204 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 14:02:59,135 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 14:02:59,485 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 14:02:59,493 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:02:59,507 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 14:02:59,507 INFO  [Home_Modulo] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:05:20,590 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 14:05:20,596 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 14:05:25,652 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 14:05:26,003 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 14:05:26,017 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:05:26,032 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 14:05:26,032 INFO  [Home_Modulo] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:07:53,230 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 14:07:53,236 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 14:07:59,107 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 14:07:59,485 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 14:07:59,499 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:07:59,514 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 14:07:59,514 INFO  [Home_Modulo] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:10:17,519 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 14:10:17,527 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 14:10:22,571 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 14:10:22,908 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 14:10:22,922 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:10:22,938 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 14:39:39,703 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 14:39:39,713 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 14:39:45,196 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 14:39:45,558 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 14:39:45,574 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:39:45,591 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 14:44:15,980 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 14:44:15,987 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 14:44:21,019 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 14:44:21,388 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 14:44:21,403 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:44:21,419 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 14:45:20,653 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 14:45:20,659 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 14:45:25,667 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 14:45:26,058 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 14:45:26,073 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:45:26,090 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 14:46:05,360 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 14:46:05,367 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 14:46:10,447 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 14:46:10,818 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 14:46:10,833 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:46:10,849 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 14:50:29,012 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 14:50:29,019 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 14:50:34,057 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 14:50:34,422 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 14:50:34,435 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:50:34,450 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 14:53:03,193 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 14:53:03,199 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 14:53:08,216 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 14:53:08,589 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 14:53:08,603 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:53:08,618 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 14:53:38,618 INFO  [Home_Modulo] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:55:22,853 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 14:55:22,860 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 14:55:27,905 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 14:55:28,311 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 14:55:28,330 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:55:28,350 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 14:56:00,017 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 14:56:00,024 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 14:56:05,042 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 14:56:05,425 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 14:56:05,440 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:56:05,456 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 14:56:35,456 INFO  [Home_Modulo] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:57:24,522 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 14:57:24,529 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 14:57:29,542 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 14:57:29,936 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 14:57:29,950 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:57:29,966 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 14:58:11,081 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 14:58:11,088 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 14:58:16,106 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 14:58:16,464 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 14:58:16,478 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 14:58:16,493 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 14:58:46,493 INFO  [Home_Modulo] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 15:12:38,661 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 15:12:38,667 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 15:12:44,229 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 15:12:44,597 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 15:12:44,611 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 15:12:44,628 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:13:14,629 INFO  [Home_Modulo] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 15:13:41,930 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 15:13:41,939 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 15:13:46,982 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 15:13:47,348 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 15:13:47,362 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 15:13:47,376 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:14:27,424 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 15:14:27,431 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 15:14:32,443 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 15:14:32,821 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 15:14:32,835 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 15:14:32,853 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:15:33,951 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 15:15:33,958 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 15:15:38,984 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 15:15:39,338 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 15:15:39,886 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 15:15:39,903 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:16:40,255 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 15:16:40,261 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 15:16:45,292 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 15:16:45,653 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 15:16:46,670 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 15:16:46,692 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:17:22,527 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 15:17:22,534 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 15:17:27,479 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 15:17:27,832 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 15:17:28,975 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 15:17:28,993 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:37:21,003 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 15:37:21,009 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 15:37:26,077 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 15:37:26,454 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 15:37:26,483 INFO  [CadastraUsuarioTest] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:37:26,486 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 15:37:26,486 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 15:37:26,487 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:38:14,662 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 15:38:14,668 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 15:38:20,110 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 15:38:20,457 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 15:40:10,731 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 15:40:10,746 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 15:40:15,908 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 15:40:16,261 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 15:40:16,290 INFO  [CadastraUsuarioTest] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:40:16,293 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 15:40:16,293 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 15:40:16,294 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:42:34,639 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 15:42:34,655 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 15:42:39,693 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 15:42:40,060 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 15:42:40,089 INFO  [CadastraUsuarioTest] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:42:40,092 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 15:42:40,092 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 15:42:40,093 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:44:55,168 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 15:44:55,183 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 15:45:01,096 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 15:45:01,442 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 15:45:01,471 INFO  [CadastraUsuarioTest] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:45:01,473 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 15:45:01,473 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 15:45:01,474 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:48:13,423 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 15:48:13,440 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 15:48:18,558 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 15:48:18,914 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 15:48:18,942 INFO  [CadastraUsuarioTest] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:48:18,944 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 15:48:18,945 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-10 15:48:18,945 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:48:48,956 INFO  [Home_Modulo] Um comando de espera de 30 segundos foi aplicado 
+2020-01-10 15:51:46,154 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 15:51:46,170 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 15:51:51,313 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 15:51:51,653 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 15:51:51,685 INFO  [CadastraUsuarioTest] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:51:51,687 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 15:51:51,687 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 15:52:21,688 INFO  [Home_Modulo] Um comando de espera de 30 segundos foi aplicado 
+2020-01-10 18:22:09,669 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 18:22:09,677 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 18:22:20,102 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 18:22:20,569 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 18:22:20,603 INFO  [CadastraUsuarioTest] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 18:22:20,606 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 18:22:20,607 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 18:22:50,608 INFO  [Home_Modulo] Um comando de espera de 30 segundos foi aplicado 
+2020-01-10 18:25:09,559 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 18:25:09,568 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 18:25:15,135 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 18:25:15,698 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 18:25:15,739 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 18:25:15,740 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 18:25:45,741 INFO  [Home_Modulo] Um comando de espera de 30 segundos foi aplicado 
+2020-01-10 18:29:47,375 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 18:29:47,387 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 18:29:53,035 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 18:29:54,025 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 18:29:54,111 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 18:29:54,112 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 18:30:24,113 INFO  [Home_Modulo] Um comando de espera de 30 segundos foi aplicado 
+2020-01-10 18:31:46,157 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 18:31:46,169 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 18:31:47,397 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 18:31:48,177 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 18:31:48,207 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 18:31:48,207 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 18:32:18,210 INFO  [Home_Modulo] Um comando de espera de 30 segundos foi aplicado 
+2020-01-10 18:33:13,348 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 18:33:13,363 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 18:33:14,855 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 18:33:15,817 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 18:33:15,854 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 18:33:15,854 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 18:33:45,858 INFO  [Home_Modulo] Um comando de espera de 30 segundos foi aplicado 
+2020-01-10 18:35:10,672 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 18:35:10,685 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 18:35:12,161 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 18:35:12,986 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 18:35:13,050 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 18:35:13,052 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 18:35:43,055 INFO  [Home_Modulo] Um comando de espera de 30 segundos foi aplicado 
+2020-01-10 18:36:18,818 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 18:36:18,826 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 18:36:20,284 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 18:36:20,746 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 18:36:20,776 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 18:36:20,778 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 18:36:50,782 INFO  [Home_Modulo] Um comando de espera de 30 segundos foi aplicado 
+2020-01-10 18:37:42,314 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 18:37:42,332 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 18:37:43,585 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 18:37:44,685 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 18:37:44,776 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 18:37:44,780 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 18:38:14,783 INFO  [Home_Modulo] Um comando de espera de 30 segundos foi aplicado 
+2020-01-10 18:39:49,870 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 18:39:49,882 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 18:39:51,319 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 18:39:52,299 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 18:39:52,376 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 18:39:52,380 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 18:40:22,382 INFO  [Home_Modulo] Um comando de espera de 30 segundos foi aplicado 
+2020-01-10 18:41:27,445 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 18:41:27,461 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 18:41:29,009 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 18:41:29,859 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 18:41:29,904 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 18:41:29,909 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 18:42:39,019 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 18:42:39,031 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 18:42:40,612 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 18:42:41,512 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 18:42:41,577 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 18:42:41,578 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 18:43:28,448 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 18:43:28,460 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 18:43:29,806 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 18:43:30,632 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 18:43:30,698 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 18:43:30,702 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-10 18:44:38,231 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-10 18:44:38,240 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-10 18:44:39,288 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-10 18:44:39,814 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-10 18:44:39,846 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-10 18:44:39,848 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 16:18:32,110 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-11 16:18:32,117 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 16:18:33,888 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-11 16:18:34,340 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-11 16:18:34,373 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-11 16:18:34,374 INFO  [Home_Modulo] A pagina de objetos do módulo home foi iniciada 
+2020-01-11 16:18:34,376 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 16:26:18,226 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-11 16:26:18,239 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 16:26:20,514 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-11 16:26:21,313 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-11 16:26:21,354 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-11 16:26:21,357 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 16:26:51,357 INFO  [Home_Modulo] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-11 16:30:20,066 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-11 16:30:20,079 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 16:30:21,551 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-11 16:30:22,265 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-11 16:30:22,298 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-11 16:30:22,299 INFO  [CadastraUsuarioTest] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 16:30:52,300 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-11 16:32:06,779 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-11 16:32:06,792 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 16:32:08,000 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-11 16:32:08,450 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-11 16:32:08,507 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-11 16:32:08,510 INFO  [CadastraUsuarioTest] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 16:32:38,510 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-11 16:35:50,261 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-11 16:35:50,274 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 16:35:51,837 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-11 16:35:52,746 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-11 16:35:52,782 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-11 16:35:52,784 INFO  [CadastraUsuarioTest] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 16:36:22,785 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-11 16:37:35,186 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-11 16:37:35,195 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 16:37:36,843 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-11 16:37:37,382 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-11 16:37:37,426 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-11 16:37:37,428 INFO  [CadastraUsuarioTest] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 16:38:07,428 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-11 16:38:54,064 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-11 16:38:54,078 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 16:38:55,584 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-11 16:38:56,221 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-11 16:38:56,277 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-11 16:38:56,279 INFO  [CadastraUsuarioTest] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 16:39:26,280 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-11 16:39:53,092 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-11 16:39:53,099 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 16:39:54,314 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-11 16:39:55,342 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-11 16:39:55,423 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-11 16:39:55,426 INFO  [CadastraUsuarioTest] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 16:40:10,426 INFO  [CadastraUsuarioTest] Foi aplicado um comando de espera para aguardar pelo elemento ser clicável 
+2020-01-11 16:47:00,484 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-11 16:47:00,498 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 16:47:06,122 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-11 16:47:06,788 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-11 16:47:06,793 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 20 segundos 
+2020-01-11 16:47:06,813 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-11 16:47:06,814 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 16:52:15,978 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-11 16:52:15,984 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 16:52:22,887 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-11 16:52:23,838 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-11 16:52:23,842 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 20 segundos 
+2020-01-11 16:52:23,866 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 16:57:50,564 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-11 16:57:50,576 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 16:57:54,704 INFO  [CadastraUsuarioTest] A janela foi maximizada 
+2020-01-11 16:57:55,956 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-11 16:57:56,434 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-11 16:57:56,436 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 20 segundos 
+2020-01-11 16:57:56,452 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-11 16:57:56,453 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 17:05:08,355 INFO  [teste_cadastraPage] O navegador Chrome foi inicializado 
+2020-01-11 17:05:08,370 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 17:05:12,528 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 17:05:13,888 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 17:05:14,622 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 17:05:14,627 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 20 segundos 
+2020-01-11 17:05:14,649 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 17:25:25,512 INFO  [teste_cadastraPage] O navegador Chrome foi inicializado 
+2020-01-11 17:25:25,520 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 17:25:29,680 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 17:25:31,507 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 17:25:32,365 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 17:25:32,376 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 20 segundos 
+2020-01-11 17:25:32,405 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 17:26:07,147 INFO  [teste_cadastraPage] O navegador Chrome foi inicializado 
+2020-01-11 17:26:07,160 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 17:26:11,296 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 17:26:12,683 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 17:26:13,155 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 17:26:13,160 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 20 segundos 
+2020-01-11 17:26:13,192 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 17:26:38,352 INFO  [teste_cadastraPage] O navegador Chrome foi inicializado 
+2020-01-11 17:26:38,364 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 17:26:42,497 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 17:26:43,871 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 17:26:44,367 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 17:26:44,372 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 20 segundos 
+2020-01-11 17:26:44,397 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 17:29:02,537 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-11 17:29:02,549 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 17:29:06,707 INFO  [CadastraUsuarioTest] A janela foi maximizada 
+2020-01-11 17:29:08,087 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-11 17:29:08,974 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-11 17:29:08,979 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 20 segundos 
+2020-01-11 17:29:09,013 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-11 17:29:09,014 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 17:29:56,539 INFO  [teste_cadastraPage] O navegador Chrome foi inicializado 
+2020-01-11 17:29:56,549 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 17:30:00,699 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 17:30:01,869 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 17:30:02,320 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 17:30:02,325 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 20 segundos 
+2020-01-11 17:30:02,347 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 17:31:25,869 INFO  [teste_cadastraPage] O navegador Chrome foi inicializado 
+2020-01-11 17:31:25,876 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 17:31:30,042 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 17:31:31,491 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 17:31:32,309 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 17:31:32,313 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 20 segundos 
+2020-01-11 17:31:32,346 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 17:33:24,214 INFO  [teste_cadastraPage] O navegador Chrome foi inicializado 
+2020-01-11 17:33:24,222 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 17:33:28,372 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 17:33:29,750 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 17:33:30,509 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 17:33:30,513 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 20 segundos 
+2020-01-11 17:33:30,560 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 17:33:30,966 INFO  [teste_cadastraPage] O pop up foi clicado 
+2020-01-11 18:14:08,192 INFO  [teste_cadastraPage] O navegador Chrome foi inicializado 
+2020-01-11 18:14:08,198 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 18:14:12,325 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 18:14:14,646 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 18:14:15,056 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 18:14:15,058 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 20 segundos 
+2020-01-11 18:14:15,076 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 18:14:15,691 INFO  [teste_cadastraPage] O pop up foi clicado 
+2020-01-11 18:14:15,698 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura 
+2020-01-11 18:17:59,161 INFO  [teste_cadastraPage] O navegador Chrome foi inicializado 
+2020-01-11 18:17:59,167 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 18:18:03,288 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 18:18:04,728 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 18:18:05,121 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 18:18:05,123 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 20 segundos 
+2020-01-11 18:18:05,141 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 18:18:05,848 INFO  [teste_cadastraPage] O pop up foi clicado 
+2020-01-11 18:18:05,855 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura 
+2020-01-11 18:19:26,743 INFO  [teste_cadastraPage] O navegador Chrome foi inicializado 
+2020-01-11 18:19:26,750 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 18:19:30,879 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 18:19:32,279 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 18:19:32,646 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 18:19:32,649 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 20 segundos 
+2020-01-11 18:19:32,668 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 18:19:33,360 INFO  [teste_cadastraPage] O pop up foi clicado 
+2020-01-11 18:19:33,367 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura 
+2020-01-11 18:21:09,619 INFO  [CadastraUsuarioTest] O navegador Chrome foi inicializado 
+2020-01-11 18:21:09,625 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 18:21:13,768 INFO  [CadastraUsuarioTest] A janela foi maximizada 
+2020-01-11 18:21:15,194 INFO  [CadastraUsuarioTest] O Website foi acessado 
+2020-01-11 18:21:15,595 INFO  [CadastraUsuarioTest] O arquivo do excel foi configurado 
+2020-01-11 18:21:15,599 INFO  [CadastraUsuarioTest] Foi aplicado no driver um comando de espera por 20 segundos 
+2020-01-11 18:21:15,614 INFO  [CadastraUsuarioTest] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-11 18:21:15,615 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 18:21:41,498 INFO  [teste_cadastraPage] O navegador Chrome foi inicializado 
+2020-01-11 18:21:41,503 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 18:21:55,265 INFO  [teste_cadastraPage] O navegador Chrome foi inicializado 
+2020-01-11 18:21:55,270 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 13 segundos 
+2020-01-11 18:21:59,411 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 18:22:00,432 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 18:22:00,783 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 18:22:00,787 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 20 segundos 
+2020-01-11 18:22:00,806 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 18:22:01,523 INFO  [teste_cadastraPage] O pop up foi clicado 
+2020-01-11 18:22:01,528 INFO  [teste_cadastraPage] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-11 18:22:01,533 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura 
+2020-01-11 18:22:01,855 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-11 18:22:01,855 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-11 18:22:02,155 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-11 18:22:02,156 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-11 18:22:02,299 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-11 18:22:02,299 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-11 18:22:02,448 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-11 18:22:02,448 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-11 18:22:02,586 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-11 18:22:02,586 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-11 18:22:02,699 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-11 18:22:02,700 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é  
+2020-01-11 18:22:05,534 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 18:47:38,722 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 18:47:45,122 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 18:47:45,129 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 18:47:49,270 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 18:47:51,169 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 18:47:51,555 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 18:47:51,558 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 18:47:51,571 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 18:47:51,572 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 18:47:51,572 INFO  [teste_cadastraPage] Ocorreu uma exceção 
+2020-01-11 18:47:51,573 INFO  [teste_cadastraPage] Foi impresso o caminho do erro 
+2020-01-11 18:49:18,354 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 18:49:24,714 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 18:49:24,720 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 18:49:28,862 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 18:49:30,197 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 18:49:30,593 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 18:49:30,596 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 18:49:30,613 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 18:49:30,613 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 18:50:55,964 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 18:51:02,391 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 18:51:02,397 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 18:51:06,535 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 18:51:07,991 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 18:51:08,375 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 18:51:08,379 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 18:51:08,392 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 18:51:08,393 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 18:53:59,367 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 18:54:05,689 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 18:54:05,695 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 18:54:09,840 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 18:54:11,101 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 18:54:11,489 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 18:54:11,492 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 18:54:11,507 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 18:56:02,580 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 18:56:02,581 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 18:56:08,944 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 18:56:08,949 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 18:56:13,084 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 18:56:14,335 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 18:56:14,775 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 18:56:14,778 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 18:56:14,794 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 18:57:34,861 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 18:57:34,861 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 18:57:41,225 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 18:57:41,230 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 18:57:45,359 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 18:57:46,649 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 18:57:47,044 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 18:57:47,048 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 18:57:47,062 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:01:26,309 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:01:26,309 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:01:32,667 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 19:01:32,671 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:01:36,796 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 19:01:38,191 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 19:01:38,583 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 19:01:38,586 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:01:38,601 INFO  [Home_Modulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:02:27,989 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:02:27,989 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:02:34,366 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 19:02:34,374 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:02:38,518 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 19:02:39,928 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 19:02:40,353 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 19:02:40,357 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:02:40,373 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:03:24,215 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:03:24,216 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:03:30,610 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 19:03:30,616 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:03:34,742 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 19:03:36,104 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 19:03:36,530 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 19:03:36,533 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:03:36,547 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:05:16,017 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:05:16,017 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:05:22,375 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 19:05:22,380 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:05:26,503 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 19:05:27,753 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 19:05:28,165 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 19:05:28,168 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:05:28,183 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:05:28,183 INFO  [teste_cadastraPage] Ocorreu uma exceção 
+2020-01-11 19:05:28,185 INFO  [teste_cadastraPage] Foi impresso o caminho do erro 
+2020-01-11 19:06:42,796 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:06:42,797 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:06:49,165 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 19:06:49,170 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:06:53,293 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 19:06:54,601 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 19:06:55,057 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 19:06:55,061 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:06:55,079 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:06:57,398 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:06:57,399 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:07:16,228 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:07:16,228 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:07:22,540 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 19:07:22,545 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:07:26,680 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 19:07:27,714 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 19:07:28,111 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 19:07:28,115 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:07:28,130 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:07:28,131 INFO  [teste_cadastraPage] Ocorreu uma exceção 
+2020-01-11 19:07:28,132 INFO  [teste_cadastraPage] Foi impresso o caminho do erro 
+2020-01-11 19:08:40,171 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:08:40,171 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:08:46,556 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 19:08:46,561 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:08:50,684 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 19:08:51,872 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 19:08:52,289 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 19:08:52,294 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:08:52,308 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:08:52,309 INFO  [teste_cadastraPage] Ocorreu uma exceção 
+2020-01-11 19:08:52,310 INFO  [teste_cadastraPage] Foi impresso o caminho do erro 
+2020-01-11 19:10:04,060 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:10:04,061 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:10:10,456 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 19:10:10,460 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:10:14,581 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 19:10:15,737 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 19:10:16,177 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 19:10:16,181 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:10:16,196 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:10:16,649 INFO  [teste_cadastraPage] Ocorreu uma exceção 
+2020-01-11 19:10:16,651 INFO  [teste_cadastraPage] Foi impresso o caminho do erro 
+2020-01-11 19:11:18,178 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:11:18,179 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:11:24,522 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 19:11:24,529 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:11:28,653 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 19:11:29,701 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 19:11:30,127 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 19:11:30,129 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:11:30,144 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:11:30,726 INFO  [teste_cadastraPage] Ocorreu uma exceção 
+2020-01-11 19:11:30,727 INFO  [teste_cadastraPage] Foi impresso o caminho do erro 
+2020-01-11 19:12:14,341 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:12:14,341 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:12:20,501 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:12:20,501 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:12:26,881 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 19:12:26,887 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:12:31,034 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 19:12:32,165 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 19:12:32,558 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 19:12:32,561 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:12:32,576 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:12:33,140 INFO  [teste_cadastraPage] Ocorreu uma exceção 
+2020-01-11 19:12:33,141 INFO  [teste_cadastraPage] Foi impresso o caminho do erro 
+2020-01-11 19:14:06,667 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:14:06,667 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:14:13,056 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 19:14:13,062 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:14:17,200 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 19:14:18,467 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 19:14:18,873 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 19:14:18,877 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:14:18,894 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:14:19,392 INFO  [teste_cadastraPage] Ocorreu uma exceção 
+2020-01-11 19:14:19,394 INFO  [teste_cadastraPage] Foi impresso o caminho do erro 
+2020-01-11 19:15:20,557 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:15:20,557 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:15:26,947 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 19:15:26,952 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:15:31,089 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 19:15:32,489 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 19:15:32,906 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 19:15:32,908 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:15:32,923 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:15:33,418 INFO  [Home_Modulo] O link minha conta foi acessado 
+2020-01-11 19:15:53,419 INFO  [Home_Modulo] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-11 19:15:53,419 INFO  [teste_cadastraPage] Ocorreu uma exceção 
+2020-01-11 19:15:53,421 INFO  [teste_cadastraPage] Foi impresso o caminho do erro 
+2020-01-11 19:16:24,836 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:16:24,836 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:16:31,264 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 19:16:31,269 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:16:35,389 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 19:16:37,036 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 19:16:37,466 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 19:16:37,469 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:16:37,485 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:16:37,959 INFO  [Home_Modulo] O link minha conta foi acessado 
+2020-01-11 19:16:54,608 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:16:54,608 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:16:57,964 INFO  [Home_Modulo] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-11 19:16:57,964 INFO  [teste_cadastraPage] Ocorreu uma exceção 
+2020-01-11 19:16:57,969 INFO  [teste_cadastraPage] Foi impresso o caminho do erro 
+2020-01-11 19:17:01,273 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 19:17:01,289 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:17:05,425 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 19:17:06,561 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 19:17:07,019 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 19:17:07,024 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:17:07,038 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:17:07,491 INFO  [Home_Modulo] O link minha conta foi acessado 
+2020-01-11 19:17:27,491 INFO  [Home_Modulo] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-11 19:17:27,491 INFO  [teste_cadastraPage] Ocorreu uma exceção 
+2020-01-11 19:17:27,496 INFO  [teste_cadastraPage] Foi impresso o caminho do erro 
+2020-01-11 19:18:25,557 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:18:25,557 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:18:32,145 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 19:18:32,157 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:18:36,299 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 19:18:45,609 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 19:18:46,449 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 19:18:46,455 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:18:46,480 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:18:46,480 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:18:46,735 INFO  [Home_Modulo] O link minha conta foi acessado 
+2020-01-11 19:19:06,737 INFO  [Home_Modulo] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-11 19:19:06,737 INFO  [teste_cadastraPage] Ocorreu uma exceção 
+2020-01-11 19:19:06,742 INFO  [teste_cadastraPage] Foi impresso o caminho do erro 
+2020-01-11 19:19:06,742 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:19:55,957 INFO  [teste_cadastraPage] Configurado arquivo de registros de log 
+2020-01-11 19:19:55,957 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:20:02,910 INFO  [teste_cadastraPage] Inicialização do navegador Chrome 
+2020-01-11 19:20:02,918 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:20:07,057 INFO  [teste_cadastraPage] A janela foi maximizada 
+2020-01-11 19:20:14,869 INFO  [teste_cadastraPage] O Website foi acessado 
+2020-01-11 19:20:15,679 INFO  [teste_cadastraPage] O arquivo do excel foi configurado 
+2020-01-11 19:20:15,689 INFO  [teste_cadastraPage] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-11 19:20:15,726 INFO  [teste_cadastraPage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-11 19:20:15,726 INFO  [teste_cadastraPage] Realizada a configuração do driver 
+2020-01-11 19:20:15,952 INFO  [Home_Modulo] O link minha conta foi acessado 
+2020-01-11 19:20:35,953 INFO  [Home_Modulo] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-11 19:20:35,954 INFO  [teste_cadastraPage] Ocorreu uma exceção 
+2020-01-11 19:20:35,957 INFO  [teste_cadastraPage] Foi impresso o caminho do erro 
+2020-01-11 19:20:35,957 INFO  [teste_cadastraPage] Realizada a configuração do driver 

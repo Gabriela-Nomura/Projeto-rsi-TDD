@@ -1,4 +1,4 @@
-package br.com.rsinet.hub_TDD.pageObject;
+package br.com.rsinet.hub_TDD.pageFactory;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -30,7 +30,7 @@ public class Cadastra_Page {
 	 @FindBy(how = How.NAME, using = "last_nameRegisterPage")
 	 public static WebElement ultimoNome;
 	 
-	 @FindBy(how = How.XPATH, using = "phone_numberRegisterPage")
+	 @FindBy(how = How.NAME, using = "phone_numberRegisterPage")
 	public static WebElement telefoneUsuario;
 	
 	//Addresss

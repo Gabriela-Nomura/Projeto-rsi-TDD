@@ -5,6 +5,8 @@
     <classes>
       <class name="br.com.rsinet.hub_TDD.testes.CadastraUsuarioTest">
         <methods>
+          <include name="encerra"/>
+          <include name="beforeMethod"/>
           <include name="test"/>
         </methods>
       </class> <!-- br.com.rsinet.hub_TDD.testes.CadastraUsuarioTest -->
