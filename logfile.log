@@ -2088,3 +2088,1143 @@
 2020-01-13 12:56:53,826 INFO  [ModuloCadastra] Insere o CEP do usuário 
 2020-01-13 12:56:53,983 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
 2020-01-13 12:56:53,986 INFO  [TesteCadastraNovoUser] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 13:15:03,145 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 13:15:03,145 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 13:15:09,535 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 13:15:09,543 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 13:15:13,677 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 13:15:15,658 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 13:15:21,983 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 13:15:21,984 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 13:15:28,367 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 13:15:28,373 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 13:15:32,500 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 13:15:33,887 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 13:17:11,964 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 13:17:11,964 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 13:17:18,369 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 13:17:18,374 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 13:17:22,496 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 13:17:23,562 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 13:17:23,578 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 13:18:41,312 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 13:18:41,312 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 13:18:47,712 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 13:18:47,718 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 13:18:51,846 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 13:18:52,776 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 13:18:52,792 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 13:22:26,823 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 13:22:26,823 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 13:22:33,220 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 13:22:33,226 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 13:22:37,349 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 13:22:38,369 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 13:22:38,373 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 13:23:21,218 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 13:23:21,218 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 13:23:27,596 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 13:23:27,602 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 13:23:31,726 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 13:23:32,636 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 13:23:32,646 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 13:23:32,665 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 13:25:13,386 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 13:25:13,386 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 13:25:19,799 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 13:25:19,804 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 13:25:23,937 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 13:25:24,915 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 13:25:24,921 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 13:25:24,937 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 13:31:07,791 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 13:31:07,792 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 13:31:14,166 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 13:31:14,172 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 13:31:18,316 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 13:31:19,254 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 13:31:19,260 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 13:31:19,274 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 13:31:51,404 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 13:31:51,405 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 13:31:57,788 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 13:31:57,792 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 13:32:01,934 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 13:32:03,875 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 13:32:03,883 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 13:32:03,898 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 13:38:57,436 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 13:38:57,436 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 13:39:03,814 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 13:39:03,821 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 13:39:42,617 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 13:39:42,618 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 13:39:49,011 INFO  [TesteCadastraNovoUser] Inicialização do navegador Chrome 
+2020-01-13 13:39:49,016 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 13:39:53,158 INFO  [TesteCadastraNovoUser] A janela foi maximizada 
+2020-01-13 13:39:54,141 INFO  [TesteCadastraNovoUser] O Website foi acessado 
+2020-01-13 13:39:54,541 INFO  [TesteCadastraNovoUser] O arquivo do excel foi configurado 
+2020-01-13 13:39:54,544 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 13:39:54,561 INFO  [ModuloHomePage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 13:39:54,567 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 20 segundos 
+2020-01-13 13:39:55,012 INFO  [ModuloHomePage] O link minha conta foi acessado 
+2020-01-13 13:40:10,013 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 13:40:10,097 INFO  [ModuloHomePage] O link nova conta recebeu um clique 
+2020-01-13 13:40:10,102 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 10 segundos 
+2020-01-13 13:40:10,102 INFO  [TesteCadastraNovoUser] O modulo da página inicial foi executado com sucesso 
+2020-01-13 13:40:10,105 INFO  [ModuloCadastra] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-13 13:40:10,112 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura6 
+2020-01-13 13:40:10,484 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-13 13:40:10,485 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-13 13:40:10,747 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-13 13:40:10,747 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 13:40:10,921 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-13 13:40:10,922 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 13:40:11,080 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-13 13:40:11,080 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-13 13:40:11,225 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-13 13:40:11,225 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-13 13:40:11,355 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-13 13:40:11,356 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-13 13:40:11,534 INFO  [ModuloCadastra] Insere o telefone do usuário 
+2020-01-13 13:40:11,647 INFO  [ModuloCadastra] Seleciona a caixa de país 
+2020-01-13 13:40:11,698 INFO  [ModuloCadastra] Instancia um objeto select para manipulação do objeto 
+2020-01-13 13:40:11,701 INFO  [ModuloCadastra] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 13:40:11,776 INFO  [ModuloCadastra] A cidade obtida do excel é Osasco 
+2020-01-13 13:40:11,912 INFO  [ModuloCadastra] Insere a cidade do usuário 
+2020-01-13 13:40:11,912 INFO  [ModuloCadastra] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-13 13:40:12,211 INFO  [ModuloCadastra] Insere o endereço do usuário 
+2020-01-13 13:40:12,211 INFO  [ModuloCadastra] O estado obtido do excel é São Paulo 
+2020-01-13 13:40:12,347 INFO  [ModuloCadastra] Insere o estado do usuário 
+2020-01-13 13:40:12,348 INFO  [ModuloCadastra] O endereço obtida do excel é "6160450" 
+2020-01-13 13:40:12,496 INFO  [ModuloCadastra] Insere o CEP do usuário 
+2020-01-13 13:40:12,654 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
+2020-01-13 13:40:12,657 INFO  [TesteCadastraNovoUser] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 13:40:25,006 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 13:40:25,006 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 13:40:31,392 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 13:40:31,397 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 13:40:35,534 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 13:40:36,638 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 13:40:37,076 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 13:40:37,079 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 13:40:37,094 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 13:40:37,578 INFO  [TestBuscaLupa] O nome de usuário obtido do excel é Tablet HP 
+2020-01-13 13:40:37,724 INFO  [TestBuscaLupa] Insere parametros na busca 
+2020-01-13 13:41:37,937 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 13:41:37,937 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 13:41:44,375 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 13:41:44,381 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 13:41:48,512 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 13:41:49,468 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 13:41:49,878 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 13:41:49,882 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 13:41:49,896 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 13:41:50,366 INFO  [TestBuscaLupa] O nome de usuário obtido do excel é Tablet HP 
+2020-01-13 13:41:50,523 INFO  [TestBuscaLupa] Insere parametros na busca 
+2020-01-13 13:54:05,339 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 13:54:05,339 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 13:54:11,701 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 13:54:11,706 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 13:54:15,831 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 13:54:17,374 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 13:54:17,826 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 13:54:17,831 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 13:54:17,846 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 13:54:18,260 INFO  [TestBuscaLupa] O nome de usuário obtido do excel é Tablet 
+2020-01-13 13:54:18,389 INFO  [TestBuscaLupa] Insere parametros na busca 
+2020-01-13 13:54:19,458 INFO  [TestBuscaLupa] Clica no elemento que foi buscado 
+2020-01-13 14:00:00,535 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 14:00:00,535 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 14:00:06,942 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 14:00:06,948 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 14:00:11,084 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 14:00:11,970 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 14:00:12,425 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 14:00:12,429 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 14:00:12,448 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 14:00:12,866 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEPAD 1000 G2 TABLET 
+2020-01-13 14:00:13,233 INFO  [TestBuscaLupa] Insere parametros na busca 
+2020-01-13 14:00:14,798 INFO  [TestBuscaLupa] Clica no elemento que foi buscado 
+2020-01-13 14:14:30,363 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 14:14:30,363 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 14:14:36,754 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 14:14:36,759 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 14:14:40,882 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 14:14:41,777 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 14:14:42,209 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 14:14:42,212 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 14:14:42,228 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 14:14:42,692 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEPAD 1000 G2 TABLET 
+2020-01-13 14:14:43,005 INFO  [TestBuscaLupa] Insere parametros na busca 
+2020-01-13 14:14:44,574 INFO  [TestBuscaLupa] Clica no elemento que foi buscado 
+2020-01-13 14:17:06,099 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 14:17:06,099 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 14:17:12,444 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 14:17:12,449 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 14:17:16,589 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 14:17:17,782 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 14:17:18,239 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 14:17:18,243 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 14:17:18,260 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 14:17:18,657 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEPAD 1000 G2 TABLET 
+2020-01-13 14:17:18,966 INFO  [TestBuscaLupa] Insere parametros na busca 
+2020-01-13 14:17:20,723 INFO  [TestBuscaLupa] Clica no elemento que foi buscado 
+2020-01-13 14:17:45,568 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 14:17:45,569 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 14:17:51,960 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 14:17:51,968 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 14:17:56,092 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 14:17:56,964 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 14:17:57,397 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 14:17:57,401 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 14:17:57,418 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 14:17:57,845 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEPAD 1000 G2 TABLET 
+2020-01-13 14:17:58,163 INFO  [TestBuscaLupa] Insere parametros na busca 
+2020-01-13 14:17:59,825 INFO  [TestBuscaLupa] Clica no elemento que foi buscado 
+2020-01-13 14:19:18,331 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 14:19:18,331 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 14:19:24,734 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 14:19:24,740 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 14:19:28,886 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 14:19:29,918 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 14:19:30,371 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 14:19:30,376 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 14:19:30,392 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 14:19:30,787 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEPAD 1000 G2 TABLET 
+2020-01-13 14:19:31,118 INFO  [TestBuscaLupa] Insere parametros na busca 
+2020-01-13 14:19:32,770 INFO  [TestBuscaLupa] Clica no elemento que foi buscado 
+2020-01-13 14:45:33,092 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 14:45:33,092 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 14:45:39,479 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 14:45:39,483 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 14:45:43,604 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 14:45:44,702 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 14:45:45,120 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 14:45:45,124 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 14:45:45,141 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 14:45:45,562 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEPAD 1000 G2 TABLET 
+2020-01-13 14:45:45,867 INFO  [TestBuscaLupa] Insere parametros na busca 
+2020-01-13 14:45:47,565 INFO  [TestBuscaLupa] Clica no elemento que foi buscado 
+2020-01-13 15:21:36,755 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 15:21:36,755 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 15:21:43,422 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 15:21:43,432 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 15:21:47,608 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 15:21:48,932 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 15:21:49,742 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 15:21:49,746 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 15:21:49,768 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 15:24:26,464 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 15:24:26,464 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 15:24:32,941 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 15:24:32,948 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 15:24:37,099 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 15:24:38,350 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 15:24:39,184 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 15:24:39,188 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 15:24:39,213 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 15:24:56,261 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 15:24:56,261 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 15:25:02,771 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 15:25:02,779 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 15:25:06,923 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 15:25:07,807 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 15:25:08,312 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 15:25:08,317 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 15:25:08,337 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 15:25:32,260 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 15:25:32,261 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 15:25:38,920 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 15:25:38,928 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 15:25:43,095 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 15:25:44,052 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 15:25:44,899 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 15:25:44,904 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 15:25:44,939 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 15:25:45,208 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEPAD 1000 G2 TABLET 
+2020-01-13 15:25:45,559 INFO  [TestBuscaLupa] Insere parametros na busca 
+2020-01-13 15:25:47,365 INFO  [TestBuscaLupa] Clica no elemento que foi buscado 
+2020-01-13 15:37:22,702 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 15:37:22,702 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 15:37:29,244 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 15:37:29,252 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 15:37:33,431 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 15:37:34,712 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 15:37:35,692 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 15:37:35,721 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 15:37:38,499 INFO  [BuscaCliqueModulo] O nome de pesquisa obtido do excel é  
+2020-01-13 15:39:13,134 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 15:39:13,134 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 15:39:19,696 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 15:39:19,706 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 15:39:23,874 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 15:39:24,824 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 15:39:25,403 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 15:39:25,429 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 15:39:30,479 INFO  [BuscaCliqueModulo] Insere parametros na busca 
+2020-01-13 15:39:30,488 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 15:39:30,489 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 15:47:54,846 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 15:47:54,847 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 15:48:01,397 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 15:48:01,405 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 15:48:05,571 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 15:48:06,780 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 15:48:07,306 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 15:48:25,496 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 15:48:25,497 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 15:48:31,937 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 15:48:31,947 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 15:48:36,105 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 15:48:37,292 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 15:48:38,101 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 15:48:38,117 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 15:48:40,967 INFO  [BuscaCliqueModulo] Clica na categoria Headphones 
+2020-01-13 15:48:42,111 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-13 15:48:42,119 INFO  [BuscaCliqueModulo] Aguarda 10s 
+2020-01-13 15:48:42,488 INFO  [BuscaCliqueModulo] Adiciona o item ao carriho 
+2020-01-13 15:48:42,993 INFO  [TestBuscaLupa] O módulo de busca por clique foi executado com sucesso 
+2020-01-13 15:48:43,001 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 16:00:46,587 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 16:00:46,587 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 16:00:52,974 INFO  [TesteCadastraNovoUser] Inicialização do navegador Chrome 
+2020-01-13 16:00:52,980 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:00:57,101 INFO  [TesteCadastraNovoUser] A janela foi maximizada 
+2020-01-13 16:00:58,286 INFO  [TesteCadastraNovoUser] O Website foi acessado 
+2020-01-13 16:00:58,757 INFO  [TesteCadastraNovoUser] O arquivo do excel foi configurado 
+2020-01-13 16:00:58,760 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:00:58,782 INFO  [ModuloHomePage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:00:58,786 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 20 segundos 
+2020-01-13 16:00:59,184 INFO  [ModuloHomePage] O link minha conta foi acessado 
+2020-01-13 16:01:14,185 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 16:01:14,273 INFO  [ModuloHomePage] O link nova conta recebeu um clique 
+2020-01-13 16:01:14,278 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 10 segundos 
+2020-01-13 16:01:14,278 INFO  [TesteCadastraNovoUser] O modulo da página inicial foi executado com sucesso 
+2020-01-13 16:01:14,282 INFO  [ModuloCadastra] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-13 16:01:14,291 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura6 
+2020-01-13 16:01:14,663 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-13 16:01:14,663 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-13 16:01:14,944 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-13 16:01:14,944 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:01:15,147 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-13 16:01:15,148 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:01:15,304 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-13 16:01:15,304 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-13 16:01:15,441 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-13 16:01:15,441 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-13 16:01:15,580 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-13 16:01:15,580 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-13 16:01:15,749 INFO  [ModuloCadastra] Insere o telefone do usuário 
+2020-01-13 16:01:15,871 INFO  [ModuloCadastra] Seleciona a caixa de país 
+2020-01-13 16:01:15,922 INFO  [ModuloCadastra] Instancia um objeto select para manipulação do objeto 
+2020-01-13 16:01:15,926 INFO  [ModuloCadastra] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:01:16,006 INFO  [ModuloCadastra] A cidade obtida do excel é Osasco 
+2020-01-13 16:01:16,144 INFO  [ModuloCadastra] Insere a cidade do usuário 
+2020-01-13 16:01:16,144 INFO  [ModuloCadastra] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-13 16:01:16,440 INFO  [ModuloCadastra] Insere o endereço do usuário 
+2020-01-13 16:01:16,440 INFO  [ModuloCadastra] O estado obtido do excel é São Paulo 
+2020-01-13 16:01:16,560 INFO  [ModuloCadastra] Insere o estado do usuário 
+2020-01-13 16:01:16,560 INFO  [ModuloCadastra] O endereço obtida do excel é "6160450" 
+2020-01-13 16:01:16,694 INFO  [ModuloCadastra] Insere o CEP do usuário 
+2020-01-13 16:01:16,841 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
+2020-01-13 16:01:16,844 INFO  [TesteCadastraNovoUser] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 16:03:42,492 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 16:03:42,492 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 16:03:48,889 INFO  [TesteCadastraNovoUser] Inicialização do navegador Chrome 
+2020-01-13 16:03:48,894 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:03:53,012 INFO  [TesteCadastraNovoUser] A janela foi maximizada 
+2020-01-13 16:03:54,362 INFO  [TesteCadastraNovoUser] O Website foi acessado 
+2020-01-13 16:03:54,784 INFO  [TesteCadastraNovoUser] O arquivo do excel foi configurado 
+2020-01-13 16:03:54,787 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:03:54,803 INFO  [ModuloHomePage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:03:54,807 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 20 segundos 
+2020-01-13 16:03:55,265 INFO  [ModuloHomePage] O link minha conta foi acessado 
+2020-01-13 16:04:10,265 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 16:04:10,355 INFO  [ModuloHomePage] O link nova conta recebeu um clique 
+2020-01-13 16:04:10,358 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 10 segundos 
+2020-01-13 16:04:10,358 INFO  [TesteCadastraNovoUser] O modulo da página inicial foi executado com sucesso 
+2020-01-13 16:04:10,362 INFO  [ModuloCadastra] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-13 16:04:10,372 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura6 
+2020-01-13 16:04:10,733 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-13 16:04:10,734 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-13 16:04:11,021 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-13 16:04:11,021 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:04:11,213 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-13 16:04:11,213 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:04:11,371 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-13 16:04:11,372 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-13 16:04:11,512 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-13 16:04:11,513 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-13 16:04:11,639 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-13 16:04:11,639 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-13 16:04:11,821 INFO  [ModuloCadastra] Insere o telefone do usuário 
+2020-01-13 16:04:11,944 INFO  [ModuloCadastra] Seleciona a caixa de país 
+2020-01-13 16:04:11,996 INFO  [ModuloCadastra] Instancia um objeto select para manipulação do objeto 
+2020-01-13 16:04:12,002 INFO  [ModuloCadastra] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:04:12,085 INFO  [ModuloCadastra] A cidade obtida do excel é Osasco 
+2020-01-13 16:04:12,227 INFO  [ModuloCadastra] Insere a cidade do usuário 
+2020-01-13 16:04:12,227 INFO  [ModuloCadastra] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-13 16:04:12,633 INFO  [ModuloCadastra] Insere o endereço do usuário 
+2020-01-13 16:04:12,634 INFO  [ModuloCadastra] O estado obtido do excel é São Paulo 
+2020-01-13 16:04:12,771 INFO  [ModuloCadastra] Insere o estado do usuário 
+2020-01-13 16:04:12,772 INFO  [ModuloCadastra] O endereço obtida do excel é "6160450" 
+2020-01-13 16:04:12,911 INFO  [ModuloCadastra] Insere o CEP do usuário 
+2020-01-13 16:04:13,048 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
+2020-01-13 16:04:13,051 INFO  [TesteCadastraNovoUser] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 16:06:11,786 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 16:06:11,787 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 16:06:18,211 INFO  [TesteCadastraNovoUser] Inicialização do navegador Chrome 
+2020-01-13 16:06:18,216 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:06:22,346 INFO  [TesteCadastraNovoUser] A janela foi maximizada 
+2020-01-13 16:06:23,416 INFO  [TesteCadastraNovoUser] O Website foi acessado 
+2020-01-13 16:06:23,851 INFO  [TesteCadastraNovoUser] O arquivo do excel foi configurado 
+2020-01-13 16:06:23,855 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:06:23,872 INFO  [ModuloHomePage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:06:23,876 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 20 segundos 
+2020-01-13 16:06:24,297 INFO  [ModuloHomePage] O link minha conta foi acessado 
+2020-01-13 16:06:39,298 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 16:06:39,379 INFO  [ModuloHomePage] O link nova conta recebeu um clique 
+2020-01-13 16:06:39,384 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 10 segundos 
+2020-01-13 16:06:39,384 INFO  [TesteCadastraNovoUser] O modulo da página inicial foi executado com sucesso 
+2020-01-13 16:06:39,387 INFO  [ModuloCadastra] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-13 16:06:39,392 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura0 
+2020-01-13 16:06:39,772 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-13 16:06:39,773 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-13 16:06:40,053 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-13 16:06:40,053 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:06:40,241 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-13 16:06:40,242 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:06:40,396 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-13 16:06:40,396 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-13 16:06:40,547 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-13 16:06:40,547 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-13 16:06:40,676 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-13 16:06:40,676 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-13 16:06:40,859 INFO  [ModuloCadastra] Insere o telefone do usuário 
+2020-01-13 16:06:40,967 INFO  [ModuloCadastra] Seleciona a caixa de país 
+2020-01-13 16:06:41,027 INFO  [ModuloCadastra] Instancia um objeto select para manipulação do objeto 
+2020-01-13 16:06:41,031 INFO  [ModuloCadastra] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:06:41,111 INFO  [ModuloCadastra] A cidade obtida do excel é Osasco 
+2020-01-13 16:06:41,237 INFO  [ModuloCadastra] Insere a cidade do usuário 
+2020-01-13 16:06:41,237 INFO  [ModuloCadastra] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-13 16:06:41,658 INFO  [ModuloCadastra] Insere o endereço do usuário 
+2020-01-13 16:06:41,658 INFO  [ModuloCadastra] O estado obtido do excel é São Paulo 
+2020-01-13 16:06:41,793 INFO  [ModuloCadastra] Insere o estado do usuário 
+2020-01-13 16:06:41,793 INFO  [ModuloCadastra] O endereço obtida do excel é "6160450" 
+2020-01-13 16:06:41,933 INFO  [ModuloCadastra] Insere o CEP do usuário 
+2020-01-13 16:06:42,081 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
+2020-01-13 16:06:42,086 INFO  [TesteCadastraNovoUser] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 16:09:12,670 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 16:09:12,670 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 16:09:19,052 INFO  [TesteCadastraNovoUser] Inicialização do navegador Chrome 
+2020-01-13 16:09:19,058 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:09:23,186 INFO  [TesteCadastraNovoUser] A janela foi maximizada 
+2020-01-13 16:09:24,848 INFO  [TesteCadastraNovoUser] O Website foi acessado 
+2020-01-13 16:09:25,267 INFO  [TesteCadastraNovoUser] O arquivo do excel foi configurado 
+2020-01-13 16:09:25,271 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:09:25,286 INFO  [ModuloHomePage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:09:25,290 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 20 segundos 
+2020-01-13 16:09:25,733 INFO  [ModuloHomePage] O link minha conta foi acessado 
+2020-01-13 16:09:40,734 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 16:09:40,827 INFO  [ModuloHomePage] O link nova conta recebeu um clique 
+2020-01-13 16:09:40,831 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 10 segundos 
+2020-01-13 16:09:40,831 INFO  [TesteCadastraNovoUser] O modulo da página inicial foi executado com sucesso 
+2020-01-13 16:09:40,835 INFO  [ModuloCadastra] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-13 16:09:40,841 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura9 
+2020-01-13 16:09:41,210 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-13 16:09:41,210 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-13 16:09:41,526 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-13 16:09:41,527 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:09:41,754 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-13 16:09:41,755 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:09:41,912 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-13 16:09:41,912 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-13 16:09:42,068 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-13 16:09:42,068 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-13 16:09:42,188 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-13 16:09:42,188 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-13 16:09:42,354 INFO  [ModuloCadastra] Insere o telefone do usuário 
+2020-01-13 16:09:42,451 INFO  [ModuloCadastra] Seleciona a caixa de país 
+2020-01-13 16:09:42,505 INFO  [ModuloCadastra] Instancia um objeto select para manipulação do objeto 
+2020-01-13 16:09:42,510 INFO  [ModuloCadastra] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:09:42,590 INFO  [ModuloCadastra] A cidade obtida do excel é Osasco 
+2020-01-13 16:09:42,720 INFO  [ModuloCadastra] Insere a cidade do usuário 
+2020-01-13 16:09:42,721 INFO  [ModuloCadastra] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-13 16:09:43,144 INFO  [ModuloCadastra] Insere o endereço do usuário 
+2020-01-13 16:09:43,145 INFO  [ModuloCadastra] O estado obtido do excel é São Paulo 
+2020-01-13 16:09:43,289 INFO  [ModuloCadastra] Insere o estado do usuário 
+2020-01-13 16:09:43,290 INFO  [ModuloCadastra] O endereço obtida do excel é "6160450" 
+2020-01-13 16:09:43,431 INFO  [ModuloCadastra] Insere o CEP do usuário 
+2020-01-13 16:09:43,577 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
+2020-01-13 16:09:43,581 INFO  [TesteCadastraNovoUser] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 16:10:29,987 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 16:10:29,988 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 16:10:36,352 INFO  [TesteCadastraNovoUser] Inicialização do navegador Chrome 
+2020-01-13 16:10:36,357 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:10:40,496 INFO  [TesteCadastraNovoUser] A janela foi maximizada 
+2020-01-13 16:10:41,541 INFO  [TesteCadastraNovoUser] O Website foi acessado 
+2020-01-13 16:10:41,956 INFO  [TesteCadastraNovoUser] O arquivo do excel foi configurado 
+2020-01-13 16:10:41,960 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:10:41,973 INFO  [ModuloHomePage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:10:41,976 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 20 segundos 
+2020-01-13 16:10:42,425 INFO  [ModuloHomePage] O link minha conta foi acessado 
+2020-01-13 16:10:57,426 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 16:10:57,505 INFO  [ModuloHomePage] O link nova conta recebeu um clique 
+2020-01-13 16:10:57,512 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 10 segundos 
+2020-01-13 16:10:57,512 INFO  [TesteCadastraNovoUser] O modulo da página inicial foi executado com sucesso 
+2020-01-13 16:10:57,516 INFO  [ModuloCadastra] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-13 16:10:57,525 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura8 
+2020-01-13 16:10:57,902 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-13 16:10:57,902 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-13 16:10:58,179 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-13 16:10:58,179 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:10:58,357 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-13 16:10:58,357 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:10:58,524 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-13 16:10:58,524 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-13 16:10:58,668 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-13 16:10:58,668 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-13 16:10:58,814 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-13 16:10:58,814 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-13 16:10:58,991 INFO  [ModuloCadastra] Insere o telefone do usuário 
+2020-01-13 16:10:59,118 INFO  [ModuloCadastra] Seleciona a caixa de país 
+2020-01-13 16:10:59,180 INFO  [ModuloCadastra] Instancia um objeto select para manipulação do objeto 
+2020-01-13 16:10:59,184 INFO  [ModuloCadastra] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:10:59,260 INFO  [ModuloCadastra] A cidade obtida do excel é Osasco 
+2020-01-13 16:10:59,398 INFO  [ModuloCadastra] Insere a cidade do usuário 
+2020-01-13 16:10:59,398 INFO  [ModuloCadastra] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-13 16:10:59,724 INFO  [ModuloCadastra] Insere o endereço do usuário 
+2020-01-13 16:10:59,724 INFO  [ModuloCadastra] O estado obtido do excel é São Paulo 
+2020-01-13 16:10:59,858 INFO  [ModuloCadastra] Insere o estado do usuário 
+2020-01-13 16:10:59,859 INFO  [ModuloCadastra] O endereço obtida do excel é "6160450" 
+2020-01-13 16:11:00,014 INFO  [ModuloCadastra] Insere o CEP do usuário 
+2020-01-13 16:11:00,161 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
+2020-01-13 16:16:25,169 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 16:16:25,169 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 16:16:45,925 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 16:16:45,925 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 16:16:52,326 INFO  [TesteCadastraNovoUser] Inicialização do navegador Chrome 
+2020-01-13 16:16:52,330 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:16:56,469 INFO  [TesteCadastraNovoUser] A janela foi maximizada 
+2020-01-13 16:16:57,225 INFO  [TesteCadastraNovoUser] O Website foi acessado 
+2020-01-13 16:16:57,647 INFO  [TesteCadastraNovoUser] O arquivo do excel foi configurado 
+2020-01-13 16:16:57,650 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:16:57,670 INFO  [ModuloHomePage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:16:57,673 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 20 segundos 
+2020-01-13 16:16:58,098 INFO  [ModuloHomePage] O link minha conta foi acessado 
+2020-01-13 16:17:13,099 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 16:17:13,164 INFO  [ModuloHomePage] O link nova conta recebeu um clique 
+2020-01-13 16:17:13,167 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 10 segundos 
+2020-01-13 16:17:13,167 INFO  [TesteCadastraNovoUser] O modulo da página inicial foi executado com sucesso 
+2020-01-13 16:17:13,178 INFO  [ModuloCadastra] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-13 16:17:13,188 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura8 
+2020-01-13 16:17:13,555 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-13 16:17:13,555 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-13 16:17:13,840 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-13 16:17:13,840 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:17:14,012 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-13 16:17:14,013 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:17:14,169 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-13 16:17:14,169 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-13 16:17:14,305 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-13 16:17:14,306 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-13 16:17:14,435 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-13 16:17:14,437 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-13 16:17:14,615 INFO  [ModuloCadastra] Insere o telefone do usuário 
+2020-01-13 16:17:14,744 INFO  [ModuloCadastra] Seleciona a caixa de país 
+2020-01-13 16:17:14,806 INFO  [ModuloCadastra] Instancia um objeto select para manipulação do objeto 
+2020-01-13 16:17:14,808 INFO  [ModuloCadastra] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:17:14,891 INFO  [ModuloCadastra] A cidade obtida do excel é Osasco 
+2020-01-13 16:17:15,024 INFO  [ModuloCadastra] Insere a cidade do usuário 
+2020-01-13 16:17:15,025 INFO  [ModuloCadastra] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-13 16:17:15,436 INFO  [ModuloCadastra] Insere o endereço do usuário 
+2020-01-13 16:17:15,436 INFO  [ModuloCadastra] O estado obtido do excel é São Paulo 
+2020-01-13 16:17:15,567 INFO  [ModuloCadastra] Insere o estado do usuário 
+2020-01-13 16:17:15,567 INFO  [ModuloCadastra] O endereço obtida do excel é "6160450" 
+2020-01-13 16:17:15,710 INFO  [ModuloCadastra] Insere o CEP do usuário 
+2020-01-13 16:17:15,847 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
+2020-01-13 16:19:25,472 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 16:19:25,472 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 16:19:31,892 INFO  [TesteCadastraNovoUser] Inicialização do navegador Chrome 
+2020-01-13 16:19:31,897 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:19:36,018 INFO  [TesteCadastraNovoUser] A janela foi maximizada 
+2020-01-13 16:19:37,090 INFO  [TesteCadastraNovoUser] O Website foi acessado 
+2020-01-13 16:19:37,530 INFO  [TesteCadastraNovoUser] O arquivo do excel foi configurado 
+2020-01-13 16:19:37,535 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:19:37,554 INFO  [ModuloHomePage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:19:37,557 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 20 segundos 
+2020-01-13 16:19:37,995 INFO  [ModuloHomePage] O link minha conta foi acessado 
+2020-01-13 16:19:52,995 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 16:19:53,058 INFO  [ModuloHomePage] O link nova conta recebeu um clique 
+2020-01-13 16:19:53,063 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 10 segundos 
+2020-01-13 16:19:53,063 INFO  [TesteCadastraNovoUser] O modulo da página inicial foi executado com sucesso 
+2020-01-13 16:19:53,069 INFO  [ModuloCadastra] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-13 16:19:53,078 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura8 
+2020-01-13 16:19:53,452 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-13 16:19:53,453 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-13 16:19:53,731 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-13 16:19:53,732 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:19:53,880 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-13 16:19:53,880 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:19:54,063 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-13 16:19:54,063 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-13 16:19:54,206 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-13 16:19:54,206 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-13 16:19:54,332 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-13 16:19:54,332 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-13 16:19:54,527 INFO  [ModuloCadastra] Insere o telefone do usuário 
+2020-01-13 16:19:54,659 INFO  [ModuloCadastra] Seleciona a caixa de país 
+2020-01-13 16:19:54,719 INFO  [ModuloCadastra] Instancia um objeto select para manipulação do objeto 
+2020-01-13 16:19:54,722 INFO  [ModuloCadastra] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:19:54,807 INFO  [ModuloCadastra] A cidade obtida do excel é Osasco 
+2020-01-13 16:19:54,943 INFO  [ModuloCadastra] Insere a cidade do usuário 
+2020-01-13 16:19:54,943 INFO  [ModuloCadastra] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-13 16:19:55,217 INFO  [ModuloCadastra] Insere o endereço do usuário 
+2020-01-13 16:19:55,217 INFO  [ModuloCadastra] O estado obtido do excel é São Paulo 
+2020-01-13 16:19:55,353 INFO  [ModuloCadastra] Insere o estado do usuário 
+2020-01-13 16:19:55,354 INFO  [ModuloCadastra] O endereço obtida do excel é "6160450" 
+2020-01-13 16:19:55,491 INFO  [ModuloCadastra] Insere o CEP do usuário 
+2020-01-13 16:19:55,657 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
+2020-01-13 16:23:10,174 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 16:23:10,174 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 16:23:16,599 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 16:23:16,604 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:23:20,732 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 16:23:21,798 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 16:23:22,219 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 16:23:22,224 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 16:23:22,239 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:23:22,645 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEPAD 1000 G2 TABLET 
+2020-01-13 16:23:22,949 INFO  [TestBuscaLupa] Insere parametros na busca 
+2020-01-13 16:23:24,527 INFO  [TestBuscaLupa] Clica no elemento que foi buscado 
+2020-01-13 16:28:03,805 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 16:28:03,806 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 16:28:10,151 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 16:28:10,156 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:28:14,294 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 16:28:15,520 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 16:28:15,929 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 16:28:15,933 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 16:28:15,947 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:28:16,387 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é Computador 
+2020-01-13 16:28:16,536 INFO  [TestBuscaLupa] Insere parametros na busca 
+2020-01-13 16:46:07,870 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 16:46:07,871 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 16:46:14,263 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 16:46:14,268 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:46:18,405 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 16:46:19,335 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 16:46:19,729 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 16:46:19,745 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:46:22,768 INFO  [BuscaCliqueModulo] Clica na categoria Headphones 
+2020-01-13 16:46:23,624 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-13 16:46:23,626 INFO  [BuscaCliqueModulo] Aguarda 10s 
+2020-01-13 16:46:23,626 INFO  [TestBuscaLupa] O módulo de busca por clique foi executado com sucesso 
+2020-01-13 16:46:23,629 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 16:46:24,626 INFO  [TestBuscaLupa] Adiciona o item ao carriho 
+2020-01-13 16:46:25,092 INFO  [TestBuscaLupa] Vai para página de checkout 
+2020-01-13 16:46:25,414 INFO  [TestBuscaLupa] Tira um PrintScreen 
+2020-01-13 16:46:25,509 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 16:46:25,510 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 16:46:30,563 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 16:46:30,567 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:46:34,693 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 16:46:35,616 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 16:46:35,643 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 16:46:35,643 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:46:39,078 INFO  [BuscaCliqueModulo] Clica na categoria Headphones 
+2020-01-13 16:46:40,108 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-13 16:46:40,111 INFO  [BuscaCliqueModulo] Aguarda 10s 
+2020-01-13 16:46:40,111 INFO  [TestBuscaLupa] O módulo de busca por clique foi executado com sucesso 
+2020-01-13 16:46:40,115 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 16:46:40,437 INFO  [TestBuscaLupa] Adiciona o item ao carriho 
+2020-01-13 16:46:40,842 INFO  [TestBuscaLupa] Vai para página de checkout 
+2020-01-13 16:46:41,173 INFO  [TestBuscaLupa] Tira um PrintScreen 
+2020-01-13 16:49:33,455 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 16:49:33,455 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 16:49:39,853 INFO  [TesteCadastraNovoUser] Inicialização do navegador Chrome 
+2020-01-13 16:49:39,859 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:49:44,003 INFO  [TesteCadastraNovoUser] A janela foi maximizada 
+2020-01-13 16:49:45,133 INFO  [TesteCadastraNovoUser] O Website foi acessado 
+2020-01-13 16:49:45,543 INFO  [TesteCadastraNovoUser] O arquivo do excel foi configurado 
+2020-01-13 16:49:45,548 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:49:45,583 INFO  [ModuloHomePage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:49:46,046 INFO  [ModuloHomePage] O link minha conta foi acessado 
+2020-01-13 16:50:01,047 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 16:50:01,133 INFO  [ModuloHomePage] O link nova conta recebeu um clique 
+2020-01-13 16:50:01,138 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 10 segundos 
+2020-01-13 16:50:01,138 INFO  [TesteCadastraNovoUser] O modulo da página inicial foi executado com sucesso 
+2020-01-13 16:50:01,141 INFO  [ModuloCadastra] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-13 16:50:01,148 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura7 
+2020-01-13 16:50:01,500 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-13 16:50:01,500 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-13 16:50:01,763 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-13 16:50:01,763 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:50:01,914 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-13 16:50:01,914 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:50:02,092 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-13 16:50:02,092 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-13 16:50:02,252 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-13 16:50:02,252 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-13 16:50:02,380 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-13 16:50:02,380 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-13 16:50:02,542 INFO  [ModuloCadastra] Insere o telefone do usuário 
+2020-01-13 16:50:02,661 INFO  [ModuloCadastra] Seleciona a caixa de país 
+2020-01-13 16:50:02,712 INFO  [ModuloCadastra] Instancia um objeto select para manipulação do objeto 
+2020-01-13 16:50:02,715 INFO  [ModuloCadastra] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:50:02,791 INFO  [ModuloCadastra] A cidade obtida do excel é Osasco 
+2020-01-13 16:50:02,933 INFO  [ModuloCadastra] Insere a cidade do usuário 
+2020-01-13 16:50:02,933 INFO  [ModuloCadastra] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-13 16:50:03,341 INFO  [ModuloCadastra] Insere o endereço do usuário 
+2020-01-13 16:50:03,341 INFO  [ModuloCadastra] O estado obtido do excel é São Paulo 
+2020-01-13 16:50:03,471 INFO  [ModuloCadastra] Insere o estado do usuário 
+2020-01-13 16:50:03,471 INFO  [ModuloCadastra] O endereço obtida do excel é "6160450" 
+2020-01-13 16:50:03,610 INFO  [ModuloCadastra] Insere o CEP do usuário 
+2020-01-13 16:50:03,760 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
+2020-01-13 16:50:09,432 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 16:50:09,432 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 16:50:14,488 INFO  [TesteCadastraNovoUser] Inicialização do navegador Chrome 
+2020-01-13 16:50:14,491 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:50:18,623 INFO  [TesteCadastraNovoUser] A janela foi maximizada 
+2020-01-13 16:50:19,529 INFO  [TesteCadastraNovoUser] O Website foi acessado 
+2020-01-13 16:50:19,556 INFO  [TesteCadastraNovoUser] O arquivo do excel foi configurado 
+2020-01-13 16:50:19,558 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:50:19,558 INFO  [ModuloHomePage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:50:20,383 INFO  [ModuloHomePage] O link minha conta foi acessado 
+2020-01-13 16:50:35,383 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 16:50:35,503 INFO  [ModuloHomePage] O link nova conta recebeu um clique 
+2020-01-13 16:50:35,506 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 10 segundos 
+2020-01-13 16:50:35,506 INFO  [TesteCadastraNovoUser] O modulo da página inicial foi executado com sucesso 
+2020-01-13 16:50:35,508 INFO  [ModuloCadastra] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-13 16:50:35,508 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura7 
+2020-01-13 16:50:35,894 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-13 16:50:35,895 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-13 16:50:36,154 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-13 16:50:36,155 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:50:36,298 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-13 16:50:36,298 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 16:50:36,489 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-13 16:50:36,490 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-13 16:50:36,651 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-13 16:50:36,652 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-13 16:50:36,782 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-13 16:50:36,782 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-13 16:50:36,982 INFO  [ModuloCadastra] Insere o telefone do usuário 
+2020-01-13 16:50:37,094 INFO  [ModuloCadastra] Seleciona a caixa de país 
+2020-01-13 16:50:37,136 INFO  [ModuloCadastra] Instancia um objeto select para manipulação do objeto 
+2020-01-13 16:50:37,139 INFO  [ModuloCadastra] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 16:50:37,226 INFO  [ModuloCadastra] A cidade obtida do excel é Osasco 
+2020-01-13 16:50:37,353 INFO  [ModuloCadastra] Insere a cidade do usuário 
+2020-01-13 16:50:37,354 INFO  [ModuloCadastra] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-13 16:50:37,803 INFO  [ModuloCadastra] Insere o endereço do usuário 
+2020-01-13 16:50:37,803 INFO  [ModuloCadastra] O estado obtido do excel é São Paulo 
+2020-01-13 16:50:37,958 INFO  [ModuloCadastra] Insere o estado do usuário 
+2020-01-13 16:50:37,959 INFO  [ModuloCadastra] O endereço obtida do excel é "6160450" 
+2020-01-13 16:50:38,093 INFO  [ModuloCadastra] Insere o CEP do usuário 
+2020-01-13 16:50:38,281 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
+2020-01-13 16:50:43,298 INFO  [TesteCadastraNovoUser] Realiza a comparação através do método Assert 
+2020-01-13 16:50:43,614 INFO  [TesteCadastraNovoUser] Tira um PrintScreen 
+2020-01-13 16:51:09,741 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 16:51:09,741 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 16:51:16,120 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 16:51:16,125 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:51:20,264 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 16:51:21,153 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 16:51:21,679 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 16:51:21,695 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:51:24,646 INFO  [BuscaCliqueModulo] Clica na categoria Headphones 
+2020-01-13 16:51:25,507 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-13 16:51:25,511 INFO  [BuscaCliqueModulo] Aguarda 10s 
+2020-01-13 16:51:25,512 INFO  [TestBuscaLupa] O módulo de busca por clique foi executado com sucesso 
+2020-01-13 16:51:25,518 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 16:51:26,839 INFO  [TestBuscaLupa] Adiciona o item ao carriho 
+2020-01-13 16:51:27,260 INFO  [TestBuscaLupa] Vai para página de checkout 
+2020-01-13 16:51:27,618 INFO  [TestBuscaLupa] Tira um PrintScreen 
+2020-01-13 16:51:27,698 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 16:51:27,699 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 16:51:32,760 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 16:51:32,763 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:51:36,885 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 16:51:37,759 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 16:51:37,797 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 16:51:37,797 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:51:41,146 INFO  [BuscaCliqueModulo] Clica na categoria Headphones 
+2020-01-13 16:51:41,992 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-13 16:51:41,996 INFO  [BuscaCliqueModulo] Aguarda 10s 
+2020-01-13 16:51:41,996 INFO  [TestBuscaLupa] O módulo de busca por clique foi executado com sucesso 
+2020-01-13 16:51:42,001 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 16:51:42,355 INFO  [TestBuscaLupa] Adiciona o item ao carriho 
+2020-01-13 16:51:42,757 INFO  [TestBuscaLupa] Vai para página de checkout 
+2020-01-13 16:51:43,067 INFO  [TestBuscaLupa] Tira um PrintScreen 
+2020-01-13 16:51:55,272 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 16:51:55,273 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 16:52:01,664 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 16:52:01,669 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:52:05,792 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 16:52:06,721 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 16:52:07,134 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 16:52:07,136 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 16:52:07,152 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:52:07,587 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEPAD 1000 G2 TABLET 
+2020-01-13 16:52:07,882 INFO  [TestBuscaLupa] Insere parametros na busca 
+2020-01-13 16:52:09,570 INFO  [TestBuscaLupa] Clica no elemento que foi buscado 
+2020-01-13 16:52:09,570 INFO  [TestBuscaLupa] Executa a busca pela lupa 
+2020-01-13 16:52:09,570 INFO  [TestBuscaLupa] Realiza a comparação através do método Assert 
+2020-01-13 16:52:09,910 INFO  [TestBuscaLupa] Tira um PrintScreen 
+2020-01-13 16:52:10,013 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 16:52:10,013 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 16:52:15,093 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 16:52:15,097 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 16:52:19,230 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 16:52:20,260 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 16:52:20,295 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 16:52:20,298 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 16:52:20,299 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 16:52:21,122 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é Computador 
+2020-01-13 16:52:21,271 INFO  [TestBuscaLupa] Insere parametros na busca 
+2020-01-13 17:03:43,447 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 17:03:43,448 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 17:03:49,851 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 17:03:49,856 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 17:03:53,993 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 17:03:54,928 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 17:03:55,334 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 17:03:55,350 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 17:03:58,421 INFO  [BuscaCliqueModulo] Clica na categoria Headphones 
+2020-01-13 17:03:59,333 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-13 17:03:59,335 INFO  [BuscaCliqueModulo] Aguarda 10s 
+2020-01-13 17:03:59,336 INFO  [TestBuscaLupa] O módulo de busca por clique foi executado com sucesso 
+2020-01-13 17:03:59,341 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 17:04:00,335 INFO  [TestBuscaLupa] Adiciona o item ao carriho 
+2020-01-13 17:04:00,785 INFO  [TestBuscaLupa] Vai para página de checkout 
+2020-01-13 17:04:01,118 INFO  [TestBuscaLupa] Tira um PrintScreen 
+2020-01-13 17:04:01,199 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 17:04:01,199 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 17:04:06,262 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 17:04:06,266 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 17:04:10,407 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 17:04:11,332 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 17:04:11,366 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 17:04:11,366 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 17:04:14,773 INFO  [BuscaCliqueModulo] Clica na categoria Headphones 
+2020-01-13 17:04:15,618 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-13 17:04:15,620 INFO  [BuscaCliqueModulo] Aguarda 10s 
+2020-01-13 17:04:15,621 INFO  [TestBuscaLupa] O módulo de busca por clique foi executado com sucesso 
+2020-01-13 17:04:15,625 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 17:04:15,966 INFO  [TestBuscaLupa] Adiciona o item ao carriho 
+2020-01-13 17:04:16,369 INFO  [TestBuscaLupa] Vai para página de checkout 
+2020-01-13 17:04:17,335 INFO  [TestBuscaLupa] Tira um PrintScreen 
+2020-01-13 17:09:00,523 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 17:09:00,524 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 17:09:06,923 INFO  [TesteCadastraNovoUser] Inicialização do navegador Chrome 
+2020-01-13 17:09:06,928 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 17:09:11,050 INFO  [TesteCadastraNovoUser] A janela foi maximizada 
+2020-01-13 17:09:12,228 INFO  [TesteCadastraNovoUser] O Website foi acessado 
+2020-01-13 17:09:12,661 INFO  [TesteCadastraNovoUser] O arquivo do excel foi configurado 
+2020-01-13 17:09:12,664 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 17:09:12,680 INFO  [ModuloHomePage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 17:09:13,094 INFO  [ModuloHomePage] O link minha conta foi acessado 
+2020-01-13 17:09:28,095 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 17:09:28,172 INFO  [ModuloHomePage] O link nova conta recebeu um clique 
+2020-01-13 17:09:28,176 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 10 segundos 
+2020-01-13 17:09:28,176 INFO  [TesteCadastraNovoUser] O modulo da página inicial foi executado com sucesso 
+2020-01-13 17:09:28,179 INFO  [ModuloCadastra] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-13 17:09:28,187 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura11 
+2020-01-13 17:09:28,573 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-13 17:09:28,574 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-13 17:09:28,863 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-13 17:09:28,863 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 17:09:29,052 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-13 17:09:29,052 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 17:09:29,210 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-13 17:09:29,211 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-13 17:09:29,348 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-13 17:09:29,349 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-13 17:09:29,477 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-13 17:09:29,478 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-13 17:09:29,673 INFO  [ModuloCadastra] Insere o telefone do usuário 
+2020-01-13 17:09:29,784 INFO  [ModuloCadastra] Seleciona a caixa de país 
+2020-01-13 17:09:29,845 INFO  [ModuloCadastra] Instancia um objeto select para manipulação do objeto 
+2020-01-13 17:09:29,847 INFO  [ModuloCadastra] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 17:09:29,922 INFO  [ModuloCadastra] A cidade obtida do excel é Osasco 
+2020-01-13 17:09:30,053 INFO  [ModuloCadastra] Insere a cidade do usuário 
+2020-01-13 17:09:30,053 INFO  [ModuloCadastra] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-13 17:09:30,494 INFO  [ModuloCadastra] Insere o endereço do usuário 
+2020-01-13 17:09:30,494 INFO  [ModuloCadastra] O estado obtido do excel é São Paulo 
+2020-01-13 17:09:30,630 INFO  [ModuloCadastra] Insere o estado do usuário 
+2020-01-13 17:09:30,630 INFO  [ModuloCadastra] O endereço obtida do excel é "6160450" 
+2020-01-13 17:09:30,772 INFO  [ModuloCadastra] Insere o CEP do usuário 
+2020-01-13 17:09:30,904 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
+2020-01-13 17:09:36,568 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 17:09:36,568 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 17:09:41,610 INFO  [TesteCadastraNovoUser] Inicialização do navegador Chrome 
+2020-01-13 17:09:41,613 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 17:09:45,734 INFO  [TesteCadastraNovoUser] A janela foi maximizada 
+2020-01-13 17:09:46,898 INFO  [TesteCadastraNovoUser] O Website foi acessado 
+2020-01-13 17:09:46,924 INFO  [TesteCadastraNovoUser] O arquivo do excel foi configurado 
+2020-01-13 17:09:46,927 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 17:09:46,927 INFO  [ModuloHomePage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 17:09:47,827 INFO  [ModuloHomePage] O link minha conta foi acessado 
+2020-01-13 17:10:02,828 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 17:10:02,903 INFO  [ModuloHomePage] O link nova conta recebeu um clique 
+2020-01-13 17:10:02,906 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 10 segundos 
+2020-01-13 17:10:02,907 INFO  [TesteCadastraNovoUser] O modulo da página inicial foi executado com sucesso 
+2020-01-13 17:10:02,907 INFO  [ModuloCadastra] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-13 17:10:02,907 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura11 
+2020-01-13 17:10:03,292 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-13 17:10:03,292 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-13 17:10:03,580 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-13 17:10:03,580 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 17:10:03,770 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-13 17:10:03,770 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 17:10:03,932 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-13 17:10:03,932 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-13 17:10:04,087 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-13 17:10:04,087 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-13 17:10:04,239 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-13 17:10:04,240 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-13 17:10:04,405 INFO  [ModuloCadastra] Insere o telefone do usuário 
+2020-01-13 17:10:04,504 INFO  [ModuloCadastra] Seleciona a caixa de país 
+2020-01-13 17:10:04,556 INFO  [ModuloCadastra] Instancia um objeto select para manipulação do objeto 
+2020-01-13 17:10:04,560 INFO  [ModuloCadastra] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 17:10:04,631 INFO  [ModuloCadastra] A cidade obtida do excel é Osasco 
+2020-01-13 17:10:04,765 INFO  [ModuloCadastra] Insere a cidade do usuário 
+2020-01-13 17:10:04,765 INFO  [ModuloCadastra] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-13 17:10:05,211 INFO  [ModuloCadastra] Insere o endereço do usuário 
+2020-01-13 17:10:05,211 INFO  [ModuloCadastra] O estado obtido do excel é São Paulo 
+2020-01-13 17:10:05,351 INFO  [ModuloCadastra] Insere o estado do usuário 
+2020-01-13 17:10:05,351 INFO  [ModuloCadastra] O endereço obtida do excel é "6160450" 
+2020-01-13 17:10:05,488 INFO  [ModuloCadastra] Insere o CEP do usuário 
+2020-01-13 17:10:05,636 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
+2020-01-13 17:10:10,641 INFO  [TesteCadastraNovoUser] Realiza a comparação através do método Assert 
+2020-01-13 17:10:10,948 INFO  [TesteCadastraNovoUser] Tira um PrintScreen 
+2020-01-13 17:13:14,823 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 17:13:14,823 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 17:13:21,164 INFO  [TesteCadastraNovoUser] Inicialização do navegador Chrome 
+2020-01-13 17:13:21,170 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 17:13:25,301 INFO  [TesteCadastraNovoUser] A janela foi maximizada 
+2020-01-13 17:13:26,585 INFO  [TesteCadastraNovoUser] O Website foi acessado 
+2020-01-13 17:13:27,188 INFO  [TesteCadastraNovoUser] O arquivo do excel foi configurado 
+2020-01-13 17:13:27,192 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 17:13:27,219 INFO  [ModuloHomePage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 17:13:27,586 INFO  [ModuloHomePage] O link minha conta foi acessado 
+2020-01-13 17:13:42,586 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 17:13:42,674 INFO  [ModuloHomePage] O link nova conta recebeu um clique 
+2020-01-13 17:13:42,678 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 10 segundos 
+2020-01-13 17:13:42,678 INFO  [TesteCadastraNovoUser] O modulo da página inicial foi executado com sucesso 
+2020-01-13 17:13:42,682 INFO  [ModuloCadastra] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-13 17:13:42,690 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura12 
+2020-01-13 17:13:43,065 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-13 17:13:43,065 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-13 17:13:43,329 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-13 17:13:43,329 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 17:13:43,511 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-13 17:13:43,512 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 17:13:43,669 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-13 17:13:43,670 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-13 17:13:43,832 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-13 17:13:43,832 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-13 17:13:43,955 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-13 17:13:43,955 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-13 17:13:44,127 INFO  [ModuloCadastra] Insere o telefone do usuário 
+2020-01-13 17:13:44,249 INFO  [ModuloCadastra] Seleciona a caixa de país 
+2020-01-13 17:13:44,295 INFO  [ModuloCadastra] Instancia um objeto select para manipulação do objeto 
+2020-01-13 17:13:44,299 INFO  [ModuloCadastra] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 17:13:44,373 INFO  [ModuloCadastra] A cidade obtida do excel é Osasco 
+2020-01-13 17:13:44,528 INFO  [ModuloCadastra] Insere a cidade do usuário 
+2020-01-13 17:13:44,528 INFO  [ModuloCadastra] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-13 17:13:44,829 INFO  [ModuloCadastra] Insere o endereço do usuário 
+2020-01-13 17:13:44,829 INFO  [ModuloCadastra] O estado obtido do excel é São Paulo 
+2020-01-13 17:13:44,987 INFO  [ModuloCadastra] Insere o estado do usuário 
+2020-01-13 17:13:44,987 INFO  [ModuloCadastra] O endereço obtida do excel é "6160450" 
+2020-01-13 17:13:45,137 INFO  [ModuloCadastra] Insere o CEP do usuário 
+2020-01-13 17:13:45,298 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
+2020-01-13 17:13:53,945 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 17:13:53,945 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 17:13:58,963 INFO  [TesteCadastraNovoUser] Inicialização do navegador Chrome 
+2020-01-13 17:13:58,966 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 17:14:03,093 INFO  [TesteCadastraNovoUser] A janela foi maximizada 
+2020-01-13 17:14:04,037 INFO  [TesteCadastraNovoUser] O Website foi acessado 
+2020-01-13 17:14:04,064 INFO  [TesteCadastraNovoUser] O arquivo do excel foi configurado 
+2020-01-13 17:14:04,068 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 17:14:04,068 INFO  [ModuloHomePage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 17:14:04,941 INFO  [ModuloHomePage] O link minha conta foi acessado 
+2020-01-13 17:14:19,941 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 17:14:20,008 INFO  [ModuloHomePage] O link nova conta recebeu um clique 
+2020-01-13 17:14:20,011 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 10 segundos 
+2020-01-13 17:14:20,012 INFO  [TesteCadastraNovoUser] O modulo da página inicial foi executado com sucesso 
+2020-01-13 17:14:20,012 INFO  [ModuloCadastra] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-13 17:14:20,012 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomura12 
+2020-01-13 17:14:20,430 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-13 17:14:20,430 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-13 17:14:20,731 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-13 17:14:20,731 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 17:14:20,909 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-13 17:14:20,909 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 17:14:21,075 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-13 17:14:21,075 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-13 17:14:21,230 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-13 17:14:21,230 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-13 17:14:21,356 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-13 17:14:21,356 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-13 17:14:21,523 INFO  [ModuloCadastra] Insere o telefone do usuário 
+2020-01-13 17:14:21,646 INFO  [ModuloCadastra] Seleciona a caixa de país 
+2020-01-13 17:14:21,692 INFO  [ModuloCadastra] Instancia um objeto select para manipulação do objeto 
+2020-01-13 17:14:21,696 INFO  [ModuloCadastra] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 17:14:21,783 INFO  [ModuloCadastra] A cidade obtida do excel é Osasco 
+2020-01-13 17:14:21,935 INFO  [ModuloCadastra] Insere a cidade do usuário 
+2020-01-13 17:14:21,935 INFO  [ModuloCadastra] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-13 17:14:22,225 INFO  [ModuloCadastra] Insere o endereço do usuário 
+2020-01-13 17:14:22,225 INFO  [ModuloCadastra] O estado obtido do excel é São Paulo 
+2020-01-13 17:14:22,351 INFO  [ModuloCadastra] Insere o estado do usuário 
+2020-01-13 17:14:22,352 INFO  [ModuloCadastra] O endereço obtida do excel é "6160450" 
+2020-01-13 17:14:22,503 INFO  [ModuloCadastra] Insere o CEP do usuário 
+2020-01-13 17:14:22,652 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
+2020-01-13 17:14:30,668 INFO  [TesteCadastraNovoUser] Realiza a comparação através do método Assert 
+2020-01-13 17:14:30,959 INFO  [TesteCadastraNovoUser] Tira um PrintScreen 
+2020-01-13 17:15:18,337 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 17:15:18,337 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 17:15:24,767 INFO  [TesteCadastraNovoUser] Inicialização do navegador Chrome 
+2020-01-13 17:15:24,772 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 17:15:28,899 INFO  [TesteCadastraNovoUser] A janela foi maximizada 
+2020-01-13 17:15:29,799 INFO  [TesteCadastraNovoUser] O Website foi acessado 
+2020-01-13 17:15:30,217 INFO  [TesteCadastraNovoUser] O arquivo do excel foi configurado 
+2020-01-13 17:15:30,221 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 17:15:30,238 INFO  [ModuloHomePage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 17:15:30,675 INFO  [ModuloHomePage] O link minha conta foi acessado 
+2020-01-13 17:15:38,675 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 17:15:38,746 INFO  [ModuloHomePage] O link nova conta recebeu um clique 
+2020-01-13 17:15:38,750 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 10 segundos 
+2020-01-13 17:15:38,750 INFO  [TesteCadastraNovoUser] O modulo da página inicial foi executado com sucesso 
+2020-01-13 17:15:38,753 INFO  [ModuloCadastra] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-13 17:15:38,762 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomuraa 
+2020-01-13 17:15:39,134 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-13 17:15:39,135 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-13 17:15:39,425 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-13 17:15:39,425 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 17:15:39,603 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-13 17:15:39,604 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 17:15:39,781 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-13 17:15:39,782 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-13 17:15:39,942 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-13 17:15:39,942 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-13 17:15:40,076 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-13 17:15:40,077 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-13 17:15:40,237 INFO  [ModuloCadastra] Insere o telefone do usuário 
+2020-01-13 17:15:40,348 INFO  [ModuloCadastra] Seleciona a caixa de país 
+2020-01-13 17:15:40,403 INFO  [ModuloCadastra] Instancia um objeto select para manipulação do objeto 
+2020-01-13 17:15:40,407 INFO  [ModuloCadastra] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 17:15:40,488 INFO  [ModuloCadastra] A cidade obtida do excel é Osasco 
+2020-01-13 17:15:40,622 INFO  [ModuloCadastra] Insere a cidade do usuário 
+2020-01-13 17:15:40,622 INFO  [ModuloCadastra] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-13 17:15:41,057 INFO  [ModuloCadastra] Insere o endereço do usuário 
+2020-01-13 17:15:41,057 INFO  [ModuloCadastra] O estado obtido do excel é São Paulo 
+2020-01-13 17:15:41,200 INFO  [ModuloCadastra] Insere o estado do usuário 
+2020-01-13 17:15:41,201 INFO  [ModuloCadastra] O endereço obtida do excel é "6160450" 
+2020-01-13 17:15:41,338 INFO  [ModuloCadastra] Insere o CEP do usuário 
+2020-01-13 17:15:41,474 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
+2020-01-13 17:15:49,484 INFO  [TesteCadastraNovoUser] Realiza a comparação através do método Assert 
+2020-01-13 17:15:50,121 INFO  [TesteCadastraNovoUser] Tira um PrintScreen 
+2020-01-13 17:15:50,746 INFO  [TesteCadastraNovoUser] Configurado arquivo de registros de log 
+2020-01-13 17:15:50,746 INFO  [TesteCadastraNovoUser] Realizada a configuração do driver 
+2020-01-13 17:15:55,808 INFO  [TesteCadastraNovoUser] Inicialização do navegador Chrome 
+2020-01-13 17:15:55,812 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 17:15:59,952 INFO  [TesteCadastraNovoUser] A janela foi maximizada 
+2020-01-13 17:16:00,861 INFO  [TesteCadastraNovoUser] O Website foi acessado 
+2020-01-13 17:16:00,894 INFO  [TesteCadastraNovoUser] O arquivo do excel foi configurado 
+2020-01-13 17:16:00,899 INFO  [TesteCadastraNovoUser] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 17:16:00,899 INFO  [ModuloHomePage] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 17:16:01,746 INFO  [ModuloHomePage] O link minha conta foi acessado 
+2020-01-13 17:16:09,747 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 15 segundos 
+2020-01-13 17:16:09,819 INFO  [ModuloHomePage] O link nova conta recebeu um clique 
+2020-01-13 17:16:09,822 INFO  [ModuloHomePage] Foi aplicado um comando de espera no driver por 10 segundos 
+2020-01-13 17:16:09,823 INFO  [TesteCadastraNovoUser] O modulo da página inicial foi executado com sucesso 
+2020-01-13 17:16:09,823 INFO  [ModuloCadastra] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-13 17:16:09,823 INFO  [ModuloCadastra] O nome de usuário obtido do excel é GabrielaNomuraa 
+2020-01-13 17:16:10,203 INFO  [ModuloCadastra] Insere o nome de usuario 
+2020-01-13 17:16:10,204 INFO  [ModuloCadastra] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-13 17:16:10,476 INFO  [ModuloCadastra] Insere o email do usuário 
+2020-01-13 17:16:10,476 INFO  [ModuloCadastra] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 17:16:10,656 INFO  [ModuloCadastra] Insere a senha do usuário 
+2020-01-13 17:16:10,657 INFO  [ModuloCadastra] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-13 17:16:10,833 INFO  [ModuloCadastra] Insere a confirmação de  senha do usuário 
+2020-01-13 17:16:10,834 INFO  [ModuloCadastra] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-13 17:16:10,973 INFO  [ModuloCadastra] Insere o primeiro nome do usuário 
+2020-01-13 17:16:10,973 INFO  [ModuloCadastra] O ultimo nome do usuário obtida do excel é Nomura 
+2020-01-13 17:16:11,098 INFO  [ModuloCadastra] Insere o ultimo nome do usuário 
+2020-01-13 17:16:11,098 INFO  [ModuloCadastra] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-13 17:16:11,278 INFO  [ModuloCadastra] Insere o telefone do usuário 
+2020-01-13 17:16:11,387 INFO  [ModuloCadastra] Seleciona a caixa de país 
+2020-01-13 17:16:11,435 INFO  [ModuloCadastra] Instancia um objeto select para manipulação do objeto 
+2020-01-13 17:16:11,437 INFO  [ModuloCadastra] Foi aplicado no driver um comando de espera por 15 segundos 
+2020-01-13 17:16:11,508 INFO  [ModuloCadastra] A cidade obtida do excel é Osasco 
+2020-01-13 17:16:11,639 INFO  [ModuloCadastra] Insere a cidade do usuário 
+2020-01-13 17:16:11,640 INFO  [ModuloCadastra] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-13 17:16:11,947 INFO  [ModuloCadastra] Insere o endereço do usuário 
+2020-01-13 17:16:11,947 INFO  [ModuloCadastra] O estado obtido do excel é São Paulo 
+2020-01-13 17:16:12,080 INFO  [ModuloCadastra] Insere o estado do usuário 
+2020-01-13 17:16:12,080 INFO  [ModuloCadastra] O endereço obtida do excel é "6160450" 
+2020-01-13 17:16:12,233 INFO  [ModuloCadastra] Insere o CEP do usuário 
+2020-01-13 17:16:12,383 INFO  [TesteCadastraNovoUser] O módulo do cadastro foi executado com sucesso 
+2020-01-13 17:16:20,388 INFO  [TesteCadastraNovoUser] Realiza a comparação através do método Assert 
+2020-01-13 17:16:20,687 INFO  [TesteCadastraNovoUser] Tira um PrintScreen 
+2020-01-13 17:16:26,166 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 17:16:26,167 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 17:16:32,584 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 17:16:32,589 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 17:16:36,729 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 17:16:37,648 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 17:16:38,076 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 17:16:38,093 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 17:16:41,143 INFO  [BuscaCliqueModulo] Clica na categoria Headphones 
+2020-01-13 17:16:41,977 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-13 17:16:41,979 INFO  [BuscaCliqueModulo] Aguarda 10s 
+2020-01-13 17:16:41,979 INFO  [TestBuscaLupa] O módulo de busca por clique foi executado com sucesso 
+2020-01-13 17:16:41,982 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 17:16:43,011 INFO  [TestBuscaLupa] Adiciona o item ao carriho 
+2020-01-13 17:16:43,396 INFO  [TestBuscaLupa] Vai para página de checkout 
+2020-01-13 17:16:43,708 INFO  [TestBuscaLupa] Tira um PrintScreen 
+2020-01-13 17:16:43,776 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 17:16:43,776 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 17:16:48,825 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 17:16:48,828 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 17:16:52,947 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 17:16:53,838 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 17:16:53,868 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 17:16:53,869 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 17:16:57,255 INFO  [BuscaCliqueModulo] Clica na categoria Headphones 
+2020-01-13 17:16:58,096 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-13 17:16:58,099 INFO  [BuscaCliqueModulo] Aguarda 10s 
+2020-01-13 17:16:58,100 INFO  [TestBuscaLupa] O módulo de busca por clique foi executado com sucesso 
+2020-01-13 17:16:58,103 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 17:16:58,443 INFO  [TestBuscaLupa] Adiciona o item ao carriho 
+2020-01-13 17:16:58,898 INFO  [TestBuscaLupa] Vai para página de checkout 
+2020-01-13 17:16:59,738 INFO  [TestBuscaLupa] Tira um PrintScreen 
+2020-01-13 17:17:26,643 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 17:17:26,644 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 17:17:33,058 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 17:17:33,063 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 17:17:37,187 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 17:17:38,245 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 17:17:38,743 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 17:17:38,747 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 17:17:38,765 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 17:17:39,147 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEPAD 1000 G2 TABLET 
+2020-01-13 17:17:39,484 INFO  [TestBuscaLupa] Insere parametros na busca 
+2020-01-13 17:17:41,112 INFO  [TestBuscaLupa] Clica no elemento que foi buscado 
+2020-01-13 17:17:41,113 INFO  [TestBuscaLupa] Executa a busca pela lupa 
+2020-01-13 17:17:41,113 INFO  [TestBuscaLupa] Realiza a comparação através do método Assert 
+2020-01-13 17:17:41,117 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 17:17:41,462 INFO  [TestBuscaLupa] Tira um PrintScreen 
+2020-01-13 17:17:41,556 INFO  [TestBuscaLupa] Configurado arquivo de registros de log 
+2020-01-13 17:17:41,557 INFO  [TestBuscaLupa] Realizada a configuração do driver 
+2020-01-13 17:17:46,631 INFO  [TestBuscaLupa] Inicialização do navegador Chrome 
+2020-01-13 17:17:46,637 INFO  [TestBuscaLupa] Foi aplicado no driver um comando de espera por 10 segundos 
+2020-01-13 17:17:50,792 INFO  [TestBuscaLupa] A janela foi maximizada 
+2020-01-13 17:17:51,681 INFO  [TestBuscaLupa] O Website foi acessado 
+2020-01-13 17:17:51,715 INFO  [TestBuscaLupa] O arquivo do excel foi configurado 
+2020-01-13 17:17:51,720 INFO  [TestBuscaLupa] Aguarda 10s 
+2020-01-13 17:17:51,720 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-13 17:17:52,547 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é Computador 
+2020-01-13 17:17:52,719 INFO  [TestBuscaLupa] Insere parametros na busca 

@@ -14,10 +14,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import br.com.rsinet.hub_TDD.modulos.ModuloCadastra;
 import br.com.rsinet.hub_TDD.modulos.ModuloHomePage;
+import br.com.rsinet.hub_TDD.screenShots.Print;
 import br.com.rsinet.hub_TDD.utils.ExcelUtils;
 import br.com.rsinet.hub_TDD.utils.constantes;
 
-public class TesdeCadastraNovoUser {
+public class TestCadastraNovoUser {
 
 	static Logger Log = Logger.getLogger("br.com.rsinet.hub_TDD.TesteCadastraNovoUser");
 	static WebDriver driver;
@@ -53,7 +54,7 @@ public class TesdeCadastraNovoUser {
 	}
 
 	@Test
-	public void testa() throws Exception {
+	public void testaCadastroValido() throws Exception {
 		try {
 
 			ModuloHomePage.executa(driver);
@@ -66,20 +67,45 @@ public class TesdeCadastraNovoUser {
 			Log.info("Foi impresso o caminho do erro");
 		}
 
-		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-		Log.info("Foi aplicado um comando de espera no driver por 15 segundos");
-
-		//FALTA A IMPLEMENTAÇÃO DOS METODOS COMPARATIVOS DE TESTE
+		// FALTA A IMPLEMENTAÇÃO DOS METODOS COMPARATIVOS DE TESTE
+		Thread.sleep(8000);
 		String url = driver.getCurrentUrl();
 		System.out.println(url);
-		assertTrue("Usuário cadastrado com sucesso", url.equals("https://www.advantageonlineshopping.com/#/register"));
 
+		assertTrue("Usuário cadastrado com sucesso", url.equals("https://www.advantageonlineshopping.com/#/"));
+		Log.info("Realiza a comparação através do método Assert");
+		
+		Print.takeSnapShot("TesteCadastraUsuariocomsucesso", driver);
+		Log.info("Tira um PrintScreen");
 	}
+	@Test
+	public void testaCadastroInvalido() throws Exception {
+		try {
 
+			ModuloHomePage.executa(driver);
+			Log.info("O modulo da página inicial foi executado com sucesso");
+			ModuloCadastra.executa(driver);
+			Log.info("O módulo do cadastro foi executado com sucesso");
+		} catch (Exception e) {
+			Log.info("Ocorreu uma exceção");
+			e.printStackTrace();
+			Log.info("Foi impresso o caminho do erro");
+		}
+
+		// FALTA A IMPLEMENTAÇÃO DOS METODOS COMPARATIVOS DE TESTE
+		Thread.sleep(8000);
+		String url = driver.getCurrentUrl();
+		System.out.println(url);
+
+		assertTrue("Usuário não cadastrado", url.equals("https://www.advantageonlineshopping.com/#/register"));
+		Log.info("Realiza a comparação através do método Assert");
+		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+		Print.takeSnapShot("TesteCadastraUsuariocomFalha", driver);
+		Log.info("Tira um PrintScreen");}
 	@After
 
 	public void encerra() {
 
-		//driver.quit();
+		driver.quit();
 	}
 }

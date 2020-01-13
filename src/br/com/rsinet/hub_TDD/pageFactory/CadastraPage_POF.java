@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
-public class Cadastra_Page {
+public class CadastraPage_POF {
 	
 	static WebDriver driver;
 	

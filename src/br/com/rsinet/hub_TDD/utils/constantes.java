@@ -17,6 +17,7 @@ public class constantes {
 	public static final int Col_Endereco = 8;
 	public static final int Col_Estado = 9;
 	public static final int Col_CEP = 10;
-//	public static final String Path_ScreenShot = "D://ToolsQA//OnlineStore//src//Screenshots//";
+	public static final int Col_NomeBusca = 0;
+	public static final int Col_Elemento = 1;
 
 }
