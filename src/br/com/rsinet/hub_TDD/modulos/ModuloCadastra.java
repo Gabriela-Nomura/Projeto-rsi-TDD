@@ -19,14 +19,18 @@ import br.com.rsinet.hub_TDD.utils.constantes;
 
 public class ModuloCadastra {
 
-	private static WebDriver driver;
 
-	public static void executa() throws Exception {
-		 Logger Log = Logger.getLogger("br.com.rsinet.hub_TDD.ModuloCadastra");
-		 
-//		 This is to get the values from Excel sheet, passing parameters (Row num &amp; Col num)to getCellData method
+	public static void executa(WebDriver driver) throws Exception {
+		
+		Logger Log = Logger.getLogger("br.com.rsinet.hub_TDD.ModuloCadastra");
+		
+//		System.setProperty("Webdriver.chrome.driver", "C:\\Users\\gabriela.nomura\\driver");
+//		Log.info("Realizada a configuração do driver");
+				 
 		 PageFactory.initElements(driver, Cadastra_Page.class);
 			Log.info("A fabrica de objetos da página de cadastro foi instanciada");
+//		 This is to get the values from Excel sheet, passing parameters (Row num &amp; Col num)to getCellData method
+		 
 			
 		String sNomeUsuario = ExcelUtils.getCellData(1, constantes.Col_userName);
 		Log.info("O nome de usuário obtido do excel é "+ sNomeUsuario );
@@ -58,7 +62,7 @@ public class ModuloCadastra {
 		Cadastra_Page.ultimoNome.sendKeys(sUltimoNome);
 		Log.info("Insere o ultimo nome do usuário");
 		
-		String sTelefone = ExcelUtils.getCellData(1, constantes.Col_Telefone);
+		String sTelefone = ExcelUtils.getCellData(1, constantes.Col_Telefone).toString();
 		Log.info("O telefone do usuário obtida do excel é "+ sTelefone);
 		Cadastra_Page.telefoneUsuario.sendKeys(sTelefone);
 		Log.info("Insere o telefone do usuário");
@@ -81,8 +85,21 @@ public class ModuloCadastra {
 		Log.info("O endereço obtida do excel é "+ sEndereco);
 		Cadastra_Page.enderecoUsuario.sendKeys(sEndereco);
 		Log.info("Insere o endereço do usuário");
+		
+		String sEstado = ExcelUtils.getCellData(1, constantes.Col_Estado);
+		Log.info("O estado obtido do excel é "+ sEstado);
+		Cadastra_Page.estadoUsuario.sendKeys(sEstado);
+		Log.info("Insere o estado do usuário");
+		
+
+		String sCEP = ExcelUtils.getCellData(1, constantes.Col_CEP).toString();
+		Log.info("O endereço obtida do excel é "+ sCEP);
+		Cadastra_Page.cepUsuario.sendKeys(sCEP);
+		Log.info("Insere o CEP do usuário");
+		
 		Cadastra_Page.aceitaTermos.click();
 		Cadastra_Page.registraUsuario.click();
+		
 	}
 }
 		

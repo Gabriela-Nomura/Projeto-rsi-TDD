@@ -53,7 +53,7 @@ public class Cadastra_Page {
 	 @FindBy(how = How.XPATH, using = "//*[@id=\"formCover\"]/sec-view/div/input")
 	 public static WebElement aceitaTermos;
 	 
-	 @FindBy(how = How.ID, using = "register_btnundefined")
+	 @FindBy(how = How.XPATH, using = "//*[@id=\"register_btnundefined\"]")
 	 public static WebElement registraUsuario;
 	 
 
