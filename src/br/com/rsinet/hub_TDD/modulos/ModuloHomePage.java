@@ -29,13 +29,13 @@ public class ModuloHomePage {
 		HomePage_POF.minhaConta.click();
 		Log.info("O link minha conta foi acessado");
 
-		Thread.sleep(8000);
+		Thread.sleep(5000);
 		Log.info("Foi aplicado um comando de espera no driver por 15 segundos");
 
 		HomePage_POF.novaConta.sendKeys(Keys.ENTER);
 		Log.info("O link nova conta recebeu um clique");
 
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 		Log.info("Foi aplicado um comando de espera no driver por 10 segundos");
 	}
 

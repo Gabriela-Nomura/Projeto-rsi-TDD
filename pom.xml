@@ -17,7 +17,6 @@
     </plugins>
   </build>
   <dependencies>
- 
 <dependency>
     <groupId>log4j</groupId>
     <artifactId>log4j</artifactId>
@@ -32,6 +31,12 @@
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
     <version>3.4</version>
+</dependency>
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.0.0</version>
+    <scope>compile</scope>
 </dependency>
 <dependency>
     <groupId>com.metamx</groupId>

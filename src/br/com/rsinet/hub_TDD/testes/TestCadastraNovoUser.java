@@ -1,19 +1,22 @@
 package br.com.rsinet.hub_TDD.testes;
 
-import static org.junit.Assert.assertTrue;
+import static org.testng.AssertJUnit.assertTrue;
 
+import org.testng.Reporter;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.Test;
+import org.testng.annotations.BeforeMethod;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import br.com.rsinet.hub_TDD.modulos.ModuloCadastra;
 import br.com.rsinet.hub_TDD.modulos.ModuloHomePage;
+import br.com.rsinet.hub_TDD.pageFactory.CadastraPage_POF;
 import br.com.rsinet.hub_TDD.screenShots.Print;
 import br.com.rsinet.hub_TDD.utils.ExcelUtils;
 import br.com.rsinet.hub_TDD.utils.constantes;
@@ -23,7 +26,7 @@ public class TestCadastraNovoUser {
 	static Logger Log = Logger.getLogger("br.com.rsinet.hub_TDD.TesteCadastraNovoUser");
 	static WebDriver driver;
 
-	@Before
+	@BeforeMethod
 	public void configuracoes() throws Exception {
 
 		DOMConfigurator.configure("log4j.xml");
@@ -50,10 +53,10 @@ public class TestCadastraNovoUser {
 
 		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 		Log.info("Foi aplicado no driver um comando de espera por 15 segundos");
-
+		Reporter.log(" A aplicação foi iniciada com sucesso");
 	}
 
-	@Test
+	@Test (priority = 0)
 	public void testaCadastroValido() throws Exception {
 		try {
 
@@ -65,6 +68,7 @@ public class TestCadastraNovoUser {
 			Log.info("Ocorreu uma exceção");
 			e.printStackTrace();
 			Log.info("Foi impresso o caminho do erro");
+			Reporter.log("Um novo usuário foi cadastrado com sucesso");
 		}
 
 		// FALTA A IMPLEMENTAÇÃO DOS METODOS COMPARATIVOS DE TESTE
@@ -78,7 +82,7 @@ public class TestCadastraNovoUser {
 		Print.takeSnapShot("TesteCadastraUsuariocomsucesso", driver);
 		Log.info("Tira um PrintScreen");
 	}
-	@Test
+	@Test (priority = 1)
 	public void testaCadastroInvalido() throws Exception {
 		try {
 
@@ -90,20 +94,26 @@ public class TestCadastraNovoUser {
 			Log.info("Ocorreu uma exceção");
 			e.printStackTrace();
 			Log.info("Foi impresso o caminho do erro");
+			Reporter.log("O usuário não foi cadastrado");
 		}
 
 		// FALTA A IMPLEMENTAÇÃO DOS METODOS COMPARATIVOS DE TESTE
-		Thread.sleep(8000);
+		Thread.sleep(5000);
+		
 		String url = driver.getCurrentUrl();
-		System.out.println(url);
-
+		
+		
 		assertTrue("Usuário não cadastrado", url.equals("https://www.advantageonlineshopping.com/#/register"));
 		Log.info("Realiza a comparação através do método Assert");
+		
 		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+		CadastraPage_POF.registraUsuario.click();
+		JavascriptExecutor jse = (JavascriptExecutor)driver;
+		jse.executeScript("scrollBy(0,150)", ""); 
+		
 		Print.takeSnapShot("TesteCadastraUsuariocomFalha", driver);
 		Log.info("Tira um PrintScreen");}
-	@After
-
+	@AfterMethod
 	public void encerra() {
 
 		driver.quit();

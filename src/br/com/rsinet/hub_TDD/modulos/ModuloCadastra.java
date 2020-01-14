@@ -86,7 +86,9 @@ public class ModuloCadastra {
 		Log.info("Insere o CEP do usuário");
 
 		CadastraPage_POF.aceitaTermos.click();
+		Log.info("Os termos de privacidade foram aceitos");
+		
 		CadastraPage_POF.registraUsuario.click();
-
+		Log.info("O link para registrar um usuário recebeu um clique");
 	}
 }
