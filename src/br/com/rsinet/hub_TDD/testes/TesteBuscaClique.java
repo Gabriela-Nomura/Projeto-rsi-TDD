@@ -88,35 +88,34 @@ public class TesteBuscaClique {
 		Reporter.log(" A aplicação foi iniciada com sucesso |");
 		WebDriverWait wait = new WebDriverWait(driver, 15);
 		wait.until(ExpectedConditions.urlToBe("https://www.advantageonlineshopping.com/#/"));
-		WebElement HP = driver.findElement(By.id("details_10"));
-		Log.info("Localiza o elemento: HP ELITEBOOK FOLIO ");
+		
 //		JavascriptExecutor jse = (JavascriptExecutor) driver;
 //		jse.executeScript("scrollBy(0,750)", "");
 		Actions acao = new Actions(driver);
-		acao.moveToElement(HP);
+		acao.sendKeys(Keys.PAGE_DOWN).perform();
 		Log.info("Aplica um scroll na tela para que o elemento fique visível para o print");
-
+		
+		
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		Log.info("Aguarda 10s");
 		
 		
-		
+		WebElement HP = driver.findElement(By.id("details_10"));
+		Log.info("Localiza o elemento: HP ELITEBOOK FOLIO ");
+		wait.until(ExpectedConditions.elementToBeClickable(HP));
 		Print.takeSnapShot("TesteBuscaCliquecomfalha1", driver);
 		Log.info("Tira um PrintScreen 1");
-
-		HP.sendKeys(Keys.ENTER);
+		
+		HP.click();
 		Log.info("Clica no item popular HP ELITEBOOK FOLIO");
 
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		Log.info("Aguarda 10s");
-
 		driver.findElement(By.xpath("//*[@id=\"productProperties\"]/div[3]/button")).click();
-		Log.info("Adiciona o item ao carriho");
-
+		
 		driver.findElement(By.id("checkOutPopUp")).click();
-		Log.info("Vai para página de checkout");
 
-		AssertJUnit.assertTrue(driver.getPageSource().contains("HP CHROMEBOOK 14 G1"));
+		AssertJUnit.assertTrue(driver.getPageSource().contains("HP CHROMEBOOK 14 G1(ES)"));
 		Log.info("Confirma que o item adicionado é diferente do item clicado inicialmente");
 		Reporter.log("O produto inserido no carrinho é divergente do produto selecionado na tela inicial");
 		
