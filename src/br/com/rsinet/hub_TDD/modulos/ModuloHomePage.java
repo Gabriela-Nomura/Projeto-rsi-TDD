@@ -19,7 +19,7 @@ import br.com.rsinet.hub_TDD.pageFactory.HomePage_POF;
 
 public class ModuloHomePage {
 
-	static Logger Log = Logger.getLogger("br.com.rsinet.hub_TDD.ModuloHomePage");
+	static Logger Log = Logger.getLogger("Modulo da página inicial");
 
 	public static void executa(WebDriver driver) throws Exception {
 
@@ -27,16 +27,16 @@ public class ModuloHomePage {
 		Log.info("A fabrica de objetos da página inicial foi instanciada");
 
 		HomePage_POF.minhaConta.click();
-		Log.info("O link minha conta foi acessado");
+		Log.info("O link minha conta recebu um clique");
 
-		Thread.sleep(5000);
-		Log.info("Foi aplicado um comando de espera no driver por 15 segundos");
+		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
+		Log.info("Foi aplicado um comando de espera para carregamento da página de 20 segundos");
 
 		HomePage_POF.novaConta.sendKeys(Keys.ENTER);
 		Log.info("O link nova conta recebeu um clique");
 
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-		Log.info("Foi aplicado um comando de espera no driver por 10 segundos");
+		Log.info("Foi aplicado um comando de espera no driver por 5 segundos");
 	}
 
 }
