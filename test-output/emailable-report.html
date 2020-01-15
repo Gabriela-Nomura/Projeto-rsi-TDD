@@ -8,22 +8,18 @@
 <body>
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
-<tr><th colspan="7">Default suite</th></tr>
-<tr><td><a href="#t0">Default test</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">32.002</td><td></td><td></td></tr>
+<tr><th colspan="7">Teste - Suite</th></tr>
+<tr><td><a href="#t0">br.com.rsinet.hub_TDD</a></td><td class="num">5</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">114.253</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Default suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Default test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">br.com.rsinet.hub_TDD.testes.TesteBuscaClique</td><td><a href="#m0">testaBuscaCliqueInvalido</a></td><td rowspan="1">1579109207818</td><td rowspan="1">3605</td></tr><tr><th colspan="4">Default test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">br.com.rsinet.hub_TDD.testes.TesteBuscaClique</td><td><a href="#m1">testaBuscaCliqueValido</a></td><td rowspan="1">1579109221627</td><td rowspan="1">5940</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Teste - Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">br.com.rsinet.hub_TDD &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">br.com.rsinet.hub_TDD.testes.TestBuscaLupa</td><td><a href="#m0">testaBuscaLupaValido</a></td><td rowspan="1">1579114359680</td><td rowspan="1">3084</td></tr><tr><th colspan="4">br.com.rsinet.hub_TDD &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">br.com.rsinet.hub_TDD.testes.TestBuscaLupa</td><td><a href="#m1">testaBuscaLupaInvalido</a></td><td rowspan="1">1579114343108</td><td rowspan="1">6077</td></tr><tr class="passedodd"><td rowspan="2">br.com.rsinet.hub_TDD.testes.TesteBuscaClique</td><td><a href="#m2">testaBuscaCliqueInvalido</a></td><td rowspan="1">1579114373330</td><td rowspan="1">5130</td></tr><tr class="passedodd"><td><a href="#m3">testaBuscaCliqueValido</a></td><td rowspan="1">1579114389033</td><td rowspan="1">6628</td></tr><tr class="passedeven"><td rowspan="2">br.com.rsinet.hub_TDD.testes.TesteCadastro</td><td><a href="#m4">testeCadastroInvalido</a></td><td rowspan="1">1579114437096</td><td rowspan="1">6413</td></tr><tr class="passedeven"><td><a href="#m5">testeCadastroValido</a></td><td rowspan="1">1579114406228</td><td rowspan="1">19547</td></tr></tbody>
 </table>
-<h2>Default test</h2><h3 id="m0">br.com.rsinet.hub_TDD.testes.TesteBuscaClique#testaBuscaCliqueInvalido</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages"> A aplicação foi iniciada com sucesso |</div></td></tr><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.ElementNotInteractableException: element not interactable
+<h2>br.com.rsinet.hub_TDD</h2><h3 id="m0">br.com.rsinet.hub_TDD.testes.TestBuscaLupa#testaBuscaLupaValido</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages"> A aplicação foi iniciada com sucesso |<br/>O campo de busca recebeu os parâmetros enviados |</div></td></tr><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;img id=&quot;16&quot; alt=&quot;&quot; class=&quot;imgProduct&quot; data-ng-class=&quot;{ outOfStock : product.productStatus == &apos;OutOfStock&apos; } &quot; data-ng-src=&quot;/catalog/fetchImage?image_id=3100&quot; src=&quot;/catalog/fetchImage?image_id=3100&quot;&gt; is not clickable at point (388, 391). Other element would receive the click: &lt;div class=&quot;loader&quot; style=&quot;display: block; opacity: 0.00389931;&quot;&gt;...&lt;/div&gt;
   (Session info: chrome=79.0.3945.117)
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
 System info: host: &apos;RSI1505&apos;, ip: &apos;10.1.11.154&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_231&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\GABRIE~1.NOM\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:51189}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: c243a8cfea62be0929334d0cd959c6e5
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\GABRIE~1.NOM\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:51287}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 03868cc9c9945ecb75f35f9f1f8e3c78
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
@@ -31,37 +27,14 @@ Session ID: c243a8cfea62be0929334d0cd959c6e5
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
 	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)
-	at br.com.rsinet.hub_TDD.testes.TesteBuscaClique.testaBuscaCliqueInvalido(TesteBuscaClique.java:107)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
-	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
-	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
-	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at br.com.rsinet.hub_TDD.testes.TestBuscaLupa.testaBuscaLupaValido(TestBuscaLupa.java:69)
 	at java.util.ArrayList.forEach(Unknown Source)
-	at org.testng.TestRunner.privateRun(TestRunner.java:770)
-	at org.testng.TestRunner.run(TestRunner.java:591)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:304)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
-	at org.testng.TestNG.runSuites(TestNG.java:1032)
-	at org.testng.TestNG.run(TestNG.java:1000)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">br.com.rsinet.hub_TDD.testes.TesteBuscaClique#testaBuscaCliqueValido</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages"> A aplicação foi iniciada com sucesso |<br/> O produto clicado foi correspondente ao aberto |<br/> O produto selecionado foi inserido no carrinho com sucesso |</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">br.com.rsinet.hub_TDD.testes.TestBuscaLupa#testaBuscaLupaInvalido</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages"> A aplicação foi iniciada com sucesso |<br/> A página é deslizada para que o elemento desejado fique visível |<br/> A busca foi realizada com sucesso |<br/> A busca pela lupa não retornou o resultado esperado | <br/> O teste foi finalizado </div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">br.com.rsinet.hub_TDD.testes.TesteBuscaClique#testaBuscaCliqueInvalido</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages"> A aplicação foi iniciada com sucesso |<br/>O produto inserido no carrinho é divergente do produto selecionado na tela inicial</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">br.com.rsinet.hub_TDD.testes.TesteBuscaClique#testaBuscaCliqueValido</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages"> A aplicação foi iniciada com sucesso |<br/> O produto clicado foi correspondente ao aberto |<br/> O produto selecionado foi inserido no carrinho com sucesso |</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">br.com.rsinet.hub_TDD.testes.TesteCadastro#testeCadastroInvalido</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">O usuário não foi cadastrado<br/>A mensagem de usuário já cadastrado foi obtida com sucesso<br/> O teste foi finalizado </div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">br.com.rsinet.hub_TDD.testes.TesteCadastro#testeCadastroValido</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages"> A aplicação foi iniciada com sucesso |<br/> A página de criação de novo usuário foi acessada |<br/>Um novo usuário foi cadastrado com sucesso |<br/>O teste de cadastro válido foi concluído com sucesso |<br/> A aplicação foi encerrada</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="2" passed="1">
+<testng-results skipped="0" failed="1" ignored="0" total="6" passed="5">
   <reporter-output>
     <line>
       <![CDATA[ A aplicação foi iniciada com sucesso |]]>
+    </line>
+    <line>
+      <![CDATA[ A página é deslizada para que o elemento desejado fique visível |]]>
+    </line>
+    <line>
+      <![CDATA[ A busca foi realizada com sucesso |]]>
+    </line>
+    <line>
+      <![CDATA[ A busca pela lupa não retornou o resultado esperado | ]]>
+    </line>
+    <line>
+      <![CDATA[ O teste foi finalizado ]]>
+    </line>
+    <line>
+      <![CDATA[ A aplicação foi iniciada com sucesso |]]>
+    </line>
+    <line>
+      <![CDATA[O campo de busca recebeu os parâmetros enviados |]]>
+    </line>
+    <line>
+      <![CDATA[ A aplicação foi iniciada com sucesso |]]>
+    </line>
+    <line>
+      <![CDATA[O produto inserido no carrinho é divergente do produto selecionado na tela inicial]]>
     </line>
     <line>
       <![CDATA[ A aplicação foi iniciada com sucesso |]]>
@@ -13,35 +37,127 @@
     <line>
       <![CDATA[ O produto selecionado foi inserido no carrinho com sucesso |]]>
     </line>
+    <line>
+      <![CDATA[ A aplicação foi iniciada com sucesso |]]>
+    </line>
+    <line>
+      <![CDATA[ A página de criação de novo usuário foi acessada |]]>
+    </line>
+    <line>
+      <![CDATA[Um novo usuário foi cadastrado com sucesso |]]>
+    </line>
+    <line>
+      <![CDATA[O teste de cadastro válido foi concluído com sucesso |]]>
+    </line>
+    <line>
+      <![CDATA[ A aplicação foi encerrada]]>
+    </line>
+    <line>
+      <![CDATA[O usuário não foi cadastrado]]>
+    </line>
+    <line>
+      <![CDATA[A mensagem de usuário já cadastrado foi obtida com sucesso]]>
+    </line>
+    <line>
+      <![CDATA[ O teste foi finalizado ]]>
+    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="32002" started-at="2020-01-15T14:26:35 BRT" finished-at="2020-01-15T14:27:07 BRT">
+  <suite name="Teste - Suite" duration-ms="114253" started-at="2020-01-15T15:52:09 BRT" finished-at="2020-01-15T15:54:04 BRT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="32002" started-at="2020-01-15T14:26:35 BRT" finished-at="2020-01-15T14:27:07 BRT">
+    <test name="br.com.rsinet.hub_TDD" duration-ms="114253" started-at="2020-01-15T15:52:09 BRT" finished-at="2020-01-15T15:54:04 BRT">
       <class name="br.com.rsinet.hub_TDD.testes.TesteBuscaClique">
-        <test-method status="PASS" signature="configuracoes()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@26a7b76d]" name="configuracoes" is-config="true" duration-ms="12157" started-at="2020-01-15T14:26:35 BRT" finished-at="2020-01-15T14:26:47 BRT">
+        <test-method status="PASS" signature="configuracoes()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@1500955a]" name="configuracoes" is-config="true" duration-ms="10484" started-at="2020-01-15T15:52:42 BRT" finished-at="2020-01-15T15:52:53 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configuracoes -->
-        <test-method status="FAIL" signature="testaBuscaCliqueInvalido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@26a7b76d]" name="testaBuscaCliqueInvalido" duration-ms="3605" started-at="2020-01-15T14:26:47 BRT" finished-at="2020-01-15T14:26:51 BRT">
-          <exception class="org.openqa.selenium.ElementNotInteractableException">
+        <test-method status="PASS" signature="testaBuscaCliqueInvalido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@1500955a]" name="testaBuscaCliqueInvalido" duration-ms="5130" started-at="2020-01-15T15:52:53 BRT" finished-at="2020-01-15T15:52:58 BRT">
+          <reporter-output>
+            <line>
+              <![CDATA[ A aplicação foi iniciada com sucesso |]]>
+            </line>
+            <line>
+              <![CDATA[O produto inserido no carrinho é divergente do produto selecionado na tela inicial]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testaBuscaCliqueInvalido -->
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@1500955a]" name="encerra" is-config="true" duration-ms="66" started-at="2020-01-15T15:52:58 BRT" finished-at="2020-01-15T15:52:58 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- encerra -->
+        <test-method status="PASS" signature="configuracoes()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@1500955a]" name="configuracoes" is-config="true" duration-ms="10504" started-at="2020-01-15T15:52:58 BRT" finished-at="2020-01-15T15:53:09 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuracoes -->
+        <test-method status="PASS" signature="testaBuscaCliqueValido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@1500955a]" name="testaBuscaCliqueValido" duration-ms="6628" started-at="2020-01-15T15:53:09 BRT" finished-at="2020-01-15T15:53:15 BRT">
+          <reporter-output>
+            <line>
+              <![CDATA[ A aplicação foi iniciada com sucesso |]]>
+            </line>
+            <line>
+              <![CDATA[ O produto clicado foi correspondente ao aberto |]]>
+            </line>
+            <line>
+              <![CDATA[ O produto selecionado foi inserido no carrinho com sucesso |]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testaBuscaCliqueValido -->
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@1500955a]" name="encerra" is-config="true" duration-ms="74" started-at="2020-01-15T15:53:15 BRT" finished-at="2020-01-15T15:53:15 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- encerra -->
+      </class> <!-- br.com.rsinet.hub_TDD.testes.TesteBuscaClique -->
+      <class name="br.com.rsinet.hub_TDD.testes.TestBuscaLupa">
+        <test-method status="PASS" signature="configuracoes()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@7ce6a65d]" name="configuracoes" is-config="true" duration-ms="13161" started-at="2020-01-15T15:52:09 BRT" finished-at="2020-01-15T15:52:23 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuracoes -->
+        <test-method status="PASS" signature="testaBuscaLupaInvalido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@7ce6a65d]" name="testaBuscaLupaInvalido" duration-ms="6077" started-at="2020-01-15T15:52:23 BRT" finished-at="2020-01-15T15:52:29 BRT">
+          <reporter-output>
+            <line>
+              <![CDATA[ A aplicação foi iniciada com sucesso |]]>
+            </line>
+            <line>
+              <![CDATA[ A página é deslizada para que o elemento desejado fique visível |]]>
+            </line>
+            <line>
+              <![CDATA[ A busca foi realizada com sucesso |]]>
+            </line>
+            <line>
+              <![CDATA[ A busca pela lupa não retornou o resultado esperado | ]]>
+            </line>
+            <line>
+              <![CDATA[ O teste foi finalizado ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testaBuscaLupaInvalido -->
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@7ce6a65d]" name="encerra" is-config="true" duration-ms="96" started-at="2020-01-15T15:52:29 BRT" finished-at="2020-01-15T15:52:29 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- encerra -->
+        <test-method status="PASS" signature="configuracoes()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@7ce6a65d]" name="configuracoes" is-config="true" duration-ms="10386" started-at="2020-01-15T15:52:29 BRT" finished-at="2020-01-15T15:52:39 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuracoes -->
+        <test-method status="FAIL" signature="testaBuscaLupaValido()[pri:1, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@7ce6a65d]" name="testaBuscaLupaValido" duration-ms="3084" started-at="2020-01-15T15:52:39 BRT" finished-at="2020-01-15T15:52:42 BRT">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
             <message>
-              <![CDATA[element not interactable
+              <![CDATA[element click intercepted: Element <img id="16" alt="" class="imgProduct" data-ng-class="{ outOfStock : product.productStatus == 'OutOfStock' } " data-ng-src="/catalog/fetchImage?image_id=3100" src="/catalog/fetchImage?image_id=3100"> is not clickable at point (388, 391). Other element would receive the click: <div class="loader" style="display: block; opacity: 0.00389931;">...</div>
   (Session info: chrome=79.0.3945.117)
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'RSI1505', ip: '10.1.11.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\GABRIE~1.NOM\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:51189}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: c243a8cfea62be0929334d0cd959c6e5]]>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\GABRIE~1.NOM\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:51287}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 03868cc9c9945ecb75f35f9f1f8e3c78]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <img id="16" alt="" class="imgProduct" data-ng-class="{ outOfStock : product.productStatus == 'OutOfStock' } " data-ng-src="/catalog/fetchImage?image_id=3100" src="/catalog/fetchImage?image_id=3100"> is not clickable at point (388, 391). Other element would receive the click: <div class="loader" style="display: block; opacity: 0.00389931;">...</div>
   (Session info: chrome=79.0.3945.117)
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'RSI1505', ip: '10.1.11.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\GABRIE~1.NOM\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:51189}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: c243a8cfea62be0929334d0cd959c6e5
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\GABRIE~1.NOM\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:51287}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 03868cc9c9945ecb75f35f9f1f8e3c78
 at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
 at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
@@ -53,8 +169,8 @@ at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.ja
 at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
 at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
-at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)
-at br.com.rsinet.hub_TDD.testes.TesteBuscaClique.testaBuscaCliqueInvalido(TesteBuscaClique.java:107)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+at br.com.rsinet.hub_TDD.testes.TestBuscaLupa.testaBuscaLupaValido(TestBuscaLupa.java:69)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -85,39 +201,71 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
           <reporter-output>
             <line>
               <![CDATA[ A aplicação foi iniciada com sucesso |]]>
             </line>
+            <line>
+              <![CDATA[O campo de busca recebeu os parâmetros enviados |]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- testaBuscaCliqueInvalido -->
-        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@26a7b76d]" name="encerra" is-config="true" duration-ms="62" started-at="2020-01-15T14:26:51 BRT" finished-at="2020-01-15T14:26:51 BRT">
+        </test-method> <!-- testaBuscaLupaValido -->
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@7ce6a65d]" name="encerra" is-config="true" duration-ms="77" started-at="2020-01-15T15:52:42 BRT" finished-at="2020-01-15T15:52:42 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- encerra -->
-        <test-method status="PASS" signature="configuracoes()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@26a7b76d]" name="configuracoes" is-config="true" duration-ms="10136" started-at="2020-01-15T14:26:51 BRT" finished-at="2020-01-15T14:27:01 BRT">
+      </class> <!-- br.com.rsinet.hub_TDD.testes.TestBuscaLupa -->
+      <class name="br.com.rsinet.hub_TDD.testes.TesteCadastro">
+        <test-method status="PASS" signature="configuracoes()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@e874448]" name="configuracoes" is-config="true" duration-ms="10490" started-at="2020-01-15T15:53:15 BRT" finished-at="2020-01-15T15:53:26 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configuracoes -->
-        <test-method status="PASS" signature="testaBuscaCliqueValido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@26a7b76d]" name="testaBuscaCliqueValido" duration-ms="5940" started-at="2020-01-15T14:27:01 BRT" finished-at="2020-01-15T14:27:07 BRT">
+        <test-method status="PASS" signature="testeCadastroValido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@e874448]" name="testeCadastroValido" duration-ms="19547" started-at="2020-01-15T15:53:26 BRT" finished-at="2020-01-15T15:53:45 BRT">
           <reporter-output>
             <line>
               <![CDATA[ A aplicação foi iniciada com sucesso |]]>
             </line>
             <line>
-              <![CDATA[ O produto clicado foi correspondente ao aberto |]]>
+              <![CDATA[ A página de criação de novo usuário foi acessada |]]>
             </line>
             <line>
-              <![CDATA[ O produto selecionado foi inserido no carrinho com sucesso |]]>
+              <![CDATA[Um novo usuário foi cadastrado com sucesso |]]>
+            </line>
+            <line>
+              <![CDATA[O teste de cadastro válido foi concluído com sucesso |]]>
+            </line>
+            <line>
+              <![CDATA[ A aplicação foi encerrada]]>
             </line>
           </reporter-output>
-        </test-method> <!-- testaBuscaCliqueValido -->
-        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@26a7b76d]" name="encerra" is-config="true" duration-ms="64" started-at="2020-01-15T14:27:07 BRT" finished-at="2020-01-15T14:27:07 BRT">
+        </test-method> <!-- testeCadastroValido -->
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@e874448]" name="encerra" is-config="true" duration-ms="697" started-at="2020-01-15T15:53:45 BRT" finished-at="2020-01-15T15:53:46 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- encerra -->
-      </class> <!-- br.com.rsinet.hub_TDD.testes.TesteBuscaClique -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        <test-method status="PASS" signature="configuracoes()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@e874448]" name="configuracoes" is-config="true" duration-ms="10621" started-at="2020-01-15T15:53:46 BRT" finished-at="2020-01-15T15:53:57 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuracoes -->
+        <test-method status="PASS" signature="testeCadastroInvalido()[pri:1, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@e874448]" name="testeCadastroInvalido" duration-ms="6413" started-at="2020-01-15T15:53:57 BRT" finished-at="2020-01-15T15:54:03 BRT">
+          <reporter-output>
+            <line>
+              <![CDATA[O usuário não foi cadastrado]]>
+            </line>
+            <line>
+              <![CDATA[A mensagem de usuário já cadastrado foi obtida com sucesso]]>
+            </line>
+            <line>
+              <![CDATA[ O teste foi finalizado ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testeCadastroInvalido -->
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@e874448]" name="encerra" is-config="true" duration-ms="658" started-at="2020-01-15T15:54:03 BRT" finished-at="2020-01-15T15:54:04 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- encerra -->
+      </class> <!-- br.com.rsinet.hub_TDD.testes.TesteCadastro -->
+    </test> <!-- br.com.rsinet.hub_TDD -->
+  </suite> <!-- Teste - Suite -->
 </testng-results>

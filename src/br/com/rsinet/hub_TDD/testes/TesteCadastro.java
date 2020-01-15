@@ -68,7 +68,7 @@ public class TesteCadastro {
 			Log.info("O modulo da página inicial foi executado com sucesso");
 			Reporter.log(" A página de criação de novo usuário foi acessada |");
 			
-			ModuloCadastra.executa(13, driver);
+			ModuloCadastra.executa(2, driver);
 			Log.info("O módulo do cadastro foi executado com sucesso");
 		
 		} catch (Exception e) {

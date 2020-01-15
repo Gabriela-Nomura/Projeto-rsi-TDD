@@ -1,0 +1,9 @@
+<suite name= "Teste - Suite" >
+<test name="br.com.rsinet.hub_TDD" >
+<classes>
+<class name="br.com.rsinet.hub_TDD.testes.TestBuscaLupa" />
+<class name="br.com.rsinet.hub_TDD.testes.TesteBuscaClique" />
+<class name="br.com.rsinet.hub_TDD.testes.TesteCadastro" />
+</classes>
+</test>
+ </suite>
