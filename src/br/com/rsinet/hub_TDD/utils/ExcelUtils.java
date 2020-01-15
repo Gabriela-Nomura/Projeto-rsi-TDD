@@ -86,7 +86,7 @@ Cell.setCellValue(Result);
 
    // Constant variables Test Data path and Test Data file name
 
-    FileOutputStream fileOut = new FileOutputStream(constantes.Path_TestData + constantes.File_TestData);
+    FileOutputStream fileOut = new FileOutputStream(constantes.Path_TestData);
 
     ExcelWBook.write(fileOut);
 

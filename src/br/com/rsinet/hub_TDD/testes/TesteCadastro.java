@@ -6,8 +6,10 @@ import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
+import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -19,8 +21,8 @@ import org.testng.annotations.Test;
 import br.com.rsinet.hub_TDD.modulos.ModuloCadastra;
 import br.com.rsinet.hub_TDD.modulos.ModuloHomePage;
 import br.com.rsinet.hub_TDD.pageFactory.CadastraPage_POF;
-import br.com.rsinet.hub_TDD.screenShots.Print;
 import br.com.rsinet.hub_TDD.utils.ExcelUtils;
+import br.com.rsinet.hub_TDD.utils.Print;
 import br.com.rsinet.hub_TDD.utils.constantes;
 
 public class TesteCadastro {
@@ -46,7 +48,7 @@ public class TesteCadastro {
 		driver.manage().window().maximize();
 		Log.info("A janela foi maximizada");
 
-		ExcelUtils.setExcelFile(constantes.Path_TestData, "Planilha1");
+		ExcelUtils.setExcelFile(constantes.Path_TestData, "TesteCadastro");
 		Log.info("Configurado o arquivo do excel a ser lido");
 
 		driver.get(constantes.URL);
@@ -60,21 +62,22 @@ public class TesteCadastro {
 	@Test(priority = 0)
 	public void testeCadastroValido() throws Exception {
 		try {
-			Reporter.log(" A aplicação foi iniciada com sucesso");
+			Reporter.log(" A aplicação foi iniciada com sucesso |");
 
 			ModuloHomePage.executa(driver);
 			Log.info("O modulo da página inicial foi executado com sucesso");
-
-			ModuloCadastra.executa(driver);
+			Reporter.log(" A página de criação de novo usuário foi acessada |");
+			
+			ModuloCadastra.executa(13, driver);
 			Log.info("O módulo do cadastro foi executado com sucesso");
-
+		
 		} catch (Exception e) {
 			Log.info("Ocorreu uma exceção");
 			e.printStackTrace();
 			Log.info("Foi impresso o caminho do erro");
 		}
-		Reporter.log("Um novo usuário foi cadastrado com sucesso");
-		WebDriverWait wait = new WebDriverWait(driver, 8);
+		Reporter.log("Um novo usuário foi cadastrado com sucesso |");
+		WebDriverWait wait = new WebDriverWait(driver, 15);
 		wait.until(ExpectedConditions.urlToBe("https://www.advantageonlineshopping.com/#/"));
 		Log.info("Driver recebeu um comando de espera para aguardar a atualização da Url");
 
@@ -83,21 +86,26 @@ public class TesteCadastro {
 
 		assertTrue("Usuário cadastrado com sucesso", url.equals("https://www.advantageonlineshopping.com/#/"));
 		Log.info("Realiza a comparação entre as urls esperada e a obtida");
-
+		WebElement element = driver.findElement(By.id("laptopsImg"));
+		wait.until(ExpectedConditions.elementToBeClickable(element));
+		Log.info("Driver recebeu um comando de espera implicito por 10 segundos");
+		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
+		
 		Print.takeSnapShot("TesteCadastroValido", driver);
 		Log.info("Um PrintScreen é obtido da tela atual");
-		Reporter.log("O teste de cadastro válido foi concluído com sucesso");
+		Reporter.log("O teste de cadastro válido foi concluído com sucesso |");
+		Reporter.log(" A aplicação foi encerrada");
 	}
 
 	@Test(priority = 1)
 	public void testeCadastroInvalido() throws Exception {
 		try {
-			Reporter.log(" A aplicação foi iniciada com sucesso");
+			
 
 			ModuloHomePage.executa(driver);
 			Log.info("O modulo da página inicial foi executado com sucesso");
 			
-			ModuloCadastra.executa(driver);
+			ModuloCadastra.executa(2, driver);
 			Log.info("O módulo do cadastro foi executado com sucesso");
 		} catch (Exception e) {
 			Log.info("Ocorreu uma exceção");
@@ -122,6 +130,8 @@ public class TesteCadastro {
 		Reporter.log("A mensagem de usuário já cadastrado foi obtida com sucesso");
 		Print.takeSnapShot("TesteCadastroInvalido", driver);
 		Log.info("Tira um PrintScreen para comprovar fim do teste");
+		Reporter.log(" O teste foi finalizado ");
+	
 	}
 
 	@AfterMethod

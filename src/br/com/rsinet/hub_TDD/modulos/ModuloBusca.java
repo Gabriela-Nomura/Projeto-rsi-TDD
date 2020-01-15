@@ -11,8 +11,8 @@ import org.openqa.selenium.support.PageFactory;
 
 import br.com.rsinet.hub_TDD.pageFactory.CadastraPage_POF;
 import br.com.rsinet.hub_TDD.pageFactory.HomePage_POF;
-import br.com.rsinet.hub_TDD.screenShots.Print;
 import br.com.rsinet.hub_TDD.utils.ExcelUtils;
+import br.com.rsinet.hub_TDD.utils.Print;
 import br.com.rsinet.hub_TDD.utils.constantes;
 
 public class ModuloBusca {
@@ -26,7 +26,7 @@ public class ModuloBusca {
 		Log.info("A fabrica de objetos da página inicial foi instanciada");
 
 		HomePage_POF.busca.click();
-		Log.info("O primeiro clique foi dado");
+		Log.info("O ícone de busca recebeu um clique");
 		
 		WebElement buscaBox = driver.findElement(By.id("autoComplete"));
 		
@@ -34,10 +34,10 @@ public class ModuloBusca {
 		Log.info("O nome de pesquisa obtido do excel é " + sbuscaNome);
 		
 		buscaBox.sendKeys(sbuscaNome + Keys.ENTER);
-		Log.info("Insere parametros na busca");
+		Log.info("Insere o valor obtido do excel no campo de busca");
 		
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		Log.info("Aguarda 10s");
+		Log.info("Driver recebeu um comando de espera implicito por 10 segundos");
 
 
 	}

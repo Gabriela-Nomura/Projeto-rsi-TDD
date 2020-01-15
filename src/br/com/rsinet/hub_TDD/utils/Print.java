@@ -1,4 +1,4 @@
-package br.com.rsinet.hub_TDD.screenShots;
+package br.com.rsinet.hub_TDD.utils;
 
 import java.io.File;
 
@@ -13,10 +13,10 @@ public class Print {
 
         TakesScreenshot scrShot = ((TakesScreenshot) driver);
         File srcFile = scrShot.getScreenshotAs(OutputType.FILE);
-        String imageFileDir = "C://Users//gabriela.nomura//eclipse-workspace//br.com.rsinet.hub_TDD//Print//";
+        String imageFileDir = "C://Users//gabriela.nomura//eclipse-workspace//br.com.rsinet.hub_TDD//src//br//com//rsinet//hub_TDD//screenShots//";
         FileUtils.copyFile(srcFile, new File(imageFileDir, nomeDoArquivoImagem + ".png"));
 
-
+        
     }
     }
 

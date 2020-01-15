@@ -15,14 +15,14 @@ import br.com.rsinet.hub_TDD.utils.constantes;
 
 public class ModuloCadastra {
 
-	public static void executa(WebDriver driver) throws Exception {
+	public static void executa(int i, WebDriver driver) throws Exception {
 
 		Logger Log = Logger.getLogger("Modulo da página de cadastro");
 
 		PageFactory.initElements(driver, CadastraPage_POF.class);
 		Log.info("A fabrica de objetos da página de cadastro foi instanciada");
 
-		String sNomeUsuario = ExcelUtils.getCellData(1, 0);
+		String sNomeUsuario = ExcelUtils.getCellData(i, 0);
 		Log.info("O nome de usuário obtido do excel é " + sNomeUsuario);
 		CadastraPage_POF.nomeUsuario.sendKeys(sNomeUsuario);
 		Log.info("Insere o nome de usuario");

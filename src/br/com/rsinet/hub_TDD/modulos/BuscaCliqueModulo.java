@@ -19,21 +19,21 @@ public class BuscaCliqueModulo {
 		Log.info("A fabrica de objetos da página inicial foi instanciada");
 		
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		Log.info("Foi aplicado no driver um comando de espera por 10 segundos");
+		Log.info("Driver recebeu um comando de espera implicito por 10 segundos");
 
 		HomePage_POF.HeadPhones.click();
-		Log.info("Clica na categoria Headphones");
+		Log.info("A categoria de Headphones recebeu um clique");
 		
 		driver.findElement(By.linkText("Beats Studio 2 Over-Ear Matte Black Headphones")).click();
 		Log.info("Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones");
 		
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		Log.info("Aguarda 10s");
+		Log.info("Driver recebeu um comando de espera implicito por 10 segundos");
 
 		driver.findElement(By.xpath("//*[@id=\"productProperties\"]/div[3]/button")).click();
-		Log.info("Adiciona o item ao carriho");
+		Log.info("Adiciona o produto procurado ao carrinho");
 
 		driver.findElement(By.id("checkOutPopUp")).click();
-		Log.info("Vai para página de checkout");
+		Log.info("A opção de checkout recebeu um clique");
 	}
 }

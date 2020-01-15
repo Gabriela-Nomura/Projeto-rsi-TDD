@@ -5,11 +5,13 @@ import java.util.concurrent.TimeUnit;
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
 import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.AssertJUnit;
 import org.testng.Reporter;
 import org.testng.annotations.AfterMethod;
@@ -17,8 +19,8 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import br.com.rsinet.hub_TDD.modulos.BuscaCliqueModulo;
-import br.com.rsinet.hub_TDD.screenShots.Print;
 import br.com.rsinet.hub_TDD.utils.ExcelUtils;
+import br.com.rsinet.hub_TDD.utils.Print;
 import br.com.rsinet.hub_TDD.utils.constantes;
 
 public class TesteBuscaClique {
@@ -30,42 +32,51 @@ public class TesteBuscaClique {
 	public void configuracoes() throws Exception {
 
 		DOMConfigurator.configure("log4j.xml");
-		Log.info("Configurado arquivo de registros de log");
+		Log.info("Configurado arquivo de registros de logs");
 
 		System.setProperty("webdriver.chrome.driver", "C:\\Drivers\\chromedriver.exe");
-		Log.info("Realizada a configuração do driver");
+		Log.info("Configurado driver de execução");
 
 		driver = new ChromeDriver();
-		Log.info("Inicialização do navegador Chrome");
+		Log.info("Novo driver instanciado");
+
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		Log.info("Driver recebeu um comando de espera implicito por 10 segundos");
 
 		driver.manage().window().maximize();
 		Log.info("A janela foi maximizada");
 
+		ExcelUtils.setExcelFile(constantes.Path_TestData, "TesteBusca");
+		Log.info("Configurado o arquivo do excel a ser lido");
+
 		driver.get(constantes.URL);
 		Log.info("O Website foi acessado");
 
-		ExcelUtils.setExcelFile(constantes.Path_TestData + constantes.File_TestData, "Teste2");
-		Log.info("O arquivo do excel foi configurado");
-	
-		Reporter.log("A aplicação foi iniciada com sucesso");
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		Log.info("Driver recebeu um comando de espera implicito por 10 segundos");
 	}
 
 	@Test
 	public void testaBuscaCliqueValido() throws Exception {
 
+		Reporter.log(" A aplicação foi iniciada com sucesso |");
+		WebDriverWait wait = new WebDriverWait(driver, 15);
+		wait.until(ExpectedConditions.urlToBe("https://www.advantageonlineshopping.com/#/"));
+		
 		BuscaCliqueModulo.executa(driver);
 		Log.info("O módulo de busca por clique foi executado com sucesso");
+		Reporter.log(" O produto clicado foi correspondente ao aberto |");
 		
-		driver.manage().timeouts().implicitlyWait(13, TimeUnit.SECONDS);
-		Log.info("Aguarda 10s");
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		Log.info("Driver recebeu um comando de espera implicito por 10 segundos");
 
 		WebElement elemento = driver.findElement(By.xpath("//*[@id=\"userCart\"]"));
 		Log.info("Localiza o produto no carrinho");
 
-		//		IMPLEMENTAÇÃO DO ASSERT
 		AssertJUnit.assertNotNull(elemento);
 		Log.info("Verifica que o produto foi inserido no carrinho com sucesso");
-		Reporter.log("O produto foi inserido no carrinho com sucesso");
+	
+		Reporter.log(" O produto selecionado foi inserido no carrinho com sucesso |");
 		
 		Print.takeSnapShot("TesteBuscaClique", driver);
 		Log.info("Tira um PrintScreen");
@@ -73,17 +84,22 @@ public class TesteBuscaClique {
 
 	@Test
 	public void testaBuscaCliqueInvalido() throws Exception {
-		Thread.sleep(3000);
 		
-		JavascriptExecutor jse = (JavascriptExecutor) driver;
-		jse.executeScript("scrollBy(0,750)", "");
+		Reporter.log(" A aplicação foi iniciada com sucesso |");
+		WebDriverWait wait = new WebDriverWait(driver, 15);
+		wait.until(ExpectedConditions.urlToBe("https://www.advantageonlineshopping.com/#/"));
+		WebElement HP = driver.findElement(By.id("details_10"));
+		Log.info("Localiza o elemento: HP ELITEBOOK FOLIO ");
+//		JavascriptExecutor jse = (JavascriptExecutor) driver;
+//		jse.executeScript("scrollBy(0,750)", "");
+		Actions acao = new Actions(driver);
+		acao.moveToElement(HP);
 		Log.info("Aplica um scroll na tela para que o elemento fique visível para o print");
 
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		Log.info("Aguarda 10s");
 		
-		WebElement HP = driver.findElement(By.id("details_10"));
-		Log.info("Localiza o elemento: HP ELITEBOOK FOLIO ");
+		
 		
 		Print.takeSnapShot("TesteBuscaCliquecomfalha1", driver);
 		Log.info("Tira um PrintScreen 1");
