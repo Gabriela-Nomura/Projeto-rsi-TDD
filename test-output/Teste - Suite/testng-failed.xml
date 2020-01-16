@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Teste - Suite]">
+  <test thread-count="5" name="br.com.rsinet.hub_TDD(failed)">
+    <classes>
+      <class name="br.com.rsinet.hub_TDD.testes.TestBuscaLupa">
+        <methods>
+          <include name="testaBuscaLupaValido"/>
+          <include name="encerra"/>
+          <include name="configuracoes"/>
+        </methods>
+      </class> <!-- br.com.rsinet.hub_TDD.testes.TestBuscaLupa -->
+    </classes>
+  </test> <!-- br.com.rsinet.hub_TDD(failed) -->
+</suite> <!-- Failed suite [Teste - Suite] -->

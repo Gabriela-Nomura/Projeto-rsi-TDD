@@ -87,7 +87,7 @@ public class TestBuscaLupa {
 		
 		Reporter.log(" A aplicação foi iniciada com sucesso |");
 		
-		WebDriverWait wait = new WebDriverWait(driver, 15);
+		WebDriverWait wait = new WebDriverWait(driver, 20);
 		wait.until(ExpectedConditions.urlToBe("https://www.advantageonlineshopping.com/#/"));
 	
 		JavascriptExecutor scroll = (JavascriptExecutor) driver;

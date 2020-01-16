@@ -1,0 +1,167 @@
+<html>
+<head>
+<title>TestNG:  br.com.rsinet.hub_TDD</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>br.com.rsinet.hub_TDD</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>6/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Jan 16 10:28:53 BRT 2020</td>
+</tr>
+<tr><td>Total time:</td><td>94 seconds (94349 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='br.com.rsinet.hub_TDD.testes.TesteBuscaClique.testaBuscaCliqueInvalido()'><b>testaBuscaCliqueInvalido</b><br>Test class: br.com.rsinet.hub_TDD.testes.TesteBuscaClique<br/>
+<a href="#Output-1806378373" onClick='toggleBox("Output-1806378373", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1806378373" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1806378373">
+ A aplicação foi iniciada com sucesso |<br/>
+O produto inserido no carrinho é divergente do produto selecionado na tela inicial<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>br.com.rsinet.hub_TDD.testes.TesteBuscaClique@1500955a</td></tr>
+<tr>
+<td title='br.com.rsinet.hub_TDD.testes.TesteBuscaClique.testaBuscaCliqueValido()'><b>testaBuscaCliqueValido</b><br>Test class: br.com.rsinet.hub_TDD.testes.TesteBuscaClique<br/>
+<a href="#Output-512256603" onClick='toggleBox("Output-512256603", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-512256603" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-512256603">
+ A aplicação foi iniciada com sucesso |<br/>
+ O produto clicado foi correspondente ao aberto |<br/>
+ O produto selecionado foi inserido no carrinho com sucesso |<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>br.com.rsinet.hub_TDD.testes.TesteBuscaClique@1500955a</td></tr>
+<tr>
+<td title='br.com.rsinet.hub_TDD.testes.TestBuscaLupa.testaBuscaLupaInvalido()'><b>testaBuscaLupaInvalido</b><br>Test class: br.com.rsinet.hub_TDD.testes.TestBuscaLupa<br/>
+<a href="#Output-2007486296" onClick='toggleBox("Output-2007486296", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2007486296" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2007486296">
+ A aplicação foi iniciada com sucesso |<br/>
+ A página é deslizada para que o elemento desejado fique visível |<br/>
+ A busca foi realizada com sucesso |<br/>
+ A busca pela lupa não retornou o resultado esperado | <br/>
+ O teste foi finalizado <br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>br.com.rsinet.hub_TDD.testes.TestBuscaLupa@7ce6a65d</td></tr>
+<tr>
+<td title='br.com.rsinet.hub_TDD.testes.TestBuscaLupa.testaBuscaLupaValido()'><b>testaBuscaLupaValido</b><br>Test class: br.com.rsinet.hub_TDD.testes.TestBuscaLupa<br/>
+<a href="#Output-2100572327" onClick='toggleBox("Output-2100572327", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2100572327" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2100572327">
+ A aplicação foi iniciada com sucesso |<br/>
+O campo de busca recebeu os parâmetros enviados |<br/>
+A aplicação retornou o produto pesquisado |<br/>
+A busca pela lupa foi realizada com sucesso<br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>br.com.rsinet.hub_TDD.testes.TestBuscaLupa@7ce6a65d</td></tr>
+<tr>
+<td title='br.com.rsinet.hub_TDD.testes.TesteCadastro.testeCadastroInvalido()'><b>testeCadastroInvalido</b><br>Test class: br.com.rsinet.hub_TDD.testes.TesteCadastro<br/>
+<a href="#Output-1993366729" onClick='toggleBox("Output-1993366729", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1993366729" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1993366729">
+O usuário não foi cadastrado<br/>
+A mensagem de usuário já cadastrado foi obtida com sucesso<br/>
+ O teste foi finalizado <br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>br.com.rsinet.hub_TDD.testes.TesteCadastro@e874448</td></tr>
+<tr>
+<td title='br.com.rsinet.hub_TDD.testes.TesteCadastro.testeCadastroValido()'><b>testeCadastroValido</b><br>Test class: br.com.rsinet.hub_TDD.testes.TesteCadastro<br/>
+<a href="#Output-1097069005" onClick='toggleBox("Output-1097069005", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1097069005" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1097069005">
+ A aplicação foi iniciada com sucesso |<br/>
+ A página de criação de novo usuário foi acessada |<br/>
+Um novo usuário foi cadastrado com sucesso |<br/>
+O teste de cadastro válido foi concluído com sucesso |<br/>
+ A aplicação foi encerrada<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>br.com.rsinet.hub_TDD.testes.TesteCadastro@e874448</td></tr>
+</table><p>
+</body>
+</html>

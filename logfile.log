@@ -555,3 +555,917 @@
 2020-01-15 15:54:03,128 INFO  [Teste de Cadastro] Foi aplicado um comando de rolagem de tela, para melhoria do print obtido 
 2020-01-15 15:54:03,509 INFO  [Teste de Cadastro] Tira um PrintScreen para comprovar fim do teste 
 2020-01-15 15:54:04,168 INFO  [Teste de Cadastro] O driver é encerrado 
+2020-01-15 16:23:57,381 INFO  [Logger] Configurado arquivo de registros de logs 
+2020-01-15 16:23:57,382 INFO  [Logger] Configurado driver de execução 
+2020-01-15 16:24:03,401 INFO  [Logger] Novo driver instanciado 
+2020-01-15 16:24:03,409 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:24:07,546 INFO  [Logger] A janela foi maximizada 
+2020-01-15 16:24:08,021 INFO  [Logger] Configurado o arquivo do excel a ser lido 
+2020-01-15 16:24:09,668 INFO  [Logger] O Website foi acessado 
+2020-01-15 16:24:09,674 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:24:10,548 INFO  [Logger] Aplica um scroll na tela para que o elemento fique visível para o print 
+2020-01-15 16:24:13,450 INFO  [Logger] Um PrintScreen é obtido da tela atual 
+2020-01-15 16:24:13,477 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-15 16:24:13,576 INFO  [TestBuscaLupa] O ícone de busca recebeu um clique 
+2020-01-15 16:24:13,609 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEBOOK FOLIO 
+2020-01-15 16:24:13,974 INFO  [TestBuscaLupa] Insere o valor obtido do excel no campo de busca 
+2020-01-15 16:24:13,978 INFO  [TestBuscaLupa] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:24:13,978 INFO  [Logger] Insere o valor no campo de pesquisa 
+2020-01-15 16:24:14,497 INFO  [Logger] Um comando de espera é fornecido ao driver para que aguarde pelo carregamento da página 
+2020-01-15 16:24:14,527 INFO  [Logger] A comparação com método Assert foi realizada com sucesso 
+2020-01-15 16:24:14,533 INFO  [Logger] Aguarda 10s 
+2020-01-15 16:24:14,871 INFO  [Logger] Tira um PrintScreen 
+2020-01-15 16:24:14,959 INFO  [Logger] Configurado arquivo de registros de logs 
+2020-01-15 16:24:14,960 INFO  [Logger] Configurado driver de execução 
+2020-01-15 16:24:20,063 INFO  [Logger] Novo driver instanciado 
+2020-01-15 16:24:20,069 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:24:24,209 INFO  [Logger] A janela foi maximizada 
+2020-01-15 16:24:24,287 INFO  [Logger] Configurado o arquivo do excel a ser lido 
+2020-01-15 16:24:25,257 INFO  [Logger] O Website foi acessado 
+2020-01-15 16:24:25,262 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:24:25,268 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:24:25,269 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-15 16:24:26,156 INFO  [TestBuscaLupa] O ícone de busca recebeu um clique 
+2020-01-15 16:24:26,169 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEPAD 1000 G2 TABLET 
+2020-01-15 16:24:26,486 INFO  [TestBuscaLupa] Insere o valor obtido do excel no campo de busca 
+2020-01-15 16:24:26,488 INFO  [TestBuscaLupa] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:24:26,488 INFO  [Logger] O módulo de busca foi executado com sucesso 
+2020-01-15 16:24:28,137 INFO  [Logger] Clica no elemento que foi buscado 
+2020-01-15 16:24:28,150 INFO  [Logger] Realiza a comparação através do método Assert 
+2020-01-15 16:24:28,154 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:24:28,507 INFO  [Logger] Tira um PrintScreen 
+2020-01-15 16:24:28,580 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-15 16:24:28,581 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-15 16:24:33,669 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-15 16:24:33,675 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:24:37,806 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-15 16:24:37,827 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-15 16:24:38,773 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-15 16:24:38,776 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:24:39,650 INFO  [TestBuscaClique] Aplica um scroll na tela para que o elemento fique visível para o print 
+2020-01-15 16:24:39,654 INFO  [TestBuscaClique] Aguarda 10s 
+2020-01-15 16:24:42,052 INFO  [TestBuscaClique] Localiza o elemento: HP ELITEBOOK FOLIO  
+2020-01-15 16:24:42,441 INFO  [TestBuscaClique] Tira um PrintScreen 1 
+2020-01-15 16:24:42,525 INFO  [TestBuscaClique] Clica no item popular HP ELITEBOOK FOLIO 
+2020-01-15 16:24:42,529 INFO  [TestBuscaClique] Aguarda 10s 
+2020-01-15 16:24:43,600 INFO  [TestBuscaClique] Confirma que o item adicionado é diferente do item clicado inicialmente 
+2020-01-15 16:24:43,968 INFO  [TestBuscaClique] Tira um PrintScreen 
+2020-01-15 16:24:44,021 INFO  [TestBuscaClique] Encerra o navegador 
+2020-01-15 16:24:44,031 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-15 16:24:44,031 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-15 16:24:49,138 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-15 16:24:49,142 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:24:53,265 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-15 16:24:53,289 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-15 16:24:54,168 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-15 16:24:54,172 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:24:54,947 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-15 16:24:54,951 INFO  [BuscaCliqueModulo] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:24:57,591 INFO  [BuscaCliqueModulo] A categoria de Headphones recebeu um clique 
+2020-01-15 16:24:58,597 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-15 16:24:58,602 INFO  [BuscaCliqueModulo] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:24:59,035 INFO  [BuscaCliqueModulo] Adiciona o produto procurado ao carrinho 
+2020-01-15 16:24:59,446 INFO  [BuscaCliqueModulo] A opção de checkout recebeu um clique 
+2020-01-15 16:24:59,446 INFO  [TestBuscaClique] O módulo de busca por clique foi executado com sucesso 
+2020-01-15 16:24:59,449 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:24:59,847 INFO  [TestBuscaClique] Localiza o produto no carrinho 
+2020-01-15 16:24:59,847 INFO  [TestBuscaClique] Verifica que o produto foi inserido no carrinho com sucesso 
+2020-01-15 16:25:00,174 INFO  [TestBuscaClique] Tira um PrintScreen 
+2020-01-15 16:25:00,234 INFO  [TestBuscaClique] Encerra o navegador 
+2020-01-15 16:25:00,245 INFO  [Teste de Cadastro] Configurado arquivo de registros de logs 
+2020-01-15 16:25:00,245 INFO  [Teste de Cadastro] Configurado driver de execução 
+2020-01-15 16:25:05,355 INFO  [Teste de Cadastro] Novo driver instanciado 
+2020-01-15 16:25:05,361 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:25:09,487 INFO  [Teste de Cadastro] A janela foi maximizada 
+2020-01-15 16:25:09,509 INFO  [Teste de Cadastro] Configurado o arquivo do excel a ser lido 
+2020-01-15 16:25:10,395 INFO  [Teste de Cadastro] O Website foi acessado 
+2020-01-15 16:25:10,398 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:25:10,400 INFO  [Modulo da página inicial] A fabrica de objetos da página inicial foi instanciada 
+2020-01-15 16:25:11,240 INFO  [Modulo da página inicial] O link minha conta recebu um clique 
+2020-01-15 16:25:11,242 INFO  [Modulo da página inicial] Foi aplicado um comando de espera para carregamento da página de 20 segundos 
+2020-01-15 16:25:11,731 INFO  [Modulo da página inicial] O link nova conta recebeu um clique 
+2020-01-15 16:25:11,735 INFO  [Modulo da página inicial] Foi aplicado um comando de espera no driver por 5 segundos 
+2020-01-15 16:25:11,735 INFO  [Teste de Cadastro] O modulo da página inicial foi executado com sucesso 
+2020-01-15 16:25:11,741 INFO  [Modulo da página de cadastro] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-15 16:25:11,741 INFO  [Modulo da página de cadastro] O nome de usuário obtido do excel é GabrlaSaraiva 
+2020-01-15 16:25:12,130 INFO  [Modulo da página de cadastro] Insere o nome de usuario 
+2020-01-15 16:25:12,130 INFO  [Modulo da página de cadastro] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-15 16:25:12,441 INFO  [Modulo da página de cadastro] Insere o email do usuário 
+2020-01-15 16:25:12,441 INFO  [Modulo da página de cadastro] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-15 16:25:12,644 INFO  [Modulo da página de cadastro] Insere a senha do usuário 
+2020-01-15 16:25:12,644 INFO  [Modulo da página de cadastro] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-15 16:25:12,846 INFO  [Modulo da página de cadastro] Insere a confirmação de senha do usuário 
+2020-01-15 16:25:12,846 INFO  [Modulo da página de cadastro] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-15 16:25:13,022 INFO  [Modulo da página de cadastro] Insere o primeiro nome do usuário 
+2020-01-15 16:25:13,023 INFO  [Modulo da página de cadastro] O último nome do usuário obtida do excel é Nomura 
+2020-01-15 16:25:13,189 INFO  [Modulo da página de cadastro] Insere o ultimo nome do usuário 
+2020-01-15 16:25:13,189 INFO  [Modulo da página de cadastro] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-15 16:25:13,381 INFO  [Modulo da página de cadastro] Insere o telefone do usuário 
+2020-01-15 16:25:13,545 INFO  [Modulo da página de cadastro] Seleciona a lista de países 
+2020-01-15 16:25:13,586 INFO  [Modulo da página de cadastro] Instancia um objeto select para manipulação da lista 
+2020-01-15 16:25:13,588 INFO  [Modulo da página de cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:25:13,709 INFO  [Modulo da página de cadastro] O país Brazil foi selecionado 
+2020-01-15 16:25:13,709 INFO  [Modulo da página de cadastro] A cidade obtida do excel é Osasco 
+2020-01-15 16:25:13,856 INFO  [Modulo da página de cadastro] Insere a cidade do usuário 
+2020-01-15 16:25:13,856 INFO  [Modulo da página de cadastro] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-15 16:25:14,295 INFO  [Modulo da página de cadastro] Insere o endereço do usuário 
+2020-01-15 16:25:14,295 INFO  [Modulo da página de cadastro] O estado obtido do excel é São Paulo 
+2020-01-15 16:25:14,457 INFO  [Modulo da página de cadastro] Insere o estado do usuário 
+2020-01-15 16:25:14,457 INFO  [Modulo da página de cadastro] O CEP obtido do excel é "6160450" 
+2020-01-15 16:25:14,599 INFO  [Modulo da página de cadastro] Insere o CEP do usuário 
+2020-01-15 16:25:14,732 INFO  [Modulo da página de cadastro] A opção de aceitação dos termos de privacidade foi selecionada 
+2020-01-15 16:25:14,821 INFO  [Modulo da página de cadastro] O link para registrar um novo usuário recebeu um clique 
+2020-01-15 16:25:14,821 INFO  [Teste de Cadastro] O módulo do cadastro foi executado com sucesso 
+2020-01-15 16:25:15,350 INFO  [Teste de Cadastro] Driver recebeu um comando de espera para aguardar a atualização da Url 
+2020-01-15 16:25:15,365 INFO  [Teste de Cadastro] O endereço da url foi obtido: https://www.advantageonlineshopping.com/#/ 
+2020-01-15 16:25:15,365 INFO  [Teste de Cadastro] Realiza a comparação entre as urls esperada e a obtida 
+2020-01-15 16:25:15,448 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:25:15,842 INFO  [Teste de Cadastro] Um PrintScreen é obtido da tela atual 
+2020-01-15 16:25:16,463 INFO  [Teste de Cadastro] O driver é encerrado 
+2020-01-15 16:25:16,478 INFO  [Teste de Cadastro] Configurado arquivo de registros de logs 
+2020-01-15 16:25:16,479 INFO  [Teste de Cadastro] Configurado driver de execução 
+2020-01-15 16:25:21,572 INFO  [Teste de Cadastro] Novo driver instanciado 
+2020-01-15 16:25:21,574 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:25:25,714 INFO  [Teste de Cadastro] A janela foi maximizada 
+2020-01-15 16:25:25,758 INFO  [Teste de Cadastro] Configurado o arquivo do excel a ser lido 
+2020-01-15 16:25:26,601 INFO  [Teste de Cadastro] O Website foi acessado 
+2020-01-15 16:25:26,605 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:25:26,606 INFO  [Modulo da página inicial] A fabrica de objetos da página inicial foi instanciada 
+2020-01-15 16:25:27,542 INFO  [Modulo da página inicial] O link minha conta recebu um clique 
+2020-01-15 16:25:27,545 INFO  [Modulo da página inicial] Foi aplicado um comando de espera para carregamento da página de 20 segundos 
+2020-01-15 16:25:28,101 INFO  [Modulo da página inicial] O link nova conta recebeu um clique 
+2020-01-15 16:25:28,104 INFO  [Modulo da página inicial] Foi aplicado um comando de espera no driver por 5 segundos 
+2020-01-15 16:25:28,104 INFO  [Teste de Cadastro] O modulo da página inicial foi executado com sucesso 
+2020-01-15 16:25:28,104 INFO  [Modulo da página de cadastro] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-15 16:25:28,105 INFO  [Modulo da página de cadastro] O nome de usuário obtido do excel é GabrlaSaraiva 
+2020-01-15 16:25:28,513 INFO  [Modulo da página de cadastro] Insere o nome de usuario 
+2020-01-15 16:25:28,513 INFO  [Modulo da página de cadastro] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-15 16:25:28,808 INFO  [Modulo da página de cadastro] Insere o email do usuário 
+2020-01-15 16:25:28,809 INFO  [Modulo da página de cadastro] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-15 16:25:28,996 INFO  [Modulo da página de cadastro] Insere a senha do usuário 
+2020-01-15 16:25:28,996 INFO  [Modulo da página de cadastro] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-15 16:25:29,171 INFO  [Modulo da página de cadastro] Insere a confirmação de senha do usuário 
+2020-01-15 16:25:29,172 INFO  [Modulo da página de cadastro] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-15 16:25:29,361 INFO  [Modulo da página de cadastro] Insere o primeiro nome do usuário 
+2020-01-15 16:25:29,361 INFO  [Modulo da página de cadastro] O último nome do usuário obtida do excel é Nomura 
+2020-01-15 16:25:29,497 INFO  [Modulo da página de cadastro] Insere o ultimo nome do usuário 
+2020-01-15 16:25:29,497 INFO  [Modulo da página de cadastro] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-15 16:25:29,717 INFO  [Modulo da página de cadastro] Insere o telefone do usuário 
+2020-01-15 16:25:29,875 INFO  [Modulo da página de cadastro] Seleciona a lista de países 
+2020-01-15 16:25:29,912 INFO  [Modulo da página de cadastro] Instancia um objeto select para manipulação da lista 
+2020-01-15 16:25:29,915 INFO  [Modulo da página de cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-15 16:25:30,018 INFO  [Modulo da página de cadastro] O país Brazil foi selecionado 
+2020-01-15 16:25:30,018 INFO  [Modulo da página de cadastro] A cidade obtida do excel é Osasco 
+2020-01-15 16:25:30,170 INFO  [Modulo da página de cadastro] Insere a cidade do usuário 
+2020-01-15 16:25:30,170 INFO  [Modulo da página de cadastro] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-15 16:25:30,597 INFO  [Modulo da página de cadastro] Insere o endereço do usuário 
+2020-01-15 16:25:30,597 INFO  [Modulo da página de cadastro] O estado obtido do excel é São Paulo 
+2020-01-15 16:25:30,751 INFO  [Modulo da página de cadastro] Insere o estado do usuário 
+2020-01-15 16:25:30,751 INFO  [Modulo da página de cadastro] O CEP obtido do excel é "6160450" 
+2020-01-15 16:25:30,907 INFO  [Modulo da página de cadastro] Insere o CEP do usuário 
+2020-01-15 16:25:30,987 INFO  [Modulo da página de cadastro] A opção de aceitação dos termos de privacidade foi selecionada 
+2020-01-15 16:25:31,086 INFO  [Modulo da página de cadastro] O link para registrar um novo usuário recebeu um clique 
+2020-01-15 16:25:31,087 INFO  [Teste de Cadastro] O módulo do cadastro foi executado com sucesso 
+2020-01-15 16:25:31,188 INFO  [Teste de Cadastro] O endereço da url foi obtido: https://www.advantageonlineshopping.com/#/register 
+2020-01-15 16:25:31,188 INFO  [Teste de Cadastro] Realiza a comparação entre as urls esperada e a obtida 
+2020-01-15 16:25:31,199 INFO  [Teste de Cadastro] Foi aplicado um comando de rolagem de tela, para melhoria do print obtido 
+2020-01-15 16:25:31,559 INFO  [Teste de Cadastro] Tira um PrintScreen para comprovar fim do teste 
+2020-01-15 16:25:32,176 INFO  [Teste de Cadastro] O driver é encerrado 
+2020-01-16 10:24:28,050 INFO  [Logger] Configurado arquivo de registros de logs 
+2020-01-16 10:24:28,051 INFO  [Logger] Configurado driver de execução 
+2020-01-16 10:24:34,432 INFO  [Logger] Novo driver instanciado 
+2020-01-16 10:24:34,444 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:24:38,571 INFO  [Logger] A janela foi maximizada 
+2020-01-16 10:24:39,355 INFO  [Logger] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:24:43,449 INFO  [Logger] O Website foi acessado 
+2020-01-16 10:24:43,452 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:24:44,320 INFO  [Logger] Aplica um scroll na tela para que o elemento fique visível para o print 
+2020-01-16 10:24:47,194 INFO  [Logger] Um PrintScreen é obtido da tela atual 
+2020-01-16 10:24:47,237 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 10:24:47,317 INFO  [TestBuscaLupa] O ícone de busca recebeu um clique 
+2020-01-16 10:24:47,355 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEBOOK FOLIO 
+2020-01-16 10:24:47,750 INFO  [TestBuscaLupa] Insere o valor obtido do excel no campo de busca 
+2020-01-16 10:24:47,753 INFO  [TestBuscaLupa] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:24:47,754 INFO  [Logger] Insere o valor no campo de pesquisa 
+2020-01-16 10:24:48,274 INFO  [Logger] Um comando de espera é fornecido ao driver para que aguarde pelo carregamento da página 
+2020-01-16 10:24:48,298 INFO  [Logger] A comparação com método Assert foi realizada com sucesso 
+2020-01-16 10:24:48,303 INFO  [Logger] Aguarda 10s 
+2020-01-16 10:24:48,627 INFO  [Logger] Tira um PrintScreen 
+2020-01-16 10:24:52,975 INFO  [Logger] Configurado arquivo de registros de logs 
+2020-01-16 10:24:52,976 INFO  [Logger] Configurado driver de execução 
+2020-01-16 10:24:58,078 INFO  [Logger] Novo driver instanciado 
+2020-01-16 10:24:58,082 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:25:02,219 INFO  [Logger] A janela foi maximizada 
+2020-01-16 10:25:02,271 INFO  [Logger] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:25:03,354 INFO  [Logger] O Website foi acessado 
+2020-01-16 10:25:03,358 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:25:03,365 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:25:03,365 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 10:25:04,378 INFO  [TestBuscaLupa] O ícone de busca recebeu um clique 
+2020-01-16 10:25:04,403 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEPAD 1000 G2 TABLET 
+2020-01-16 10:25:04,729 INFO  [TestBuscaLupa] Insere o valor obtido do excel no campo de busca 
+2020-01-16 10:25:04,733 INFO  [TestBuscaLupa] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:25:04,733 INFO  [Logger] O módulo de busca foi executado com sucesso 
+2020-01-16 10:25:06,493 INFO  [Logger] Clica no elemento que foi buscado 
+2020-01-16 10:25:06,532 INFO  [Logger] Realiza a comparação através do método Assert 
+2020-01-16 10:25:06,539 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:25:06,985 INFO  [Logger] Tira um PrintScreen 
+2020-01-16 10:25:11,327 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 10:25:11,327 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 10:25:16,521 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 10:25:16,525 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:25:20,660 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 10:25:20,708 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:25:21,635 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 10:25:21,639 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:25:22,558 INFO  [TestBuscaClique] Aplica um scroll na tela para que o elemento fique visível para o print 
+2020-01-16 10:25:22,563 INFO  [TestBuscaClique] Aguarda 10s 
+2020-01-16 10:25:24,987 INFO  [TestBuscaClique] Localiza o elemento: HP ELITEBOOK FOLIO  
+2020-01-16 10:25:25,486 INFO  [TestBuscaClique] Tira um PrintScreen 1 
+2020-01-16 10:25:25,544 INFO  [TestBuscaClique] Clica no item popular HP ELITEBOOK FOLIO 
+2020-01-16 10:25:25,548 INFO  [TestBuscaClique] Aguarda 10s 
+2020-01-16 10:25:26,451 INFO  [TestBuscaClique] Confirma que o item adicionado é diferente do item clicado inicialmente 
+2020-01-16 10:25:26,787 INFO  [TestBuscaClique] Tira um PrintScreen 
+2020-01-16 10:25:26,848 INFO  [TestBuscaClique] Encerra o navegador 
+2020-01-16 10:25:26,856 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 10:25:26,856 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 10:25:32,003 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 10:25:32,007 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:25:36,141 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 10:25:36,173 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:25:37,067 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 10:25:37,071 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:25:37,856 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 10:25:37,860 INFO  [BuscaCliqueModulo] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:25:40,606 INFO  [BuscaCliqueModulo] A categoria de Headphones recebeu um clique 
+2020-01-16 10:25:41,497 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-16 10:25:41,503 INFO  [BuscaCliqueModulo] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:25:41,911 INFO  [BuscaCliqueModulo] Adiciona o produto procurado ao carrinho 
+2020-01-16 10:25:42,392 INFO  [BuscaCliqueModulo] A opção de checkout recebeu um clique 
+2020-01-16 10:25:42,393 INFO  [TestBuscaClique] O módulo de busca por clique foi executado com sucesso 
+2020-01-16 10:25:42,398 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:25:42,880 INFO  [TestBuscaClique] Localiza o produto no carrinho 
+2020-01-16 10:25:42,880 INFO  [TestBuscaClique] Verifica que o produto foi inserido no carrinho com sucesso 
+2020-01-16 10:25:43,238 INFO  [TestBuscaClique] Tira um PrintScreen 
+2020-01-16 10:25:43,293 INFO  [TestBuscaClique] Encerra o navegador 
+2020-01-16 10:25:43,304 INFO  [Teste de Cadastro] Configurado arquivo de registros de logs 
+2020-01-16 10:25:43,304 INFO  [Teste de Cadastro] Configurado driver de execução 
+2020-01-16 10:25:48,499 INFO  [Teste de Cadastro] Novo driver instanciado 
+2020-01-16 10:25:48,503 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:25:52,635 INFO  [Teste de Cadastro] A janela foi maximizada 
+2020-01-16 10:25:52,679 INFO  [Teste de Cadastro] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:25:53,606 INFO  [Teste de Cadastro] O Website foi acessado 
+2020-01-16 10:25:53,615 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:25:53,633 INFO  [Modulo da página inicial] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 10:25:54,605 INFO  [Modulo da página inicial] O link minha conta recebu um clique 
+2020-01-16 10:25:54,610 INFO  [Modulo da página inicial] Foi aplicado um comando de espera para carregamento da página de 20 segundos 
+2020-01-16 10:25:55,074 INFO  [Modulo da página inicial] O link nova conta recebeu um clique 
+2020-01-16 10:25:55,078 INFO  [Modulo da página inicial] Foi aplicado um comando de espera no driver por 5 segundos 
+2020-01-16 10:25:55,078 INFO  [Teste de Cadastro] O modulo da página inicial foi executado com sucesso 
+2020-01-16 10:25:55,088 INFO  [Modulo da página de cadastro] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-16 10:25:55,088 INFO  [Modulo da página de cadastro] O nome de usuário obtido do excel é GabrlaSaraiva 
+2020-01-16 10:25:55,473 INFO  [Modulo da página de cadastro] Insere o nome de usuario 
+2020-01-16 10:25:55,474 INFO  [Modulo da página de cadastro] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-16 10:25:55,775 INFO  [Modulo da página de cadastro] Insere o email do usuário 
+2020-01-16 10:25:55,775 INFO  [Modulo da página de cadastro] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-16 10:25:55,957 INFO  [Modulo da página de cadastro] Insere a senha do usuário 
+2020-01-16 10:25:55,957 INFO  [Modulo da página de cadastro] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-16 10:25:56,143 INFO  [Modulo da página de cadastro] Insere a confirmação de senha do usuário 
+2020-01-16 10:25:56,144 INFO  [Modulo da página de cadastro] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-16 10:25:56,328 INFO  [Modulo da página de cadastro] Insere o primeiro nome do usuário 
+2020-01-16 10:25:56,328 INFO  [Modulo da página de cadastro] O último nome do usuário obtida do excel é Nomura 
+2020-01-16 10:25:56,457 INFO  [Modulo da página de cadastro] Insere o ultimo nome do usuário 
+2020-01-16 10:25:56,457 INFO  [Modulo da página de cadastro] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-16 10:25:56,675 INFO  [Modulo da página de cadastro] Insere o telefone do usuário 
+2020-01-16 10:25:56,780 INFO  [Modulo da página de cadastro] Seleciona a lista de países 
+2020-01-16 10:25:56,826 INFO  [Modulo da página de cadastro] Instancia um objeto select para manipulação da lista 
+2020-01-16 10:25:56,829 INFO  [Modulo da página de cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:25:56,948 INFO  [Modulo da página de cadastro] O país Brazil foi selecionado 
+2020-01-16 10:25:56,948 INFO  [Modulo da página de cadastro] A cidade obtida do excel é Osasco 
+2020-01-16 10:25:57,109 INFO  [Modulo da página de cadastro] Insere a cidade do usuário 
+2020-01-16 10:25:57,109 INFO  [Modulo da página de cadastro] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-16 10:25:57,588 INFO  [Modulo da página de cadastro] Insere o endereço do usuário 
+2020-01-16 10:25:57,589 INFO  [Modulo da página de cadastro] O estado obtido do excel é São Paulo 
+2020-01-16 10:25:57,896 INFO  [Modulo da página de cadastro] Insere o estado do usuário 
+2020-01-16 10:25:57,897 INFO  [Modulo da página de cadastro] O CEP obtido do excel é "6160450" 
+2020-01-16 10:25:58,194 INFO  [Modulo da página de cadastro] Insere o CEP do usuário 
+2020-01-16 10:25:58,358 INFO  [Modulo da página de cadastro] A opção de aceitação dos termos de privacidade foi selecionada 
+2020-01-16 10:25:58,490 INFO  [Modulo da página de cadastro] O link para registrar um novo usuário recebeu um clique 
+2020-01-16 10:25:58,491 INFO  [Teste de Cadastro] O módulo do cadastro foi executado com sucesso 
+2020-01-16 10:26:14,473 INFO  [Teste de Cadastro] O driver é encerrado 
+2020-01-16 10:26:14,488 INFO  [Teste de Cadastro] Configurado arquivo de registros de logs 
+2020-01-16 10:26:14,489 INFO  [Teste de Cadastro] Configurado driver de execução 
+2020-01-16 10:26:19,559 INFO  [Teste de Cadastro] Novo driver instanciado 
+2020-01-16 10:26:19,565 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:28:53,809 INFO  [Logger] Configurado arquivo de registros de logs 
+2020-01-16 10:28:53,809 INFO  [Logger] Configurado driver de execução 
+2020-01-16 10:28:59,783 INFO  [Logger] Novo driver instanciado 
+2020-01-16 10:28:59,794 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:29:03,919 INFO  [Logger] A janela foi maximizada 
+2020-01-16 10:29:04,412 INFO  [Logger] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:29:05,300 INFO  [Logger] O Website foi acessado 
+2020-01-16 10:29:05,305 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:29:06,201 INFO  [Logger] Aplica um scroll na tela para que o elemento fique visível para o print 
+2020-01-16 10:29:09,050 INFO  [Logger] Um PrintScreen é obtido da tela atual 
+2020-01-16 10:29:09,078 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 10:29:09,160 INFO  [TestBuscaLupa] O ícone de busca recebeu um clique 
+2020-01-16 10:29:09,187 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEBOOK FOLIO 
+2020-01-16 10:29:09,594 INFO  [TestBuscaLupa] Insere o valor obtido do excel no campo de busca 
+2020-01-16 10:29:09,598 INFO  [TestBuscaLupa] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:29:09,598 INFO  [Logger] Insere o valor no campo de pesquisa 
+2020-01-16 10:29:10,124 INFO  [Logger] Um comando de espera é fornecido ao driver para que aguarde pelo carregamento da página 
+2020-01-16 10:29:10,170 INFO  [Logger] A comparação com método Assert foi realizada com sucesso 
+2020-01-16 10:29:10,174 INFO  [Logger] Aguarda 10s 
+2020-01-16 10:29:10,491 INFO  [Logger] Tira um PrintScreen 
+2020-01-16 10:29:10,586 INFO  [Logger] Configurado arquivo de registros de logs 
+2020-01-16 10:29:10,587 INFO  [Logger] Configurado driver de execução 
+2020-01-16 10:29:15,692 INFO  [Logger] Novo driver instanciado 
+2020-01-16 10:29:15,700 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:29:19,827 INFO  [Logger] A janela foi maximizada 
+2020-01-16 10:29:19,859 INFO  [Logger] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:29:20,752 INFO  [Logger] O Website foi acessado 
+2020-01-16 10:29:20,756 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:29:20,760 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:29:20,760 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 10:29:21,578 INFO  [TestBuscaLupa] O ícone de busca recebeu um clique 
+2020-01-16 10:29:21,590 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEPAD 1000 G2 TABLET 
+2020-01-16 10:29:21,909 INFO  [TestBuscaLupa] Insere o valor obtido do excel no campo de busca 
+2020-01-16 10:29:21,911 INFO  [TestBuscaLupa] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:29:21,912 INFO  [Logger] O módulo de busca foi executado com sucesso 
+2020-01-16 10:29:23,721 INFO  [Logger] Clica no elemento que foi buscado 
+2020-01-16 10:29:23,735 INFO  [Logger] Realiza a comparação através do método Assert 
+2020-01-16 10:29:23,738 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:29:24,070 INFO  [Logger] Tira um PrintScreen 
+2020-01-16 10:29:24,143 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 10:29:24,143 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 10:29:29,216 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 10:29:29,222 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:29:33,348 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 10:29:33,377 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:29:34,329 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 10:29:34,332 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:29:35,132 INFO  [TestBuscaClique] Aplica um scroll na tela para que o elemento fique visível para o print 
+2020-01-16 10:29:35,137 INFO  [TestBuscaClique] Aguarda 10s 
+2020-01-16 10:29:37,487 INFO  [TestBuscaClique] Localiza o elemento: HP ELITEBOOK FOLIO  
+2020-01-16 10:29:37,859 INFO  [TestBuscaClique] Tira um PrintScreen 1 
+2020-01-16 10:29:37,926 INFO  [TestBuscaClique] Clica no item popular HP ELITEBOOK FOLIO 
+2020-01-16 10:29:37,930 INFO  [TestBuscaClique] Aguarda 10s 
+2020-01-16 10:29:38,878 INFO  [TestBuscaClique] Confirma que o item adicionado é diferente do item clicado inicialmente 
+2020-01-16 10:29:39,207 INFO  [TestBuscaClique] Tira um PrintScreen 
+2020-01-16 10:29:39,279 INFO  [TestBuscaClique] Encerra o navegador 
+2020-01-16 10:29:39,295 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 10:29:39,295 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 10:29:44,357 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 10:29:44,361 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:29:48,500 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 10:29:48,549 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:29:49,427 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 10:29:49,431 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:29:50,258 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 10:29:50,260 INFO  [BuscaCliqueModulo] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:29:52,967 INFO  [BuscaCliqueModulo] A categoria de Headphones recebeu um clique 
+2020-01-16 10:29:53,798 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-16 10:29:53,802 INFO  [BuscaCliqueModulo] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:29:54,149 INFO  [BuscaCliqueModulo] Adiciona o produto procurado ao carrinho 
+2020-01-16 10:29:54,573 INFO  [BuscaCliqueModulo] A opção de checkout recebeu um clique 
+2020-01-16 10:29:54,573 INFO  [TestBuscaClique] O módulo de busca por clique foi executado com sucesso 
+2020-01-16 10:29:54,579 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:29:54,927 INFO  [TestBuscaClique] Localiza o produto no carrinho 
+2020-01-16 10:29:54,927 INFO  [TestBuscaClique] Verifica que o produto foi inserido no carrinho com sucesso 
+2020-01-16 10:29:55,216 INFO  [TestBuscaClique] Tira um PrintScreen 
+2020-01-16 10:29:55,290 INFO  [TestBuscaClique] Encerra o navegador 
+2020-01-16 10:29:55,303 INFO  [Teste de Cadastro] Configurado arquivo de registros de logs 
+2020-01-16 10:29:55,303 INFO  [Teste de Cadastro] Configurado driver de execução 
+2020-01-16 10:30:00,356 INFO  [Teste de Cadastro] Novo driver instanciado 
+2020-01-16 10:30:00,360 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:30:04,483 INFO  [Teste de Cadastro] A janela foi maximizada 
+2020-01-16 10:30:04,507 INFO  [Teste de Cadastro] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:30:05,392 INFO  [Teste de Cadastro] O Website foi acessado 
+2020-01-16 10:30:05,396 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:30:05,397 INFO  [Modulo da página inicial] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 10:30:06,261 INFO  [Modulo da página inicial] O link minha conta recebu um clique 
+2020-01-16 10:30:06,263 INFO  [Modulo da página inicial] Foi aplicado um comando de espera para carregamento da página de 20 segundos 
+2020-01-16 10:30:06,796 INFO  [Modulo da página inicial] O link nova conta recebeu um clique 
+2020-01-16 10:30:06,799 INFO  [Modulo da página inicial] Foi aplicado um comando de espera no driver por 5 segundos 
+2020-01-16 10:30:06,800 INFO  [Teste de Cadastro] O modulo da página inicial foi executado com sucesso 
+2020-01-16 10:30:06,803 INFO  [Modulo da página de cadastro] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-16 10:30:06,804 INFO  [Modulo da página de cadastro] O nome de usuário obtido do excel é GabelaSantos 
+2020-01-16 10:30:07,250 INFO  [Modulo da página de cadastro] Insere o nome de usuario 
+2020-01-16 10:30:07,251 INFO  [Modulo da página de cadastro] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-16 10:30:07,601 INFO  [Modulo da página de cadastro] Insere o email do usuário 
+2020-01-16 10:30:07,601 INFO  [Modulo da página de cadastro] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-16 10:30:07,846 INFO  [Modulo da página de cadastro] Insere a senha do usuário 
+2020-01-16 10:30:07,846 INFO  [Modulo da página de cadastro] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-16 10:30:08,057 INFO  [Modulo da página de cadastro] Insere a confirmação de senha do usuário 
+2020-01-16 10:30:08,058 INFO  [Modulo da página de cadastro] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-16 10:30:08,251 INFO  [Modulo da página de cadastro] Insere o primeiro nome do usuário 
+2020-01-16 10:30:08,251 INFO  [Modulo da página de cadastro] O último nome do usuário obtida do excel é Nomura 
+2020-01-16 10:30:08,401 INFO  [Modulo da página de cadastro] Insere o ultimo nome do usuário 
+2020-01-16 10:30:08,401 INFO  [Modulo da página de cadastro] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-16 10:30:08,601 INFO  [Modulo da página de cadastro] Insere o telefone do usuário 
+2020-01-16 10:30:08,782 INFO  [Modulo da página de cadastro] Seleciona a lista de países 
+2020-01-16 10:30:08,829 INFO  [Modulo da página de cadastro] Instancia um objeto select para manipulação da lista 
+2020-01-16 10:30:08,832 INFO  [Modulo da página de cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:30:09,004 INFO  [Modulo da página de cadastro] O país Brazil foi selecionado 
+2020-01-16 10:30:09,004 INFO  [Modulo da página de cadastro] A cidade obtida do excel é Osasco 
+2020-01-16 10:30:09,213 INFO  [Modulo da página de cadastro] Insere a cidade do usuário 
+2020-01-16 10:30:09,213 INFO  [Modulo da página de cadastro] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-16 10:30:09,664 INFO  [Modulo da página de cadastro] Insere o endereço do usuário 
+2020-01-16 10:30:09,665 INFO  [Modulo da página de cadastro] O estado obtido do excel é São Paulo 
+2020-01-16 10:30:09,949 INFO  [Modulo da página de cadastro] Insere o estado do usuário 
+2020-01-16 10:30:09,949 INFO  [Modulo da página de cadastro] O CEP obtido do excel é "6160450" 
+2020-01-16 10:30:10,131 INFO  [Modulo da página de cadastro] Insere o CEP do usuário 
+2020-01-16 10:30:10,316 INFO  [Modulo da página de cadastro] A opção de aceitação dos termos de privacidade foi selecionada 
+2020-01-16 10:30:10,438 INFO  [Modulo da página de cadastro] O link para registrar um novo usuário recebeu um clique 
+2020-01-16 10:30:10,438 INFO  [Teste de Cadastro] O módulo do cadastro foi executado com sucesso 
+2020-01-16 10:30:10,959 INFO  [Teste de Cadastro] Driver recebeu um comando de espera para aguardar a atualização da Url 
+2020-01-16 10:30:10,965 INFO  [Teste de Cadastro] O endereço da url foi obtido: https://www.advantageonlineshopping.com/#/ 
+2020-01-16 10:30:10,965 INFO  [Teste de Cadastro] Realiza a comparação entre as urls esperada e a obtida 
+2020-01-16 10:30:11,020 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:30:11,355 INFO  [Teste de Cadastro] Um PrintScreen é obtido da tela atual 
+2020-01-16 10:30:12,014 INFO  [Teste de Cadastro] O driver é encerrado 
+2020-01-16 10:30:12,023 INFO  [Teste de Cadastro] Configurado arquivo de registros de logs 
+2020-01-16 10:30:12,024 INFO  [Teste de Cadastro] Configurado driver de execução 
+2020-01-16 10:30:17,108 INFO  [Teste de Cadastro] Novo driver instanciado 
+2020-01-16 10:30:17,110 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:30:21,239 INFO  [Teste de Cadastro] A janela foi maximizada 
+2020-01-16 10:30:21,287 INFO  [Teste de Cadastro] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:30:22,184 INFO  [Teste de Cadastro] O Website foi acessado 
+2020-01-16 10:30:22,187 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:30:22,188 INFO  [Modulo da página inicial] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 10:30:23,107 INFO  [Modulo da página inicial] O link minha conta recebu um clique 
+2020-01-16 10:30:23,111 INFO  [Modulo da página inicial] Foi aplicado um comando de espera para carregamento da página de 20 segundos 
+2020-01-16 10:30:23,567 INFO  [Modulo da página inicial] O link nova conta recebeu um clique 
+2020-01-16 10:30:23,570 INFO  [Modulo da página inicial] Foi aplicado um comando de espera no driver por 5 segundos 
+2020-01-16 10:30:23,571 INFO  [Teste de Cadastro] O modulo da página inicial foi executado com sucesso 
+2020-01-16 10:30:23,571 INFO  [Modulo da página de cadastro] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-16 10:30:23,571 INFO  [Modulo da página de cadastro] O nome de usuário obtido do excel é GabrlaSaraiva 
+2020-01-16 10:30:24,119 INFO  [Modulo da página de cadastro] Insere o nome de usuario 
+2020-01-16 10:30:24,119 INFO  [Modulo da página de cadastro] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-16 10:30:24,526 INFO  [Modulo da página de cadastro] Insere o email do usuário 
+2020-01-16 10:30:24,527 INFO  [Modulo da página de cadastro] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-16 10:30:24,716 INFO  [Modulo da página de cadastro] Insere a senha do usuário 
+2020-01-16 10:30:24,716 INFO  [Modulo da página de cadastro] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-16 10:30:24,938 INFO  [Modulo da página de cadastro] Insere a confirmação de senha do usuário 
+2020-01-16 10:30:24,938 INFO  [Modulo da página de cadastro] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-16 10:30:25,100 INFO  [Modulo da página de cadastro] Insere o primeiro nome do usuário 
+2020-01-16 10:30:25,100 INFO  [Modulo da página de cadastro] O último nome do usuário obtida do excel é Nomura 
+2020-01-16 10:30:25,268 INFO  [Modulo da página de cadastro] Insere o ultimo nome do usuário 
+2020-01-16 10:30:25,268 INFO  [Modulo da página de cadastro] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-16 10:30:25,455 INFO  [Modulo da página de cadastro] Insere o telefone do usuário 
+2020-01-16 10:30:25,577 INFO  [Modulo da página de cadastro] Seleciona a lista de países 
+2020-01-16 10:30:25,619 INFO  [Modulo da página de cadastro] Instancia um objeto select para manipulação da lista 
+2020-01-16 10:30:25,621 INFO  [Modulo da página de cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:30:25,769 INFO  [Modulo da página de cadastro] O país Brazil foi selecionado 
+2020-01-16 10:30:25,769 INFO  [Modulo da página de cadastro] A cidade obtida do excel é Osasco 
+2020-01-16 10:30:25,986 INFO  [Modulo da página de cadastro] Insere a cidade do usuário 
+2020-01-16 10:30:25,986 INFO  [Modulo da página de cadastro] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-16 10:30:26,500 INFO  [Modulo da página de cadastro] Insere o endereço do usuário 
+2020-01-16 10:30:26,501 INFO  [Modulo da página de cadastro] O estado obtido do excel é São Paulo 
+2020-01-16 10:30:26,648 INFO  [Modulo da página de cadastro] Insere o estado do usuário 
+2020-01-16 10:30:26,648 INFO  [Modulo da página de cadastro] O CEP obtido do excel é "6160450" 
+2020-01-16 10:30:26,795 INFO  [Modulo da página de cadastro] Insere o CEP do usuário 
+2020-01-16 10:30:26,898 INFO  [Modulo da página de cadastro] A opção de aceitação dos termos de privacidade foi selecionada 
+2020-01-16 10:30:27,021 INFO  [Modulo da página de cadastro] O link para registrar um novo usuário recebeu um clique 
+2020-01-16 10:30:27,022 INFO  [Teste de Cadastro] O módulo do cadastro foi executado com sucesso 
+2020-01-16 10:30:27,108 INFO  [Teste de Cadastro] O endereço da url foi obtido: https://www.advantageonlineshopping.com/#/register 
+2020-01-16 10:30:27,108 INFO  [Teste de Cadastro] Realiza a comparação entre as urls esperada e a obtida 
+2020-01-16 10:30:27,121 INFO  [Teste de Cadastro] Foi aplicado um comando de rolagem de tela, para melhoria do print obtido 
+2020-01-16 10:30:27,434 INFO  [Teste de Cadastro] Tira um PrintScreen para comprovar fim do teste 
+2020-01-16 10:30:28,087 INFO  [Teste de Cadastro] O driver é encerrado 
+2020-01-16 10:36:38,586 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 10:36:38,587 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 10:36:44,593 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 10:36:44,604 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:36:48,728 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 10:36:49,202 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:36:50,086 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 10:36:50,090 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:36:50,909 INFO  [TestBuscaClique] Aplica um scroll na tela para que o elemento fique visível para o print 
+2020-01-16 10:36:50,913 INFO  [TestBuscaClique] Aguarda 10s 
+2020-01-16 10:36:53,299 INFO  [TestBuscaClique] Localiza o elemento: HP ELITEBOOK FOLIO  
+2020-01-16 10:36:53,792 INFO  [TestBuscaClique] Tira um PrintScreen 1 
+2020-01-16 10:36:53,865 INFO  [TestBuscaClique] Clica no item popular HP ELITEBOOK FOLIO 
+2020-01-16 10:36:53,870 INFO  [TestBuscaClique] Aguarda 10s 
+2020-01-16 10:36:55,235 INFO  [TestBuscaClique] Confirma que o item adicionado é diferente do item clicado inicialmente 
+2020-01-16 10:36:55,556 INFO  [TestBuscaClique] Tira um PrintScreen 
+2020-01-16 10:36:55,639 INFO  [TestBuscaClique] Encerra o navegador 
+2020-01-16 10:36:55,659 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 10:36:55,660 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 10:37:00,722 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 10:37:00,726 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:37:04,864 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 10:37:04,950 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:37:05,916 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 10:37:05,920 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:37:06,913 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 10:37:06,918 INFO  [BuscaCliqueModulo] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:37:09,554 INFO  [BuscaCliqueModulo] A categoria de Headphones recebeu um clique 
+2020-01-16 10:37:11,098 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-16 10:37:11,103 INFO  [BuscaCliqueModulo] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:37:11,462 INFO  [BuscaCliqueModulo] Adiciona o produto procurado ao carrinho 
+2020-01-16 10:37:11,926 INFO  [BuscaCliqueModulo] A opção de checkout recebeu um clique 
+2020-01-16 10:37:11,927 INFO  [TestBuscaClique] O módulo de busca por clique foi executado com sucesso 
+2020-01-16 10:37:11,930 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:37:12,383 INFO  [TestBuscaClique] Localiza o produto no carrinho 
+2020-01-16 10:37:12,384 INFO  [TestBuscaClique] Verifica que o produto foi inserido no carrinho com sucesso 
+2020-01-16 10:37:12,706 INFO  [TestBuscaClique] Tira um PrintScreen 
+2020-01-16 10:37:12,789 INFO  [TestBuscaClique] Encerra o navegador 
+2020-01-16 10:37:43,623 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 10:37:43,624 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 10:37:49,711 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 10:37:49,723 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:37:53,851 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 10:37:54,494 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:37:55,524 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 10:37:55,528 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:37:57,636 INFO  [TestBuscaClique] Aplica um scroll na tela para que o elemento fique visível para o print 
+2020-01-16 10:37:57,641 INFO  [TestBuscaClique] Aguarda 10s 
+2020-01-16 10:38:00,357 INFO  [TestBuscaClique] Localiza o elemento: HP ELITEBOOK FOLIO  
+2020-01-16 10:38:00,789 INFO  [TestBuscaClique] Tira um PrintScreen 1 
+2020-01-16 10:38:00,850 INFO  [TestBuscaClique] Clica no item popular HP ELITEBOOK FOLIO 
+2020-01-16 10:38:00,854 INFO  [TestBuscaClique] Aguarda 10s 
+2020-01-16 10:38:04,284 INFO  [TestBuscaClique] Confirma que o item adicionado é diferente do item clicado inicialmente 
+2020-01-16 10:38:04,649 INFO  [TestBuscaClique] Tira um PrintScreen 
+2020-01-16 10:38:04,747 INFO  [TestBuscaClique] Encerra o navegador 
+2020-01-16 10:38:04,784 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 10:38:04,784 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 10:38:09,916 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 10:38:09,919 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:38:14,048 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 10:38:14,133 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:38:15,067 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 10:38:15,070 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:38:16,354 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 10:38:16,359 INFO  [BuscaCliqueModulo] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:38:19,019 INFO  [BuscaCliqueModulo] A categoria de Headphones recebeu um clique 
+2020-01-16 10:38:21,117 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-16 10:38:21,120 INFO  [BuscaCliqueModulo] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:38:21,932 INFO  [BuscaCliqueModulo] Adiciona o produto procurado ao carrinho 
+2020-01-16 10:38:22,397 INFO  [BuscaCliqueModulo] A opção de checkout recebeu um clique 
+2020-01-16 10:38:22,397 INFO  [TestBuscaClique] O módulo de busca por clique foi executado com sucesso 
+2020-01-16 10:38:22,401 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:38:23,060 INFO  [TestBuscaClique] Localiza o produto no carrinho 
+2020-01-16 10:38:23,060 INFO  [TestBuscaClique] Verifica que o produto foi inserido no carrinho com sucesso 
+2020-01-16 10:38:23,397 INFO  [TestBuscaClique] Tira um PrintScreen 
+2020-01-16 10:38:23,475 INFO  [TestBuscaClique] Encerra o navegador 
+2020-01-16 10:39:33,281 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 10:39:33,281 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 10:39:39,282 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 10:39:39,292 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:39:43,434 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 10:39:44,339 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:39:45,296 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 10:39:45,301 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:39:46,535 INFO  [TestBuscaClique] Aplica um scroll na tela para que o elemento fique visível para o print 
+2020-01-16 10:39:46,537 INFO  [TestBuscaClique] Aguarda 10s 
+2020-01-16 10:39:49,059 INFO  [TestBuscaClique] Localiza o elemento: HP ELITEBOOK FOLIO  
+2020-01-16 10:39:49,558 INFO  [TestBuscaClique] Tira um PrintScreen 1 
+2020-01-16 10:39:49,616 INFO  [TestBuscaClique] Clica no item popular HP ELITEBOOK FOLIO 
+2020-01-16 10:39:49,619 INFO  [TestBuscaClique] Aguarda 10s 
+2020-01-16 10:39:51,043 INFO  [TestBuscaClique] Confirma que o item adicionado é diferente do item clicado inicialmente 
+2020-01-16 10:39:51,402 INFO  [TestBuscaClique] Tira um PrintScreen 
+2020-01-16 10:39:51,491 INFO  [TestBuscaClique] Encerra o navegador 
+2020-01-16 10:39:51,511 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 10:39:51,512 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 10:39:56,633 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 10:39:56,641 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:40:00,794 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 10:40:00,861 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:40:01,812 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 10:40:01,816 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:40:03,005 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 10:40:03,009 INFO  [BuscaCliqueModulo] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:40:05,777 INFO  [BuscaCliqueModulo] A categoria de Headphones recebeu um clique 
+2020-01-16 10:40:08,072 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-16 10:40:08,075 INFO  [BuscaCliqueModulo] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:40:08,849 INFO  [BuscaCliqueModulo] Adiciona o produto procurado ao carrinho 
+2020-01-16 10:40:09,327 INFO  [BuscaCliqueModulo] A opção de checkout recebeu um clique 
+2020-01-16 10:40:09,327 INFO  [TestBuscaClique] O módulo de busca por clique foi executado com sucesso 
+2020-01-16 10:40:09,331 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:40:09,965 INFO  [TestBuscaClique] Localiza o produto no carrinho 
+2020-01-16 10:40:09,965 INFO  [TestBuscaClique] Verifica que o produto foi inserido no carrinho com sucesso 
+2020-01-16 10:40:10,356 INFO  [TestBuscaClique] Tira um PrintScreen 
+2020-01-16 10:40:10,424 INFO  [TestBuscaClique] Encerra o navegador 
+2020-01-16 10:40:43,171 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 10:40:43,171 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 10:40:49,146 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 10:40:49,157 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:40:53,305 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 10:40:54,113 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:40:54,988 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 10:40:54,994 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:40:55,811 INFO  [TestBuscaClique] Aplica um scroll na tela para que o elemento fique visível para o print 
+2020-01-16 10:40:55,815 INFO  [TestBuscaClique] Aguarda 10s 
+2020-01-16 10:40:58,211 INFO  [TestBuscaClique] Localiza o elemento: HP ELITEBOOK FOLIO  
+2020-01-16 10:40:58,811 INFO  [TestBuscaClique] Tira um PrintScreen 1 
+2020-01-16 10:40:58,896 INFO  [TestBuscaClique] Clica no item popular HP ELITEBOOK FOLIO 
+2020-01-16 10:40:58,900 INFO  [TestBuscaClique] Aguarda 10s 
+2020-01-16 10:41:00,387 INFO  [TestBuscaClique] Confirma que o item adicionado é diferente do item clicado inicialmente 
+2020-01-16 10:41:00,737 INFO  [TestBuscaClique] Tira um PrintScreen 
+2020-01-16 10:41:00,839 INFO  [TestBuscaClique] Encerra o navegador 
+2020-01-16 10:41:00,853 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 10:41:00,853 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 10:41:05,989 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 10:41:05,996 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:41:10,123 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 10:41:10,191 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:41:10,988 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 10:41:10,997 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:41:11,833 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 10:41:11,837 INFO  [BuscaCliqueModulo] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:41:14,497 INFO  [BuscaCliqueModulo] A categoria de Headphones recebeu um clique 
+2020-01-16 10:41:16,103 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-16 10:41:16,109 INFO  [BuscaCliqueModulo] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:41:16,588 INFO  [BuscaCliqueModulo] Adiciona o produto procurado ao carrinho 
+2020-01-16 10:41:17,066 INFO  [BuscaCliqueModulo] A opção de checkout recebeu um clique 
+2020-01-16 10:41:17,066 INFO  [TestBuscaClique] O módulo de busca por clique foi executado com sucesso 
+2020-01-16 10:41:17,070 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:41:17,463 INFO  [TestBuscaClique] Localiza o produto no carrinho 
+2020-01-16 10:41:17,463 INFO  [TestBuscaClique] Verifica que o produto foi inserido no carrinho com sucesso 
+2020-01-16 10:41:17,893 INFO  [TestBuscaClique] Tira um PrintScreen 
+2020-01-16 10:41:17,972 INFO  [TestBuscaClique] Encerra o navegador 
+2020-01-16 10:58:53,816 INFO  [Logger] Configurado arquivo de registros de logs 
+2020-01-16 10:58:53,816 INFO  [Logger] Configurado driver de execução 
+2020-01-16 10:58:59,744 INFO  [Logger] Novo driver instanciado 
+2020-01-16 10:58:59,750 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:59:03,876 INFO  [Logger] A janela foi maximizada 
+2020-01-16 10:59:04,280 INFO  [Logger] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:59:05,893 INFO  [Logger] O Website foi acessado 
+2020-01-16 10:59:05,897 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:59:06,692 INFO  [Logger] Aplica um scroll na tela para que o elemento fique visível para o print 
+2020-01-16 10:59:09,445 INFO  [Logger] Um PrintScreen é obtido da tela atual 
+2020-01-16 10:59:09,469 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 10:59:09,522 INFO  [TestBuscaLupa] O ícone de busca recebeu um clique 
+2020-01-16 10:59:09,538 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEBOOK FOLIO 
+2020-01-16 10:59:09,831 INFO  [TestBuscaLupa] Insere o valor obtido do excel no campo de busca 
+2020-01-16 10:59:09,835 INFO  [TestBuscaLupa] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:59:09,835 INFO  [Logger] Insere o valor no campo de pesquisa 
+2020-01-16 10:59:10,851 INFO  [Logger] Um comando de espera é fornecido ao driver para que aguarde pelo carregamento da página 
+2020-01-16 10:59:10,868 INFO  [Logger] A comparação com método Assert foi realizada com sucesso 
+2020-01-16 10:59:10,871 INFO  [Logger] Aguarda 10s 
+2020-01-16 10:59:11,155 INFO  [Logger] Tira um PrintScreen 
+2020-01-16 10:59:11,253 INFO  [Logger] Configurado arquivo de registros de logs 
+2020-01-16 10:59:11,253 INFO  [Logger] Configurado driver de execução 
+2020-01-16 10:59:16,296 INFO  [Logger] Novo driver instanciado 
+2020-01-16 10:59:16,299 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:59:20,419 INFO  [Logger] A janela foi maximizada 
+2020-01-16 10:59:20,449 INFO  [Logger] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:59:21,343 INFO  [Logger] O Website foi acessado 
+2020-01-16 10:59:21,347 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:59:21,351 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:59:21,351 INFO  [TestBuscaLupa] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 10:59:22,174 INFO  [TestBuscaLupa] O ícone de busca recebeu um clique 
+2020-01-16 10:59:22,185 INFO  [TestBuscaLupa] O nome de pesquisa obtido do excel é HP ELITEPAD 1000 G2 TABLET 
+2020-01-16 10:59:22,482 INFO  [TestBuscaLupa] Insere o valor obtido do excel no campo de busca 
+2020-01-16 10:59:22,485 INFO  [TestBuscaLupa] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:59:22,485 INFO  [Logger] O módulo de busca foi executado com sucesso 
+2020-01-16 10:59:24,207 INFO  [Logger] Clica no elemento que foi buscado 
+2020-01-16 10:59:24,226 INFO  [Logger] Realiza a comparação através do método Assert 
+2020-01-16 10:59:24,229 INFO  [Logger] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:59:24,545 INFO  [Logger] Tira um PrintScreen 
+2020-01-16 10:59:24,649 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 10:59:24,650 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 10:59:29,693 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 10:59:29,696 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:59:33,818 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 10:59:33,842 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:59:34,600 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 10:59:34,605 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:59:35,402 INFO  [TestBuscaClique] Aplica um scroll na tela para que o elemento fique visível para o print 
+2020-01-16 10:59:37,749 INFO  [TestBuscaClique] Localiza o elemento: HP ELITEBOOK FOLIO  
+2020-01-16 10:59:38,139 INFO  [TestBuscaClique] Tira um PrintScreen 1 
+2020-01-16 10:59:38,187 INFO  [TestBuscaClique] Clica no item popular HP ELITEBOOK FOLIO 
+2020-01-16 10:59:38,191 INFO  [TestBuscaClique] Aguarda 10s 
+2020-01-16 10:59:39,461 INFO  [TestBuscaClique] Confirma que o item adicionado é diferente do item clicado inicialmente 
+2020-01-16 10:59:39,755 INFO  [TestBuscaClique] Tira um PrintScreen 
+2020-01-16 10:59:39,812 INFO  [TestBuscaClique] Encerra o navegador 
+2020-01-16 10:59:39,820 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 10:59:39,820 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 10:59:44,855 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 10:59:44,859 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:59:48,981 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 10:59:49,001 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 10:59:49,912 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 10:59:49,914 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:59:50,707 INFO  [BuscaCliqueModulo] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 10:59:50,710 INFO  [BuscaCliqueModulo] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:59:53,351 INFO  [BuscaCliqueModulo] A categoria de Headphones recebeu um clique 
+2020-01-16 10:59:54,750 INFO  [BuscaCliqueModulo] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-16 10:59:54,755 INFO  [BuscaCliqueModulo] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:59:55,010 INFO  [BuscaCliqueModulo] Adiciona o produto procurado ao carrinho 
+2020-01-16 10:59:55,397 INFO  [BuscaCliqueModulo] A opção de checkout recebeu um clique 
+2020-01-16 10:59:55,397 INFO  [TestBuscaClique] O módulo de busca por clique foi executado com sucesso 
+2020-01-16 10:59:55,400 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 10:59:55,828 INFO  [TestBuscaClique] Localiza o produto no carrinho 
+2020-01-16 10:59:55,828 INFO  [TestBuscaClique] Verifica que o produto foi inserido no carrinho com sucesso 
+2020-01-16 10:59:56,116 INFO  [TestBuscaClique] Tira um PrintScreen 
+2020-01-16 10:59:56,167 INFO  [TestBuscaClique] Encerra o navegador 
+2020-01-16 10:59:56,180 INFO  [Teste de Cadastro] Configurado arquivo de registros de logs 
+2020-01-16 10:59:56,180 INFO  [Teste de Cadastro] Configurado driver de execução 
+2020-01-16 11:00:01,221 INFO  [Teste de Cadastro] Novo driver instanciado 
+2020-01-16 11:00:01,224 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 11:00:05,349 INFO  [Teste de Cadastro] A janela foi maximizada 
+2020-01-16 11:00:05,379 INFO  [Teste de Cadastro] Configurado o arquivo do excel a ser lido 
+2020-01-16 11:00:06,270 INFO  [Teste de Cadastro] O Website foi acessado 
+2020-01-16 11:00:06,275 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 11:00:06,277 INFO  [Modulo da página inicial] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 11:00:07,141 INFO  [Modulo da página inicial] O link minha conta recebu um clique 
+2020-01-16 11:00:07,144 INFO  [Modulo da página inicial] Foi aplicado um comando de espera para carregamento da página de 20 segundos 
+2020-01-16 11:00:07,632 INFO  [Modulo da página inicial] O link nova conta recebeu um clique 
+2020-01-16 11:00:07,636 INFO  [Modulo da página inicial] Foi aplicado um comando de espera no driver por 5 segundos 
+2020-01-16 11:00:07,636 INFO  [Teste de Cadastro] O modulo da página inicial foi executado com sucesso 
+2020-01-16 11:00:07,643 INFO  [Modulo da página de cadastro] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-16 11:00:07,643 INFO  [Modulo da página de cadastro] O nome de usuário obtido do excel é Gadsaraiva 
+2020-01-16 11:00:07,985 INFO  [Modulo da página de cadastro] Insere o nome de usuario 
+2020-01-16 11:00:07,985 INFO  [Modulo da página de cadastro] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-16 11:00:08,275 INFO  [Modulo da página de cadastro] Insere o email do usuário 
+2020-01-16 11:00:08,276 INFO  [Modulo da página de cadastro] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-16 11:00:08,426 INFO  [Modulo da página de cadastro] Insere a senha do usuário 
+2020-01-16 11:00:08,426 INFO  [Modulo da página de cadastro] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-16 11:00:08,607 INFO  [Modulo da página de cadastro] Insere a confirmação de senha do usuário 
+2020-01-16 11:00:08,607 INFO  [Modulo da página de cadastro] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-16 11:00:08,732 INFO  [Modulo da página de cadastro] Insere o primeiro nome do usuário 
+2020-01-16 11:00:08,732 INFO  [Modulo da página de cadastro] O último nome do usuário obtida do excel é Nomura 
+2020-01-16 11:00:08,864 INFO  [Modulo da página de cadastro] Insere o ultimo nome do usuário 
+2020-01-16 11:00:08,864 INFO  [Modulo da página de cadastro] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-16 11:00:09,037 INFO  [Modulo da página de cadastro] Insere o telefone do usuário 
+2020-01-16 11:00:09,149 INFO  [Modulo da página de cadastro] Seleciona a lista de países 
+2020-01-16 11:00:09,185 INFO  [Modulo da página de cadastro] Instancia um objeto select para manipulação da lista 
+2020-01-16 11:00:09,189 INFO  [Modulo da página de cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 11:00:09,264 INFO  [Modulo da página de cadastro] O país Brazil foi selecionado 
+2020-01-16 11:00:09,264 INFO  [Modulo da página de cadastro] A cidade obtida do excel é Osasco 
+2020-01-16 11:00:09,397 INFO  [Modulo da página de cadastro] Insere a cidade do usuário 
+2020-01-16 11:00:09,397 INFO  [Modulo da página de cadastro] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-16 11:00:09,823 INFO  [Modulo da página de cadastro] Insere o endereço do usuário 
+2020-01-16 11:00:09,824 INFO  [Modulo da página de cadastro] O estado obtido do excel é São Paulo 
+2020-01-16 11:00:09,959 INFO  [Modulo da página de cadastro] Insere o estado do usuário 
+2020-01-16 11:00:09,959 INFO  [Modulo da página de cadastro] O CEP obtido do excel é "6160450" 
+2020-01-16 11:00:10,094 INFO  [Modulo da página de cadastro] Insere o CEP do usuário 
+2020-01-16 11:00:10,152 INFO  [Modulo da página de cadastro] A opção de aceitação dos termos de privacidade foi selecionada 
+2020-01-16 11:00:10,235 INFO  [Modulo da página de cadastro] O link para registrar um novo usuário recebeu um clique 
+2020-01-16 11:00:10,235 INFO  [Teste de Cadastro] O módulo do cadastro foi executado com sucesso 
+2020-01-16 11:00:10,749 INFO  [Teste de Cadastro] Driver recebeu um comando de espera para aguardar a atualização da Url 
+2020-01-16 11:00:10,752 INFO  [Teste de Cadastro] O endereço da url foi obtido: https://www.advantageonlineshopping.com/#/ 
+2020-01-16 11:00:10,752 INFO  [Teste de Cadastro] Realiza a comparação entre as urls esperada e a obtida 
+2020-01-16 11:00:10,791 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 11:00:11,113 INFO  [Teste de Cadastro] Um PrintScreen é obtido da tela atual 
+2020-01-16 11:00:11,728 INFO  [Teste de Cadastro] O driver é encerrado 
+2020-01-16 11:00:11,734 INFO  [Teste de Cadastro] Configurado arquivo de registros de logs 
+2020-01-16 11:00:11,734 INFO  [Teste de Cadastro] Configurado driver de execução 
+2020-01-16 11:00:16,768 INFO  [Teste de Cadastro] Novo driver instanciado 
+2020-01-16 11:00:16,773 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 11:00:20,892 INFO  [Teste de Cadastro] A janela foi maximizada 
+2020-01-16 11:00:20,910 INFO  [Teste de Cadastro] Configurado o arquivo do excel a ser lido 
+2020-01-16 11:00:21,793 INFO  [Teste de Cadastro] O Website foi acessado 
+2020-01-16 11:00:21,796 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 11:00:21,797 INFO  [Modulo da página inicial] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 11:00:22,642 INFO  [Modulo da página inicial] O link minha conta recebu um clique 
+2020-01-16 11:00:22,645 INFO  [Modulo da página inicial] Foi aplicado um comando de espera para carregamento da página de 20 segundos 
+2020-01-16 11:00:23,134 INFO  [Modulo da página inicial] O link nova conta recebeu um clique 
+2020-01-16 11:00:23,137 INFO  [Modulo da página inicial] Foi aplicado um comando de espera no driver por 5 segundos 
+2020-01-16 11:00:23,138 INFO  [Teste de Cadastro] O modulo da página inicial foi executado com sucesso 
+2020-01-16 11:00:23,138 INFO  [Modulo da página de cadastro] A fabrica de objetos da página de cadastro foi instanciada 
+2020-01-16 11:00:23,139 INFO  [Modulo da página de cadastro] O nome de usuário obtido do excel é Gadsaraiva 
+2020-01-16 11:00:23,494 INFO  [Modulo da página de cadastro] Insere o nome de usuario 
+2020-01-16 11:00:23,494 INFO  [Modulo da página de cadastro] O email de usuário obtido do excel é Gabriela.nomura@outlook.com 
+2020-01-16 11:00:23,767 INFO  [Modulo da página de cadastro] Insere o email do usuário 
+2020-01-16 11:00:23,768 INFO  [Modulo da página de cadastro] A senha obtida do excel é Hbbzu9ik!@# 
+2020-01-16 11:00:23,927 INFO  [Modulo da página de cadastro] Insere a senha do usuário 
+2020-01-16 11:00:23,927 INFO  [Modulo da página de cadastro] A confirmação de senha obtida do excel é Hbbzu9ik!@# 
+2020-01-16 11:00:24,097 INFO  [Modulo da página de cadastro] Insere a confirmação de senha do usuário 
+2020-01-16 11:00:24,097 INFO  [Modulo da página de cadastro] O primeiro nome do usuário obtida do excel é Gabriela 
+2020-01-16 11:00:24,248 INFO  [Modulo da página de cadastro] Insere o primeiro nome do usuário 
+2020-01-16 11:00:24,248 INFO  [Modulo da página de cadastro] O último nome do usuário obtida do excel é Nomura 
+2020-01-16 11:00:24,383 INFO  [Modulo da página de cadastro] Insere o ultimo nome do usuário 
+2020-01-16 11:00:24,383 INFO  [Modulo da página de cadastro] O telefone do usuário obtida do excel é "1198145838" 
+2020-01-16 11:00:24,561 INFO  [Modulo da página de cadastro] Insere o telefone do usuário 
+2020-01-16 11:00:24,666 INFO  [Modulo da página de cadastro] Seleciona a lista de países 
+2020-01-16 11:00:24,706 INFO  [Modulo da página de cadastro] Instancia um objeto select para manipulação da lista 
+2020-01-16 11:00:24,711 INFO  [Modulo da página de cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 11:00:24,783 INFO  [Modulo da página de cadastro] O país Brazil foi selecionado 
+2020-01-16 11:00:24,783 INFO  [Modulo da página de cadastro] A cidade obtida do excel é Osasco 
+2020-01-16 11:00:24,927 INFO  [Modulo da página de cadastro] Insere a cidade do usuário 
+2020-01-16 11:00:24,927 INFO  [Modulo da página de cadastro] O endereço obtida do excel é Rua Francisco, 61 Bandeiras 
+2020-01-16 11:00:25,343 INFO  [Modulo da página de cadastro] Insere o endereço do usuário 
+2020-01-16 11:00:25,343 INFO  [Modulo da página de cadastro] O estado obtido do excel é São Paulo 
+2020-01-16 11:00:25,478 INFO  [Modulo da página de cadastro] Insere o estado do usuário 
+2020-01-16 11:00:25,478 INFO  [Modulo da página de cadastro] O CEP obtido do excel é "6160450" 
+2020-01-16 11:00:25,616 INFO  [Modulo da página de cadastro] Insere o CEP do usuário 
+2020-01-16 11:00:25,687 INFO  [Modulo da página de cadastro] A opção de aceitação dos termos de privacidade foi selecionada 
+2020-01-16 11:00:25,787 INFO  [Modulo da página de cadastro] O link para registrar um novo usuário recebeu um clique 
+2020-01-16 11:00:25,787 INFO  [Teste de Cadastro] O módulo do cadastro foi executado com sucesso 
+2020-01-16 11:00:25,837 INFO  [Teste de Cadastro] O endereço da url foi obtido: https://www.advantageonlineshopping.com/#/register 
+2020-01-16 11:00:25,837 INFO  [Teste de Cadastro] Realiza a comparação entre as urls esperada e a obtida 
+2020-01-16 11:00:25,845 INFO  [Teste de Cadastro] Foi aplicado um comando de rolagem de tela, para melhoria do print obtido 
+2020-01-16 11:00:26,125 INFO  [Teste de Cadastro] Tira um PrintScreen para comprovar fim do teste 
+2020-01-16 11:00:26,739 INFO  [Teste de Cadastro] O driver é encerrado 
+2020-01-16 13:14:03,844 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 13:14:03,845 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 13:14:09,879 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 13:14:09,892 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:14:14,032 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 13:14:14,526 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 13:14:15,419 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 13:14:15,426 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:16:33,275 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 13:16:33,276 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 13:16:39,414 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 13:16:39,428 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:16:43,622 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 13:16:44,106 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 13:16:44,995 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 13:16:45,004 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:18:53,241 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 13:18:53,242 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 13:18:59,273 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 13:18:59,287 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:19:03,416 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 13:19:03,884 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 13:19:04,904 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 13:19:04,912 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:20:16,997 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 13:20:16,997 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 13:20:23,027 INFO  [TestBuscaClique] Novo driver instanciado 
+2020-01-16 13:20:23,043 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:20:27,177 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 13:20:27,645 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 13:20:28,532 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 13:20:28,538 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:20:28,574 INFO  [BuscaClique_POF] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 13:41:01,533 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 13:41:01,544 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:41:05,705 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 13:41:06,703 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 13:41:08,452 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 13:41:08,460 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:41:08,463 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 13:41:13,769 INFO  [BuscaClique_POF] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 13:41:13,775 INFO  [BuscaClique_POF] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:44:29,603 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 13:44:29,616 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:44:33,742 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 13:44:34,167 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 13:44:35,067 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 13:44:35,072 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:44:35,074 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 13:44:40,178 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 13:44:40,185 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:44:44,310 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 13:44:44,342 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 13:44:45,256 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 13:44:45,260 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:44:45,294 INFO  [BuscaClique_POF] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 13:44:45,298 INFO  [BuscaClique_POF] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:46:15,147 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 13:46:15,163 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:46:19,293 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 13:46:19,722 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 13:46:20,603 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 13:46:20,608 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:46:20,610 INFO  [TestBuscaClique] Configurado driver de execução 
+2020-01-16 13:46:25,653 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 13:46:25,657 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:46:29,808 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 13:46:29,916 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 13:46:30,937 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 13:46:30,947 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:46:31,015 INFO  [BuscaClique_POF] A fabrica de objetos da página inicial foi instanciada 
+2020-01-16 13:46:31,022 INFO  [BuscaClique_POF] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:46:31,183 INFO  [BuscaClique_POF] A categoria de Headphones recebeu um clique 
+2020-01-16 13:46:32,099 INFO  [BuscaClique_POF] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-16 13:46:32,104 INFO  [BuscaClique_POF] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:46:32,749 INFO  [BuscaClique_POF] Adiciona o produto procurado ao carrinho 
+2020-01-16 13:46:33,236 INFO  [BuscaClique_POF] A opção de checkout recebeu um clique 
+2020-01-16 13:46:33,243 INFO  [TesteBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 13:46:33,964 INFO  [TesteBuscaClique] Localiza o produto no carrinho 
+2020-01-16 13:46:33,969 INFO  [TesteBuscaClique] Verifica que o produto foi inserido no carrinho com sucesso 
+2020-01-16 13:46:34,444 INFO  [TesteBuscaClique] Foi obtido um print da tela 
+2020-01-16 14:00:18,655 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 14:00:18,660 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 14:00:22,785 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 14:00:23,174 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 14:00:24,077 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 14:00:24,081 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 14:00:24,089 INFO  [Teste de busca por clique inválido] Aplica um scroll na tela para que o elemento fique visível para o print 
+2020-01-16 14:00:27,248 INFO  [Teste de busca por clique inválido] Localiza o elemento: HP ELITEBOOK FOLIO  
+2020-01-16 14:00:27,298 INFO  [Teste de busca por clique inválido] Aguarda que o elemento esteja visível 
+2020-01-16 14:00:27,633 INFO  [Teste de busca por clique inválido] Tira um PrintScreen 1 
+2020-01-16 14:00:27,697 INFO  [Teste de busca por clique inválido] Clica no item popular HP ELITEBOOK FOLIO 
+2020-01-16 14:00:27,700 INFO  [Teste de busca por clique inválido] Aguarda 10s 
+2020-01-16 14:00:28,888 INFO  [Teste de busca por clique inválido] Confirma que o item adicionado é diferente do item clicado inicialmente 
+2020-01-16 14:00:29,168 INFO  [Teste de busca por clique inválido] Tira um PrintScreen 
+2020-01-16 14:03:57,708 INFO  [TestBuscaClique] Configurado arquivo de registros de logs 
+2020-01-16 14:03:57,714 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 14:04:01,864 INFO  [TestBuscaClique] A janela foi maximizada 
+2020-01-16 14:04:02,807 INFO  [TestBuscaClique] Configurado o arquivo do excel a ser lido 
+2020-01-16 14:04:03,735 INFO  [TestBuscaClique] O Website foi acessado 
+2020-01-16 14:04:03,739 INFO  [TestBuscaClique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-16 14:04:03,771 INFO  [Teste de busca por clique inválido] Aplica um scroll na tela para que o elemento fique visível para o print 
+2020-01-16 14:04:07,113 INFO  [Teste de busca por clique inválido] Localiza o elemento: HP ELITEBOOK FOLIO  
+2020-01-16 14:04:07,164 INFO  [Teste de busca por clique inválido] Aguarda que o elemento esteja visível 
+2020-01-16 14:04:07,650 INFO  [Teste de busca por clique inválido] Tira um PrintScreen 1 
+2020-01-16 14:04:07,704 INFO  [Teste de busca por clique inválido] Clica no item popular HP ELITEBOOK FOLIO 
+2020-01-16 14:04:07,708 INFO  [Teste de busca por clique inválido] Aguarda 10s 
+2020-01-16 14:04:09,065 INFO  [Teste de busca por clique inválido] Confirma que o item adicionado é diferente do item clicado inicialmente 
+2020-01-16 14:04:09,428 INFO  [Teste de busca por clique inválido] Tira um PrintScreen 

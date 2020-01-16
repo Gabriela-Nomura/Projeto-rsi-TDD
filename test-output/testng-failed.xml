@@ -5,9 +5,7 @@
     <classes>
       <class name="br.com.rsinet.hub_TDD.testes.TesteBuscaClique">
         <methods>
-          <include name="testaBuscaCliqueInvalido"/>
-          <include name="configuracoes"/>
-          <include name="encerra"/>
+          <include name="testaBuscaCliqueValido"/>
         </methods>
       </class> <!-- br.com.rsinet.hub_TDD.testes.TesteBuscaClique -->
     </classes>

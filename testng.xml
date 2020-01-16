@@ -1,4 +1,4 @@
-<suite name= "Teste - Suite" >
+<suite name= "Teste - TDD" >
 <test name="br.com.rsinet.hub_TDD" >
 <classes>
 <class name="br.com.rsinet.hub_TDD.testes.TestBuscaLupa" />
