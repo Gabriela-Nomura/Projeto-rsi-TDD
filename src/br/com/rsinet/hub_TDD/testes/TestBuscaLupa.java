@@ -9,6 +9,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.AssertJUnit;
@@ -18,6 +19,9 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import br.com.rsinet.hub_TDD.modulos.ModuloBusca;
+import br.com.rsinet.hub_TDD.pageFactory.HomePage_POF;
+import br.com.rsinet.hub_TDD.pageFactory.PaginaBusca_POF;
+import br.com.rsinet.hub_TDD.utils.Driver_Factory;
 import br.com.rsinet.hub_TDD.utils.ExcelUtils;
 import br.com.rsinet.hub_TDD.utils.Print;
 import br.com.rsinet.hub_TDD.utils.constantes;
@@ -26,42 +30,42 @@ public class TestBuscaLupa {
 
 	static Logger Log = Logger.getLogger(Logger.class.getName());
 	static WebDriver driver;
+	HomePage_POF HomePage;
+	PaginaBusca_POF BuscaPage;
 
 	@BeforeMethod
-	public void configuracoes() throws Exception {
+	public void configura() throws Exception {
+
 		DOMConfigurator.configure("log4j.xml");
 		Log.info("Configurado arquivo de registros de logs");
 
-		System.setProperty("webdriver.chrome.driver", "C:\\Drivers\\chromedriver.exe");
-		Log.info("Configurado driver de execução");
-
-		driver = new ChromeDriver();
-		Log.info("Novo driver instanciado");
-
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		Log.info("Driver recebeu um comando de espera implicito por 10 segundos");
-
-		driver.manage().window().maximize();
-		Log.info("A janela foi maximizada");
-
-		ExcelUtils.setExcelFile(constantes.Path_TestData, "TesteBusca");
-		Log.info("Configurado o arquivo do excel a ser lido");
+		driver = Driver_Factory.configDriver();
+		Log.info("Faz a configuração do driver");
 
 		driver.get(constantes.URL);
 		Log.info("O Website foi acessado");
+
+		HomePage = PageFactory.initElements(driver, HomePage_POF.class);
+		Log.info("A fabrica de objetos da página inicial foi instanciada");
+
+		BuscaPage = PageFactory.initElements(driver, PaginaBusca_POF.class);
+		Reporter.log(" A aplicação foi iniciada com sucesso |");
 
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		Log.info("Driver recebeu um comando de espera implicito por 10 segundos");
 
 	}
-
+	
 	@Test(priority = 1)
 	public void testaBuscaLupaValido() throws Exception {
+		
 		Reporter.log(" A aplicação foi iniciada com sucesso |");
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		Log.info("Driver recebeu um comando de espera implicito por 10 segundos");
 
-		ModuloBusca.executa(1, driver);
+		HomePage.clickOn_busca();
+		HomePage.sendText_busca();
+		
 		Log.info("O módulo de busca foi executado com sucesso");
 		Reporter.log("O campo de busca recebeu os parâmetros enviados |");
 		

@@ -3,11 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="br.com.rsinet.hub_TDD.testes.TesteBuscaClique">
+      <class name="br.com.rsinet.hub_TDD.testes.TestBuscaLupa">
         <methods>
-          <include name="testaBuscaCliqueValido"/>
+          <include name="testaBuscaLupaValido"/>
+          <include name="encerra"/>
+          <include name="testaBuscaLupaInvalido"/>
+          <include name="configura"/>
         </methods>
-      </class> <!-- br.com.rsinet.hub_TDD.testes.TesteBuscaClique -->
+      </class> <!-- br.com.rsinet.hub_TDD.testes.TestBuscaLupa -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
