@@ -3,14 +3,17 @@ package br.com.rsinet.hub_TDD.pageFactory;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Reporter;
 
 import br.com.rsinet.hub_TDD.utils.Print;
 import br.com.rsinet.hub_TDD.utils.constantes;
@@ -81,15 +84,16 @@ public class HomePage_POF {
 		Log.info("A categoria de Headphones recebeu um clique");
 	}
 
-	public void clickOn_PopularProdutos() {
+	public void clickOn_PopularProdutos() throws InterruptedException {
 		WebDriverWait wait = new WebDriverWait(driver, 5);
 		wait.until(ExpectedConditions.elementToBeClickable(popularProdutos));
 		popularProdutos.sendKeys(Keys.ENTER);
 
-		 driver.manage().timeouts().setScriptTimeout(100,TimeUnit.SECONDS);
-//		 
-
+//		 Actions acao = new Actions(driver);
+//		 acao.sendKeys(Keys.PAGE_DOWN).sendKeys(Keys.PAGE_DOWN).sendKeys(Keys.PAGE_DOWN).perform();
+//		 Thread.sleep(10000);
 	}
+	
 
 	public void takePrint() throws Exception {
 		driver.manage().timeouts().pageLoadTimeout(100, TimeUnit.SECONDS);
@@ -117,6 +121,19 @@ public class HomePage_POF {
 		buscaBox.sendKeys(constantes.buscaLupa());
 		Log.info("O ícone de busca recebeu um clique");
 }
-	
+	public void ajusta_tela() throws Exception {
+		WebDriverWait wait = new WebDriverWait(driver, 20);
+		JavascriptExecutor scroll = (JavascriptExecutor) driver;
+		scroll.executeScript("scrollBy(0,750)", "");
+		Log.info("Aplica um scroll na tela para que o elemento fique visível para o print");
+
+		Reporter.log(" A página é deslizada para que o elemento desejado fique visível |");
+		WebElement element = driver.findElement(By.id("details_10"));
+		wait.until(ExpectedConditions.visibilityOf(element));
+}
+	public void take_Print() throws Exception {
+		Print.takeSnapShot("TesteBuscaLupaInvalido-MostraProduto", driver);
+		Log.info("Um PrintScreen é obtido da tela atual");
+	}
 }
 

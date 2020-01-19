@@ -5,24 +5,18 @@ import java.util.concurrent.TimeUnit;
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
 import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.AssertJUnit;
 import org.testng.Reporter;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import br.com.rsinet.hub_TDD.modulos.ModuloBusca;
 import br.com.rsinet.hub_TDD.pageFactory.HomePage_POF;
 import br.com.rsinet.hub_TDD.pageFactory.PaginaBusca_POF;
 import br.com.rsinet.hub_TDD.utils.Driver_Factory;
-import br.com.rsinet.hub_TDD.utils.ExcelUtils;
 import br.com.rsinet.hub_TDD.utils.Print;
 import br.com.rsinet.hub_TDD.utils.constantes;
 
@@ -91,25 +85,11 @@ public class TestBuscaLupa {
 		
 		Reporter.log(" A aplicação foi iniciada com sucesso |");
 		
-		WebDriverWait wait = new WebDriverWait(driver, 20);
-		wait.until(ExpectedConditions.urlToBe("https://www.advantageonlineshopping.com/#/"));
-	
-		JavascriptExecutor scroll = (JavascriptExecutor) driver;
-		scroll.executeScript("scrollBy(0,750)", "");
-		Log.info("Aplica um scroll na tela para que o elemento fique visível para o print");
-
-		Reporter.log(" A página é deslizada para que o elemento desejado fique visível |");
-		WebElement element = driver.findElement(By.id("details_10"));
-		wait.until(ExpectedConditions.visibilityOf(element));
-
-		Print.takeSnapShot("TesteBuscaLupaInvalido", driver);
-		Log.info("Um PrintScreen é obtido da tela atual");
-
-		ModuloBusca.executa(2, driver);
-		Log.info("Insere o valor no campo de pesquisa");
-
-		wait.until(ExpectedConditions.urlToBe("https://www.advantageonlineshopping.com/#/search/?viewAll=HP%20ELITEBOOK%20FOLIO"));
-		Log.info("Um comando de espera é fornecido ao driver para que aguarde pelo carregamento da página");
+//		HomePage.ajusta_tela();
+		HomePage.clickOn_PopularProdutos();
+		HomePage.take_Print();
+		HomePage.clickOn_busca();
+		HomePage.sendText_busca();
 		
 		AssertJUnit.assertTrue("Teste com falha", driver.getPageSource().contains("No results for "));
 

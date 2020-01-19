@@ -29,7 +29,7 @@ public class Driver_Factory {
 		return driver;
 	}
 
-	public static void configExcel(WebDriver driver) throws Exception {
+	public static void configExcel() throws Exception {
 		ExcelUtils.setExcelFile(constantes.Path_TestData, "TesteBusca");
 		Log.info("Configurado o arquivo do excel a ser lido");
 	}

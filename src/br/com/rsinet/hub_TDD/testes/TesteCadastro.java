@@ -45,6 +45,9 @@ public class TesteCadastro {
 		driver.get(constantes.URL);
 		Log.info("O Website foi acessado");
 		
+		
+		Driver_Factory.configExcel();
+		
 		ExcelUtils.setExcelFile(constantes.Path_TestData, "TesteCadastro");
 		Log.info("Configurado o arquivo do excel a ser lido");
 
@@ -97,9 +100,12 @@ public class TesteCadastro {
 		Assert.assertTrue(HomePage.logadoNomeUser());
 
 		Reporter.log("O nome de usuário obtido é igual ao enviado a aplicação |");
+		
 		Print.takeSnapShot("TesteCadastroValido", driver);
 		Log.info("Um PrintScreen é obtido da tela atual");
+		
 		Reporter.log("O teste de cadastro válido foi concluído com sucesso |");
+		
 		Reporter.log(" A aplicação foi encerrada");
 	}
 
