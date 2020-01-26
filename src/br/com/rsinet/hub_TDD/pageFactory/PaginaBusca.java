@@ -5,17 +5,22 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
+import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class PaginaBusca_POF {
-	
+public class PaginaBusca {
+	/**
+	 * Classe de manipulacao de webElements das paginas de buscas
+	 */
 	static Logger Log = Logger.getLogger("Fabrica de objetos - Página de busca");
 	final WebDriver driver;
 
-	public PaginaBusca_POF(WebDriver driver) {
+	public PaginaBusca(WebDriver driver) {
 		this.driver = driver;
+		PageFactory.initElements(driver, this);
 	}
+
 	@FindBy(how = How.XPATH, using = "/html/body/div[3]/section/article/div[3]/div/div/div[2]/ul/li[1]/p[1]/a")
 	private WebElement produto;
 
@@ -24,7 +29,7 @@ public class PaginaBusca_POF {
 
 	@FindBy(how = How.ID, using = "checkOutPopUp")
 	private WebElement checkout;
-	
+
 	public void clickOn_Produto() {
 		WebDriverWait wait = new WebDriverWait(driver, 15);
 		Log.info("Instancia um comando de espera ");

@@ -7,17 +7,21 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
+import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
 
 import br.com.rsinet.hub_TDD.utils.constantes;
 
 public class CadastraPage_POF {
-
+	/**
+	 * Classe de manipulacao de webElements da pagina de cadastro
+	 */
 	final WebDriver driver;
 	Logger Log = Logger.getLogger("Fabrica de objetos - Cadastro");
 
 	public CadastraPage_POF(WebDriver driver) {
 		this.driver = driver;
+		PageFactory.initElements(driver, this);
 	}
 
 	// Account Details
@@ -69,8 +73,10 @@ public class CadastraPage_POF {
 
 	@FindBy(how = How.XPATH, using = "//*[@id=\"registerPage\"]/article/sec-form/div[2]/label[1]/font/font")
 	private WebElement alerta;
-	
-	public String sendUserName(int i ) throws Exception {
+
+	// metodo que obtem o valor lido do excel e insere o valor no respectivo campo
+	// o parametro i se refere a linha do excel que sera lida
+	public String sendUserName(int i) throws Exception {
 		nomeUsuario.sendKeys(constantes.userName(i));
 		Log.info("Insere o nome de usuario");
 		return constantes.userName(i);
@@ -128,27 +134,30 @@ public class CadastraPage_POF {
 	public void sendUserEndereco() throws Exception {
 		enderecoUsuario.sendKeys(constantes.userEndereco());
 		Log.info("Insere o endereço do usuário");
-		
+
 	}
-	
+
 	public void sendUserEstado() throws Exception {
 		estadoUsuario.sendKeys(constantes.userEstado());
 		Log.info("Insere o estado do usuário");
 	}
+
 	public void sendUserCep() throws Exception {
-	cepUsuario.sendKeys(constantes.userCep());
-	Log.info("Insere o CEP do usuário");
+		cepUsuario.sendKeys(constantes.userCep());
+		Log.info("Insere o CEP do usuário");
 	}
+
 	public void aceitaTermos() {
-	aceitaTermos.click();
-	Log.info("A opção de aceitação dos termos de privacidade foi selecionada");
+		aceitaTermos.click();
+		Log.info("A opção de aceitação dos termos de privacidade foi selecionada");
 	}
+
 	public void registaUser() {
-		
+
 		registraUsuario.click();
 		Log.info("O link para registrar um novo usuário recebeu um clique");
 		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
+		registraUsuario.click();
 	}
-	
-	
+
 }

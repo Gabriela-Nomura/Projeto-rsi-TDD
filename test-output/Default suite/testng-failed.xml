@@ -5,7 +5,6 @@
     <classes>
       <class name="br.com.rsinet.hub_TDD.testes.TestBuscaLupa">
         <methods>
-          <include name="testaBuscaLupaValido"/>
           <include name="encerra"/>
           <include name="testaBuscaLupaInvalido"/>
           <include name="configura"/>

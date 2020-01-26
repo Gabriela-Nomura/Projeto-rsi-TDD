@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="2" ignored="0" total="2" passed="0">
+<testng-results skipped="0" failed="6" ignored="0" total="6" passed="0">
   <reporter-output>
     <line>
       <![CDATA[ A aplicação foi iniciada com sucesso |]]>
@@ -14,31 +14,33 @@
       <![CDATA[ A aplicação foi iniciada com sucesso |]]>
     </line>
     <line>
-      <![CDATA[O campo de busca recebeu os parâmetros enviados |]]>
+      <![CDATA[ A aplicação foi iniciada com sucesso |]]>
+    </line>
+    <line>
+      <![CDATA[ A aplicação foi iniciada com sucesso |]]>
+    </line>
+    <line>
+      <![CDATA[O usuário não foi cadastrado |]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="40124" started-at="2020-01-19T16:30:30 BRT" finished-at="2020-01-19T16:31:10 BRT">
+  <suite name="Teste - TDD" duration-ms="67743" started-at="2020-01-26T15:25:41 BRT" finished-at="2020-01-26T15:26:48 BRT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="40124" started-at="2020-01-19T16:30:30 BRT" finished-at="2020-01-19T16:31:10 BRT">
-      <class name="br.com.rsinet.hub_TDD.testes.TestBuscaLupa">
-        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@6b57696f]" name="configura" is-config="true" duration-ms="11483" started-at="2020-01-19T16:30:30 BRT" finished-at="2020-01-19T16:30:41 BRT">
+    <test name="br.com.rsinet.hub_TDD" duration-ms="67743" started-at="2020-01-26T15:25:41 BRT" finished-at="2020-01-26T15:26:48 BRT">
+      <class name="br.com.rsinet.hub_TDD.testes.TesteBuscaClique">
+        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@37b52340]" name="configura" is-config="true" duration-ms="10421" started-at="2020-01-26T15:26:04 BRT" finished-at="2020-01-26T15:26:15 BRT">
           <reporter-output>
-            <line>
-              <![CDATA[ A aplicação foi iniciada com sucesso |]]>
-            </line>
           </reporter-output>
         </test-method> <!-- configura -->
-        <test-method status="FAIL" signature="testaBuscaLupaInvalido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@6b57696f]" name="testaBuscaLupaInvalido" duration-ms="11298" started-at="2020-01-19T16:30:41 BRT" finished-at="2020-01-19T16:30:53 BRT">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[Teste com falha]]>
-            </message>
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@37b52340]" name="encerra" is-config="true" duration-ms="634" started-at="2020-01-26T15:26:15 BRT" finished-at="2020-01-26T15:26:15 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- encerra -->
+        <test-method status="FAIL" signature="testaBuscaCliqueInvalido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@37b52340]" name="testaBuscaCliqueInvalido" duration-ms="0" started-at="2020-01-26T15:26:15 BRT" finished-at="2020-01-26T15:26:15 BRT">
+          <exception class="java.lang.NullPointerException">
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: Teste com falha
-at org.testng.AssertJUnit.fail(AssertJUnit.java:47)
-at org.testng.AssertJUnit.assertTrue(AssertJUnit.java:20)
-at br.com.rsinet.hub_TDD.testes.TestBuscaLupa.testaBuscaLupaInvalido(TestBuscaLupa.java:94)
+              <![CDATA[java.lang.NullPointerException
+at br.com.rsinet.hub_TDD.testes.TesteBuscaClique.testaBuscaCliqueInvalido(TesteBuscaClique.java:85)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -69,44 +71,124 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[ A aplicação foi iniciada com sucesso |]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testaBuscaCliqueInvalido -->
+        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@37b52340]" name="configura" is-config="true" duration-ms="10367" started-at="2020-01-26T15:26:15 BRT" finished-at="2020-01-26T15:26:26 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configura -->
+        <test-method status="FAIL" signature="testaBuscaCliqueValido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@37b52340]" name="testaBuscaCliqueValido" duration-ms="5" started-at="2020-01-26T15:26:26 BRT" finished-at="2020-01-26T15:26:26 BRT">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at br.com.rsinet.hub_TDD.testes.TesteBuscaClique.testaBuscaCliqueValido(TesteBuscaClique.java:60)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[ A aplicação foi iniciada com sucesso |]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testaBuscaCliqueValido -->
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@37b52340]" name="encerra" is-config="true" duration-ms="639" started-at="2020-01-26T15:26:26 BRT" finished-at="2020-01-26T15:26:26 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- encerra -->
+      </class> <!-- br.com.rsinet.hub_TDD.testes.TesteBuscaClique -->
+      <class name="br.com.rsinet.hub_TDD.testes.TestBuscaLupa">
+        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@31dfc6f5]" name="configura" is-config="true" duration-ms="12516" started-at="2020-01-26T15:25:41 BRT" finished-at="2020-01-26T15:25:53 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configura -->
+        <test-method status="FAIL" signature="testaBuscaLupaInvalido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@31dfc6f5]" name="testaBuscaLupaInvalido" duration-ms="22" started-at="2020-01-26T15:25:53 BRT" finished-at="2020-01-26T15:25:53 BRT">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at br.com.rsinet.hub_TDD.testes.TestBuscaLupa.testaBuscaLupaInvalido(TestBuscaLupa.java:95)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
             <line>
               <![CDATA[ A aplicação foi iniciada com sucesso |]]>
             </line>
           </reporter-output>
         </test-method> <!-- testaBuscaLupaInvalido -->
-        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@6b57696f]" name="encerra" is-config="true" duration-ms="66" started-at="2020-01-19T16:30:53 BRT" finished-at="2020-01-19T16:30:53 BRT">
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@31dfc6f5]" name="encerra" is-config="true" duration-ms="73" started-at="2020-01-26T15:25:53 BRT" finished-at="2020-01-26T15:25:53 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- encerra -->
-        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@6b57696f]" name="configura" is-config="true" duration-ms="10554" started-at="2020-01-19T16:30:53 BRT" finished-at="2020-01-19T16:31:03 BRT">
+        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@31dfc6f5]" name="configura" is-config="true" duration-ms="10770" started-at="2020-01-26T15:25:53 BRT" finished-at="2020-01-26T15:26:04 BRT">
           <reporter-output>
-            <line>
-              <![CDATA[ A aplicação foi iniciada com sucesso |]]>
-            </line>
           </reporter-output>
         </test-method> <!-- configura -->
-        <test-method status="FAIL" signature="testaBuscaLupaValido()[pri:1, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@6b57696f]" name="testaBuscaLupaValido" duration-ms="6643" started-at="2020-01-19T16:31:03 BRT" finished-at="2020-01-19T16:31:10 BRT">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[Cannot locate an element using xpath=//*[@id="16"]
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'RSI1505', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
-Driver info: driver.version: RemoteWebDriver]]>
-            </message>
+        <test-method status="FAIL" signature="testaBuscaLupaValido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@31dfc6f5]" name="testaBuscaLupaValido" duration-ms="7" started-at="2020-01-26T15:26:04 BRT" finished-at="2020-01-26T15:26:04 BRT">
+          <exception class="java.lang.NullPointerException">
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//*[@id="16"]
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'RSI1505', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
-Driver info: driver.version: RemoteWebDriver
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at br.com.rsinet.hub_TDD.testes.TestBuscaLupa.testaBuscaLupaValido(TestBuscaLupa.java:66)
+              <![CDATA[java.lang.NullPointerException
+at br.com.rsinet.hub_TDD.testes.TestBuscaLupa.testaBuscaLupaValido(TestBuscaLupa.java:61)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -137,61 +219,34 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
             <line>
               <![CDATA[ A aplicação foi iniciada com sucesso |]]>
             </line>
-            <line>
-              <![CDATA[O campo de busca recebeu os parâmetros enviados |]]>
-            </line>
           </reporter-output>
         </test-method> <!-- testaBuscaLupaValido -->
-        <test-method status="FAIL" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@6b57696f]" name="encerra" is-config="true" duration-ms="34" started-at="2020-01-19T16:31:10 BRT" finished-at="2020-01-19T16:31:10 BRT">
-          <exception class="org.openqa.selenium.NoSuchWindowException">
-            <message>
-              <![CDATA[no such window: target window already closed
-from unknown error: web view not found
-  (Session info: chrome=79.0.3945.117)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'RSI1505', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\GABRIE~1.NOM\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:53973}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 28f8d3121d77b4703c9b80f8b0f612de]]>
-            </message>
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@31dfc6f5]" name="encerra" is-config="true" duration-ms="63" started-at="2020-01-26T15:26:04 BRT" finished-at="2020-01-26T15:26:04 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- encerra -->
+      </class> <!-- br.com.rsinet.hub_TDD.testes.TestBuscaLupa -->
+      <class name="br.com.rsinet.hub_TDD.testes.TesteCadastro">
+        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@663bb8ef]" name="configura" is-config="true" duration-ms="10328" started-at="2020-01-26T15:26:26 BRT" finished-at="2020-01-26T15:26:37 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configura -->
+        <test-method status="FAIL" signature="testeCadastroValido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@663bb8ef]" name="testeCadastroValido" duration-ms="3" started-at="2020-01-26T15:26:37 BRT" finished-at="2020-01-26T15:26:37 BRT">
+          <exception class="java.lang.NullPointerException">
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
-from unknown error: web view not found
-  (Session info: chrome=79.0.3945.117)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'RSI1505', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\GABRIE~1.NOM\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:53973}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 28f8d3121d77b4703c9b80f8b0f612de
-at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-at java.lang.reflect.Constructor.newInstance(Unknown Source)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
-at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:442)
-at br.com.rsinet.hub_TDD.testes.TestBuscaLupa.encerra(TestBuscaLupa.java:109)
+              <![CDATA[java.lang.NullPointerException
+at br.com.rsinet.hub_TDD.testes.TesteCadastro.testeCadastroValido(TesteCadastro.java:90)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
 at java.lang.reflect.Method.invoke(Unknown Source)
 at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
-at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:340)
-at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:294)
-at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:683)
-at org.testng.internal.TestInvoker.runAfterGroupsConfigurations(TestInvoker.java:658)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:642)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
 at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
 at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
 at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
@@ -216,11 +271,71 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchWindowException -->
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[ A aplicação foi iniciada com sucesso |]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testeCadastroValido -->
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@663bb8ef]" name="encerra" is-config="true" duration-ms="627" started-at="2020-01-26T15:26:37 BRT" finished-at="2020-01-26T15:26:37 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- encerra -->
-      </class> <!-- br.com.rsinet.hub_TDD.testes.TestBuscaLupa -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@663bb8ef]" name="configura" is-config="true" duration-ms="10525" started-at="2020-01-26T15:26:37 BRT" finished-at="2020-01-26T15:26:48 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configura -->
+        <test-method status="FAIL" signature="testeCadastroInvalido()[pri:1, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@663bb8ef]" name="testeCadastroInvalido" duration-ms="5" started-at="2020-01-26T15:26:48 BRT" finished-at="2020-01-26T15:26:48 BRT">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at br.com.rsinet.hub_TDD.testes.TesteCadastro.testeCadastroInvalido(TesteCadastro.java:132)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[ A aplicação foi iniciada com sucesso |]]>
+            </line>
+            <line>
+              <![CDATA[O usuário não foi cadastrado |]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testeCadastroInvalido -->
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@663bb8ef]" name="encerra" is-config="true" duration-ms="639" started-at="2020-01-26T15:26:48 BRT" finished-at="2020-01-26T15:26:48 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- encerra -->
+      </class> <!-- br.com.rsinet.hub_TDD.testes.TesteCadastro -->
+    </test> <!-- br.com.rsinet.hub_TDD -->
+  </suite> <!-- Teste - TDD -->
 </testng-results>

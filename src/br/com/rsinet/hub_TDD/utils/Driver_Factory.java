@@ -30,7 +30,7 @@ public class Driver_Factory {
 	}
 
 	public static void configExcel() throws Exception {
-		ExcelUtils.setExcelFile(constantes.Path_TestData, "TesteBusca");
+		ConfigExcel.setExcelFile(constantes.Path_TestData, "Teste");
 		Log.info("Configurado o arquivo do excel a ser lido");
 	}
 
