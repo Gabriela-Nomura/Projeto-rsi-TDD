@@ -3,7 +3,6 @@ package br.com.rsinet.hub_TDD.pageFactory;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
-import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -47,7 +46,9 @@ public class HomePage {
 
 	@FindBy(how = How.ID, using = "autoComplete")
 	private WebElement buscaBox;
-
+	@FindBy(how = How.ID, using = "16")
+	private WebElement produtoSeleciona;
+	
 	public void minhaConta() {
 		minhaConta.click();
 		Log.info("O link minha conta recebu um clique");
@@ -61,7 +62,7 @@ public class HomePage {
 		Log.info("O link nova conta recebeu um clique");
 	}
 	public void seleciona() {
-		driver.findElement(By.id("16")).click();
+		produtoSeleciona.click();
 	}
 	public boolean logadoNomeUser() throws Exception {
 

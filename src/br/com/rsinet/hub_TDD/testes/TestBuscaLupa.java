@@ -6,7 +6,6 @@ import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
-import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
@@ -69,7 +68,7 @@ public class TestBuscaLupa {
 		Log.info("A pela lupa foi executada com sucesso");
 		Reporter.log("O campo de busca recebeu os parâmetros enviados |");
 
-//		HomePage.seleciona();
+		HomePage.seleciona();
 
 		Log.info("Clica no elemento que foi buscado");
 
