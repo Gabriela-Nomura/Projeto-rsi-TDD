@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>5/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Mon Jan 27 10:25:06 BRT 2020</td>
+<td>Started on:</td><td>Mon Jan 27 10:53:49 BRT 2020</td>
 </tr>
-<tr><td>Total time:</td><td>111 seconds (111116 ms)</td>
+<tr><td>Total time:</td><td>144 seconds (144710 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -75,27 +75,26 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='br.com.rsinet.hub_TDD.testes.TesteCadastro.testeCadastroInvalido()'><b>testeCadastroInvalido</b><br>Test class: br.com.rsinet.hub_TDD.testes.TesteCadastro<br/>
-<a href="#Output-2000563893" onClick='toggleBox("Output-2000563893", this, "Show output", "Hide output");'>Show output</a>
+<td title='br.com.rsinet.hub_TDD.testes.TesteCadastro.testeCadastroValido()'><b>testeCadastroValido</b><br>Test class: br.com.rsinet.hub_TDD.testes.TesteCadastro<br/>
+<a href="#Output-1610372241" onClick='toggleBox("Output-1610372241", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-2000563893" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-2000563893">
+<a href="#Output-1610372241" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1610372241">
  A aplicação foi iniciada com sucesso |<br/>
  A página de criação de novo usuário foi acessada |<br/>
-Os dados foram preenchidos com um nome de usuario ja cadastrado<br/>
-O usuário não foi cadastrado |<br/>
+Os dados foram preenchidos com informações válidas<br/>
 </div>
 </td>
-<td><div><pre>java.lang.AssertionError: did not expect to find [false] but found [true]
-	at br.com.rsinet.hub_TDD.testes.TesteCadastro.testeCadastroInvalido(TesteCadastro.java:132)
+<td><div><pre>java.lang.AssertionError: did not expect to find [true] but found [false]
+	at br.com.rsinet.hub_TDD.testes.TesteCadastro.testeCadastroValido(TesteCadastro.java:91)
 	at java.util.ArrayList.forEach(Unknown Source)
-... Removed 31 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace2000563893", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace2000563893'><pre>java.lang.AssertionError: did not expect to find [false] but found [true]
+... Removed 31 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1610372241", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1610372241'><pre>java.lang.AssertionError: did not expect to find [true] but found [false]
 	at org.testng.Assert.fail(Assert.java:97)
 	at org.testng.Assert.failNotEquals(Assert.java:969)
-	at org.testng.Assert.assertFalse(Assert.java:65)
-	at org.testng.Assert.assertFalse(Assert.java:75)
-	at br.com.rsinet.hub_TDD.testes.TesteCadastro.testeCadastroInvalido(TesteCadastro.java:132)
+	at org.testng.Assert.assertTrue(Assert.java:43)
+	at org.testng.Assert.assertTrue(Assert.java:53)
+	at br.com.rsinet.hub_TDD.testes.TesteCadastro.testeCadastroValido(TesteCadastro.java:91)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -125,7 +124,7 @@ O usuário não foi cadastrado |<br/>
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 </pre></div></td>
-<td>20</td>
+<td>21</td>
 <td>br.com.rsinet.hub_TDD.testes.TesteCadastro@687080dc</td></tr>
 </table><p>
 <table width='100%' border='1' class='invocation-passed'>
@@ -149,22 +148,22 @@ O teste foi finalizado.<br/>
 </div>
 </td>
 <td></td>
-<td>5</td>
+<td>9</td>
 <td>br.com.rsinet.hub_TDD.testes.TesteBuscaClique@38bc8ab5</td></tr>
 <tr>
 <td title='br.com.rsinet.hub_TDD.testes.TesteBuscaClique.testaBuscaCliqueValido()'><b>testaBuscaCliqueValido</b><br>Test class: br.com.rsinet.hub_TDD.testes.TesteBuscaClique<br/>
-<a href="#Output-615853374" onClick='toggleBox("Output-615853374", this, "Show output", "Hide output");'>Show output</a>
+<a href="#Output-855724043" onClick='toggleBox("Output-855724043", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-615853374" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-615853374">
+<a href="#Output-855724043" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-855724043">
  A aplicação foi iniciada com sucesso |<br/>
 Os comandos de cliques foram executados com sucesso |<br/>
 O produto foi inserido no carrinho corretamente<br/>
-O teste foi finalizado <br/>
+O teste foi finalizado. <br/>
 </div>
 </td>
 <td></td>
-<td>5</td>
+<td>12</td>
 <td>br.com.rsinet.hub_TDD.testes.TesteBuscaClique@38bc8ab5</td></tr>
 <tr>
 <td title='br.com.rsinet.hub_TDD.testes.TestBuscaLupa.testaBuscaLupaInvalido()'><b>testaBuscaLupaInvalido</b><br>Test class: br.com.rsinet.hub_TDD.testes.TestBuscaLupa<br/>
@@ -179,7 +178,7 @@ O campo de busca recebeu os parâmetros enviados |<br/>
 </div>
 </td>
 <td></td>
-<td>3</td>
+<td>5</td>
 <td>br.com.rsinet.hub_TDD.testes.TestBuscaLupa@6b9651f3</td></tr>
 <tr>
 <td title='br.com.rsinet.hub_TDD.testes.TestBuscaLupa.testaBuscaLupaValido()'><b>testaBuscaLupaValido</b><br>Test class: br.com.rsinet.hub_TDD.testes.TestBuscaLupa<br/>
@@ -195,23 +194,23 @@ A busca pela lupa foi realizada com sucesso<br/>
 </div>
 </td>
 <td></td>
-<td>3</td>
+<td>5</td>
 <td>br.com.rsinet.hub_TDD.testes.TestBuscaLupa@6b9651f3</td></tr>
 <tr>
-<td title='br.com.rsinet.hub_TDD.testes.TesteCadastro.testeCadastroValido()'><b>testeCadastroValido</b><br>Test class: br.com.rsinet.hub_TDD.testes.TesteCadastro<br/>
-<a href="#Output-1884422865" onClick='toggleBox("Output-1884422865", this, "Show output", "Hide output");'>Show output</a>
+<td title='br.com.rsinet.hub_TDD.testes.TesteCadastro.testeCadastroInvalido()'><b>testeCadastroInvalido</b><br>Test class: br.com.rsinet.hub_TDD.testes.TesteCadastro<br/>
+<a href="#Output-34757331" onClick='toggleBox("Output-34757331", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1884422865" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1884422865">
+<a href="#Output-34757331" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-34757331">
  A aplicação foi iniciada com sucesso |<br/>
  A página de criação de novo usuário foi acessada |<br/>
-Os dados foram preenchidos com informações válidas<br/>
-Um novo usuário foi cadastrado com sucesso |<br/>
-O teste foi finalizado <br/>
+Os dados foram preenchidos com um nome de usuario ja cadastrado<br/>
+O usuário não foi cadastrado |<br/>
+ O teste foi finalizado <br/>
 </div>
 </td>
 <td></td>
-<td>7</td>
+<td>23</td>
 <td>br.com.rsinet.hub_TDD.testes.TesteCadastro@687080dc</td></tr>
 </table><p>
 </body>

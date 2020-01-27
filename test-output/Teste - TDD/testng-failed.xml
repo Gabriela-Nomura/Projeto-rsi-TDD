@@ -6,8 +6,8 @@
       <class name="br.com.rsinet.hub_TDD.testes.TesteCadastro">
         <methods>
           <include name="encerra"/>
+          <include name="testeCadastroValido"/>
           <include name="configura"/>
-          <include name="testeCadastroInvalido"/>
         </methods>
       </class> <!-- br.com.rsinet.hub_TDD.testes.TesteCadastro -->
     </classes>

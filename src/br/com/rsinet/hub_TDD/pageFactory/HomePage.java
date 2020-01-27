@@ -3,17 +3,13 @@ package br.com.rsinet.hub_TDD.pageFactory;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
-import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.Reporter;
 
 import br.com.rsinet.hub_TDD.utils.constantes;
 
@@ -21,12 +17,12 @@ public class HomePage {
 	/**
 	 * Classe de manipulacao de webElements da pagina inicial da aplicacao
 	 */
-	static Logger Log = Logger.getLogger("Fabrica de objetos - Página inicial");
+	static Logger Log = Logger.getLogger("Página inicial");
 	final WebDriver driver;
 
 	public HomePage(WebDriver driver) {
 		this.driver = driver;
-	
+
 	}
 
 	@FindBy(how = How.ID, using = "details_10")
@@ -113,16 +109,4 @@ public class HomePage {
 		Log.info("O ícone de busca recebeu um clique");
 		buscaBox.sendKeys(Keys.ENTER);
 	}
-
-	public void ajusta_tela() throws Exception {
-		WebDriverWait wait = new WebDriverWait(driver, 20);
-		JavascriptExecutor scroll = (JavascriptExecutor) driver;
-		scroll.executeScript("scrollBy(0,750)", "");
-		Log.info("Aplica um scroll na tela para que o elemento fique visível para o print");
-
-		Reporter.log(" A página é deslizada para que o elemento desejado fique visível |");
-		WebElement element = driver.findElement(By.id("details_10"));
-		wait.until(ExpectedConditions.visibilityOf(element));
-	}
-
 }

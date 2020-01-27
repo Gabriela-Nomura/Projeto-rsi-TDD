@@ -33,6 +33,7 @@ public class TesteCadastro {
 	CadastraPage CadastraPage;
 
 	@BeforeMethod
+	//Metodo responsavel por configurar e instanciar os objetos necessarios para execução do teste
 	public void configura() throws Exception {
 
 		DOMConfigurator.configure("log4j.xml");
@@ -143,9 +144,9 @@ public class TesteCadastro {
 	}
 
 	@AfterMethod
+	//encerra o driver utilizado para realização do teste
 	public void encerra() {
-
-		driver.quit();
+		Driver_Factory.encerra(driver);
 		Log.info("O driver é encerrado");
 
 	}

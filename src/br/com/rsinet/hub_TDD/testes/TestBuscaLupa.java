@@ -32,6 +32,7 @@ public class TestBuscaLupa {
 	PaginaBusca BuscaPage;
 
 	@BeforeMethod
+	//Metodo responsavel por configurar e instanciar os objetos necessarios para execução do teste
 	public void configura() throws Exception {
 
 		DOMConfigurator.configure("log4j.xml");
@@ -112,7 +113,8 @@ public class TestBuscaLupa {
 	}
 
 	@AfterMethod
+	//encerra o driver utilizado para realização do teste
 	public void encerra() {
-		driver.close();
+		Driver_Factory.encerra(driver);
 	}
 }

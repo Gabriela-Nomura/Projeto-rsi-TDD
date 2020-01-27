@@ -35,6 +35,7 @@ public class TesteBuscaClique {
 	PaginaBusca BuscaPage;
 
 	@BeforeMethod
+	//Metodo responsavel por configurar e instanciar os objetos necessarios para execução do teste
 	public void configura() throws Exception {
 
 		DOMConfigurator.configure("log4j.xml");
@@ -75,7 +76,7 @@ public class TesteBuscaClique {
 
 		constantes.takeSnapShot("TesteBuscaCliqueValido", driver);
 		Log.info("Foi obtido um print da tela");
-		Reporter.log("O teste foi finalizado ");
+		Reporter.log("O teste foi finalizado. ");
 
 	}
 
@@ -100,9 +101,10 @@ public class TesteBuscaClique {
 	}
 
 	@AfterMethod
+	//encerra o driver utilizado para realização do teste
 	public void encerra() {
 
-		driver.quit();
+		Driver_Factory.encerra(driver);
 		Log.info("O driver é encerrado");
 
 	}

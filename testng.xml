@@ -1,9 +1,17 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 <suite name="Teste - TDD">
-	<test name="br.com.rsinet.hub_TDD">
+	<test name="Funcionalidade busca pela lupa">
 		<classes>
 			<class name="br.com.rsinet.hub_TDD.testes.TestBuscaLupa" />
+		</classes>
+	</test>
+	<test name="Funcionalidade busca por clique">
+		<classes>
 			<class name="br.com.rsinet.hub_TDD.testes.TesteBuscaClique" />
+		</classes>
+	</test>
+	<test name="Funcionalidade de cadastro">
+		<classes>
 			<class name="br.com.rsinet.hub_TDD.testes.TesteCadastro" />
 		</classes>
 	</test>
