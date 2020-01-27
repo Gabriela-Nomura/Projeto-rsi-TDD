@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-Teste___TDD">
-              <span class="suite-name border-passed">Teste - TDD</span>
+              <span class="suite-name border-failed">Teste - TDD</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -49,7 +49,7 @@
               <ul>
                 <li>
                   <a href="#" class="navigator-link " panel-name="test-xml-Teste___TDD">
-                    <span>C:\Users\gabriela.nomura\eclipse-workspace\br.com.rsinet.hub_TDD\testng.xml</span>
+                    <span>C:\My Workspace\testng.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -91,7 +91,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">6 methods,   6 passed</span>
+                    <span class="method-stats">6 methods, 1 failed,   5 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Teste___TDD" class="hide-methods failed suite-Teste___TDD"> (hide)</a> <!-- hide-methods failed suite-Teste___TDD -->
+                      <a href="#" panel-name="suite-Teste___TDD" class="show-methods failed suite-Teste___TDD"> (show)</a> <!-- show-methods failed suite-Teste___TDD -->
+                    </span>
+                    <div class="method-list-content failed suite-Teste___TDD">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Teste___TDD" title="br.com.rsinet.hub_TDD.testes.TesteCadastro" hash-for-method="testeCadastroValido">testeCadastroValido</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Teste___TDD -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -125,11 +139,6 @@
                         <a href="#" class="method navigator-link" panel-name="suite-Teste___TDD" title="br.com.rsinet.hub_TDD.testes.TesteCadastro" hash-for-method="testeCadastroInvalido">testeCadastroInvalido</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Teste___TDD" title="br.com.rsinet.hub_TDD.testes.TesteCadastro" hash-for-method="testeCadastroValido">testeCadastroValido</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
                     </div> <!-- method-list-content passed suite-Teste___TDD -->
                   </li>
                 </ul>
@@ -142,28 +151,26 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Teste___TDD" class="panel Teste___TDD">
-          <div class="suite-Teste___TDD-class-passed">
+          <div class="suite-Teste___TDD-class-failed">
             <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
+              <img src="failed.png"/>
               <span class="class-name">br.com.rsinet.hub_TDD.testes.TesteCadastro</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="testeCadastroInvalido">
-                  </a> <!-- testeCadastroInvalido -->
-                  <span class="method-name">testeCadastroInvalido</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
                   <a name="testeCadastroValido">
                   </a> <!-- testeCadastroValido -->
                   <span class="method-name">testeCadastroValido</span>
+                  <div class="stack-trace">java.lang.AssertionError: did not expect to find [true] but found [false]
+	at br.com.rsinet.hub_TDD.testes.TesteCadastro.testeCadastroValido(TesteCadastro.java:91)
+	at java.util.ArrayList.forEach(ArrayList.java:1257)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Teste___TDD-class-passed -->
+          </div> <!-- suite-Teste___TDD-class-failed -->
           <div class="suite-Teste___TDD-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -208,10 +215,25 @@
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Teste___TDD-class-passed -->
+          <div class="suite-Teste___TDD-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">br.com.rsinet.hub_TDD.testes.TesteCadastro</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testeCadastroInvalido">
+                  </a> <!-- testeCadastroInvalido -->
+                  <span class="method-name">testeCadastroInvalido</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Teste___TDD-class-passed -->
         </div> <!-- panel Teste___TDD -->
         <div panel-name="test-xml-Teste___TDD" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\gabriela.nomura\eclipse-workspace\br.com.rsinet.hub_TDD\testng.xml</span>
+            <span class="header-content">C:\My Workspace\testng.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -280,32 +302,32 @@ data.addRows(6);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'testeCadastroInvalido')
 data.setCell(0, 2, 'br.com.rsinet.hub_TDD.testes.TesteCadastro')
-data.setCell(0, 3, 21635);
+data.setCell(0, 3, 21315);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'testeCadastroValido')
 data.setCell(1, 2, 'br.com.rsinet.hub_TDD.testes.TesteCadastro')
-data.setCell(1, 3, 8486);
+data.setCell(1, 3, 20942);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'testaBuscaCliqueValido')
 data.setCell(2, 2, 'br.com.rsinet.hub_TDD.testes.TesteBuscaClique')
-data.setCell(2, 3, 7935);
+data.setCell(2, 3, 5925);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'testaBuscaCliqueInvalido')
 data.setCell(3, 2, 'br.com.rsinet.hub_TDD.testes.TesteBuscaClique')
-data.setCell(3, 3, 6857);
+data.setCell(3, 3, 5220);
 data.setCell(4, 0, 4)
 data.setCell(4, 1, 'testaBuscaLupaInvalido')
 data.setCell(4, 2, 'br.com.rsinet.hub_TDD.testes.TestBuscaLupa')
-data.setCell(4, 3, 4115);
+data.setCell(4, 3, 3874);
 data.setCell(5, 0, 5)
 data.setCell(5, 1, 'testaBuscaLupaValido')
 data.setCell(5, 2, 'br.com.rsinet.hub_TDD.testes.TestBuscaLupa')
-data.setCell(5, 3, 4039);
+data.setCell(5, 3, 3141);
 window.suiteTableData['Teste___TDD']= { tableData: data, tableDiv: 'times-div-Teste___TDD'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 53 seconds</span>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
               <div id="times-div-Teste___TDD">
               </div> <!-- times-div-Teste___TDD -->
             </div> <!-- times-div -->
@@ -355,16 +377,6 @@ return data;
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
             <div class="reporter-method-div">
-              <span class="reporter-method-name">testeCadastroValido</span>
-              <div class="reporter-method-output-div">
-                <span class="reporter-method-output"> A aplicação foi iniciada com sucesso |</span>
-                <span class="reporter-method-output"> A página de criação de novo usuário foi acessada |</span>
-                <span class="reporter-method-output">Os dados foram preenchidos com informações válidas</span>
-                <span class="reporter-method-output">Um novo usuário foi cadastrado com sucesso |</span>
-                <span class="reporter-method-output">O teste foi finalizado </span>
-              </div> <!-- reporter-method-output-div -->
-            </div> <!-- reporter-method-div -->
-            <div class="reporter-method-div">
               <span class="reporter-method-name">testeCadastroInvalido</span>
               <div class="reporter-method-output-div">
                 <span class="reporter-method-output"> A aplicação foi iniciada com sucesso |</span>
@@ -372,6 +384,14 @@ return data;
                 <span class="reporter-method-output">Os dados foram preenchidos com um nome de usuario ja cadastrado</span>
                 <span class="reporter-method-output">O usuário não foi cadastrado |</span>
                 <span class="reporter-method-output"> O teste foi finalizado </span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">testeCadastroValido</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"> A aplicação foi iniciada com sucesso |</span>
+                <span class="reporter-method-output"> A página de criação de novo usuário foi acessada |</span>
+                <span class="reporter-method-output">Os dados foram preenchidos com informações válidas</span>
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -396,77 +416,79 @@ return data;
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">testaBuscaLupaInvalido</span>
-                <span class="method-start">11526 ms</span>
+                <span class="method-start">11916 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">encerra</span>
-                <span class="method-start">15644 ms</span>
+                <span class="method-start">15793 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">configura</span>
-                <span class="method-start">15704 ms</span>
+                <span class="method-start">15855 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">testaBuscaLupaValido</span>
-                <span class="method-start">25907 ms</span>
+                <span class="method-start">26008 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">encerra</span>
-                <span class="method-start">29948 ms</span>
+                <span class="method-start">29154 ms</span>
               </div> <!-- configuration-method after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">br.com.rsinet.hub_TDD.testes.TesteBuscaClique</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">configura</span>
-                <span class="method-start">30052 ms</span>
+                <span class="method-start">29290 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">testaBuscaCliqueInvalido</span>
-                <span class="method-start">40224 ms</span>
+                <span class="method-start">39410 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">encerra</span>
-                <span class="method-start">47082 ms</span>
+                <span class="method-start">44631 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">configura</span>
-                <span class="method-start">47133 ms</span>
+                <span class="method-start">44690 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">testaBuscaCliqueValido</span>
-                <span class="method-start">57327 ms</span>
+                <span class="method-start">54699 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">encerra</span>
-                <span class="method-start">65263 ms</span>
+                <span class="method-start">60625 ms</span>
               </div> <!-- configuration-method after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">br.com.rsinet.hub_TDD.testes.TesteCadastro</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">configura</span>
-                <span class="method-start">65360 ms</span>
+                <span class="method-start">60724 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">testeCadastroValido</span>
-                <span class="method-start">75548 ms</span>
+                <span class="method-start">70891 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">encerra</span>
-                <span class="method-start">84034 ms</span>
+                <span class="method-start">91835 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">configura</span>
-                <span class="method-start">84088 ms</span>
+                <span class="method-start">91892 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">testeCadastroInvalido</span>
-                <span class="method-start">94227 ms</span>
+                <span class="method-start">102009 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">encerra</span>
-                <span class="method-start">115862 ms</span>
+                <span class="method-start">123325 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

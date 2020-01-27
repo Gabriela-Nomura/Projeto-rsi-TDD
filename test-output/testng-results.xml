@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+<testng-results skipped="0" failed="1" ignored="0" total="6" passed="5">
   <reporter-output>
     <line>
       <![CDATA[ A aplicação foi iniciada com sucesso |]]>
@@ -65,12 +65,6 @@
       <![CDATA[Os dados foram preenchidos com informações válidas]]>
     </line>
     <line>
-      <![CDATA[Um novo usuário foi cadastrado com sucesso |]]>
-    </line>
-    <line>
-      <![CDATA[O teste foi finalizado ]]>
-    </line>
-    <line>
       <![CDATA[ A aplicação foi iniciada com sucesso |]]>
     </line>
     <line>
@@ -86,16 +80,16 @@
       <![CDATA[ O teste foi finalizado ]]>
     </line>
   </reporter-output>
-  <suite name="Teste - TDD" duration-ms="115941" started-at="2020-01-27T11:05:27 BRT" finished-at="2020-01-27T11:07:23 BRT">
+  <suite name="Teste - TDD" duration-ms="123469" started-at="2020-01-27T16:07:08 BRT" finished-at="2020-01-27T16:09:11 BRT">
     <groups>
     </groups>
-    <test name="Funcionalidade busca pela lupa" duration-ms="30027" started-at="2020-01-27T11:05:27 BRT" finished-at="2020-01-27T11:05:57 BRT">
+    <test name="Funcionalidade busca pela lupa" duration-ms="29278" started-at="2020-01-27T16:07:08 BRT" finished-at="2020-01-27T16:07:37 BRT">
       <class name="br.com.rsinet.hub_TDD.testes.TestBuscaLupa">
-        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@6b57696f]" name="configura" is-config="true" duration-ms="11526" started-at="2020-01-27T11:05:27 BRT" finished-at="2020-01-27T11:05:39 BRT">
+        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@298f0a0b]" name="configura" is-config="true" duration-ms="11914" started-at="2020-01-27T16:07:08 BRT" finished-at="2020-01-27T16:07:20 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configura -->
-        <test-method status="PASS" signature="testaBuscaLupaInvalido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@6b57696f]" name="testaBuscaLupaInvalido" duration-ms="4115" started-at="2020-01-27T11:05:39 BRT" finished-at="2020-01-27T11:05:43 BRT">
+        <test-method status="PASS" signature="testaBuscaLupaInvalido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@298f0a0b]" name="testaBuscaLupaInvalido" duration-ms="3874" started-at="2020-01-27T16:07:20 BRT" finished-at="2020-01-27T16:07:23 BRT">
           <reporter-output>
             <line>
               <![CDATA[ A aplicação foi iniciada com sucesso |]]>
@@ -111,15 +105,15 @@
             </line>
           </reporter-output>
         </test-method> <!-- testaBuscaLupaInvalido -->
-        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@6b57696f]" name="encerra" is-config="true" duration-ms="58" started-at="2020-01-27T11:05:43 BRT" finished-at="2020-01-27T11:05:43 BRT">
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@298f0a0b]" name="encerra" is-config="true" duration-ms="62" started-at="2020-01-27T16:07:23 BRT" finished-at="2020-01-27T16:07:23 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- encerra -->
-        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@6b57696f]" name="configura" is-config="true" duration-ms="10202" started-at="2020-01-27T11:05:43 BRT" finished-at="2020-01-27T11:05:53 BRT">
+        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@298f0a0b]" name="configura" is-config="true" duration-ms="10153" started-at="2020-01-27T16:07:23 BRT" finished-at="2020-01-27T16:07:34 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configura -->
-        <test-method status="PASS" signature="testaBuscaLupaValido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@6b57696f]" name="testaBuscaLupaValido" duration-ms="4039" started-at="2020-01-27T11:05:53 BRT" finished-at="2020-01-27T11:05:57 BRT">
+        <test-method status="PASS" signature="testaBuscaLupaValido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@298f0a0b]" name="testaBuscaLupaValido" duration-ms="3141" started-at="2020-01-27T16:07:34 BRT" finished-at="2020-01-27T16:07:37 BRT">
           <reporter-output>
             <line>
               <![CDATA[ A aplicação foi iniciada com sucesso |]]>
@@ -138,19 +132,19 @@
             </line>
           </reporter-output>
         </test-method> <!-- testaBuscaLupaValido -->
-        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@6b57696f]" name="encerra" is-config="true" duration-ms="50" started-at="2020-01-27T11:05:57 BRT" finished-at="2020-01-27T11:05:57 BRT">
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TestBuscaLupa@298f0a0b]" name="encerra" is-config="true" duration-ms="60" started-at="2020-01-27T16:07:37 BRT" finished-at="2020-01-27T16:07:37 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- encerra -->
       </class> <!-- br.com.rsinet.hub_TDD.testes.TestBuscaLupa -->
     </test> <!-- Funcionalidade busca pela lupa -->
-    <test name="Funcionalidade busca por clique" duration-ms="35263" started-at="2020-01-27T11:05:57 BRT" finished-at="2020-01-27T11:06:32 BRT">
+    <test name="Funcionalidade busca por clique" duration-ms="31386" started-at="2020-01-27T16:07:37 BRT" finished-at="2020-01-27T16:08:08 BRT">
       <class name="br.com.rsinet.hub_TDD.testes.TesteBuscaClique">
-        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@63440df3]" name="configura" is-config="true" duration-ms="10172" started-at="2020-01-27T11:05:57 BRT" finished-at="2020-01-27T11:06:07 BRT">
+        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@29fa6b65]" name="configura" is-config="true" duration-ms="10119" started-at="2020-01-27T16:07:37 BRT" finished-at="2020-01-27T16:07:47 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configura -->
-        <test-method status="PASS" signature="testaBuscaCliqueInvalido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@63440df3]" name="testaBuscaCliqueInvalido" duration-ms="6857" started-at="2020-01-27T11:06:07 BRT" finished-at="2020-01-27T11:06:14 BRT">
+        <test-method status="PASS" signature="testaBuscaCliqueInvalido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@29fa6b65]" name="testaBuscaCliqueInvalido" duration-ms="5220" started-at="2020-01-27T16:07:47 BRT" finished-at="2020-01-27T16:07:52 BRT">
           <reporter-output>
             <line>
               <![CDATA[ A aplicação foi iniciada com sucesso |]]>
@@ -169,15 +163,15 @@
             </line>
           </reporter-output>
         </test-method> <!-- testaBuscaCliqueInvalido -->
-        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@63440df3]" name="encerra" is-config="true" duration-ms="50" started-at="2020-01-27T11:06:14 BRT" finished-at="2020-01-27T11:06:14 BRT">
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@29fa6b65]" name="encerra" is-config="true" duration-ms="58" started-at="2020-01-27T16:07:52 BRT" finished-at="2020-01-27T16:07:52 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- encerra -->
-        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@63440df3]" name="configura" is-config="true" duration-ms="10194" started-at="2020-01-27T11:06:14 BRT" finished-at="2020-01-27T11:06:24 BRT">
+        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@29fa6b65]" name="configura" is-config="true" duration-ms="10009" started-at="2020-01-27T16:07:52 BRT" finished-at="2020-01-27T16:08:02 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configura -->
-        <test-method status="PASS" signature="testaBuscaCliqueValido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@63440df3]" name="testaBuscaCliqueValido" duration-ms="7935" started-at="2020-01-27T11:06:24 BRT" finished-at="2020-01-27T11:06:32 BRT">
+        <test-method status="PASS" signature="testaBuscaCliqueValido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@29fa6b65]" name="testaBuscaCliqueValido" duration-ms="5925" started-at="2020-01-27T16:08:02 BRT" finished-at="2020-01-27T16:08:08 BRT">
           <reporter-output>
             <line>
               <![CDATA[ A aplicação foi iniciada com sucesso |]]>
@@ -193,19 +187,61 @@
             </line>
           </reporter-output>
         </test-method> <!-- testaBuscaCliqueValido -->
-        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@63440df3]" name="encerra" is-config="true" duration-ms="52" started-at="2020-01-27T11:06:32 BRT" finished-at="2020-01-27T11:06:32 BRT">
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteBuscaClique@29fa6b65]" name="encerra" is-config="true" duration-ms="49" started-at="2020-01-27T16:08:08 BRT" finished-at="2020-01-27T16:08:08 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- encerra -->
       </class> <!-- br.com.rsinet.hub_TDD.testes.TesteBuscaClique -->
     </test> <!-- Funcionalidade busca por clique -->
-    <test name="Funcionalidade de cadastro" duration-ms="50571" started-at="2020-01-27T11:06:32 BRT" finished-at="2020-01-27T11:07:23 BRT">
+    <test name="Funcionalidade de cadastro" duration-ms="62690" started-at="2020-01-27T16:08:08 BRT" finished-at="2020-01-27T16:09:11 BRT">
       <class name="br.com.rsinet.hub_TDD.testes.TesteCadastro">
-        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@eafc191]" name="configura" is-config="true" duration-ms="10188" started-at="2020-01-27T11:06:32 BRT" finished-at="2020-01-27T11:06:43 BRT">
+        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@44784e2f]" name="configura" is-config="true" duration-ms="10166" started-at="2020-01-27T16:08:08 BRT" finished-at="2020-01-27T16:08:19 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configura -->
-        <test-method status="PASS" signature="testeCadastroValido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@eafc191]" name="testeCadastroValido" duration-ms="8486" started-at="2020-01-27T11:06:43 BRT" finished-at="2020-01-27T11:06:51 BRT">
+        <test-method status="FAIL" signature="testeCadastroValido()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@44784e2f]" name="testeCadastroValido" duration-ms="20942" started-at="2020-01-27T16:08:19 BRT" finished-at="2020-01-27T16:08:39 BRT">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[did not expect to find [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: did not expect to find [true] but found [false]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.failNotEquals(Assert.java:969)
+at org.testng.Assert.assertTrue(Assert.java:43)
+at org.testng.Assert.assertTrue(Assert.java:53)
+at br.com.rsinet.hub_TDD.testes.TesteCadastro.testeCadastroValido(TesteCadastro.java:91)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1257)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
               <![CDATA[ A aplicação foi iniciada com sucesso |]]>
@@ -216,23 +252,17 @@
             <line>
               <![CDATA[Os dados foram preenchidos com informações válidas]]>
             </line>
-            <line>
-              <![CDATA[Um novo usuário foi cadastrado com sucesso |]]>
-            </line>
-            <line>
-              <![CDATA[O teste foi finalizado ]]>
-            </line>
           </reporter-output>
         </test-method> <!-- testeCadastroValido -->
-        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@eafc191]" name="encerra" is-config="true" duration-ms="53" started-at="2020-01-27T11:06:51 BRT" finished-at="2020-01-27T11:06:51 BRT">
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@44784e2f]" name="encerra" is-config="true" duration-ms="54" started-at="2020-01-27T16:08:39 BRT" finished-at="2020-01-27T16:08:40 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- encerra -->
-        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@eafc191]" name="configura" is-config="true" duration-ms="10139" started-at="2020-01-27T11:06:51 BRT" finished-at="2020-01-27T11:07:01 BRT">
+        <test-method status="PASS" signature="configura()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@44784e2f]" name="configura" is-config="true" duration-ms="10117" started-at="2020-01-27T16:08:40 BRT" finished-at="2020-01-27T16:08:50 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configura -->
-        <test-method status="PASS" signature="testeCadastroInvalido()[pri:1, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@eafc191]" name="testeCadastroInvalido" duration-ms="21635" started-at="2020-01-27T11:07:01 BRT" finished-at="2020-01-27T11:07:23 BRT">
+        <test-method status="PASS" signature="testeCadastroInvalido()[pri:1, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@44784e2f]" name="testeCadastroInvalido" duration-ms="21315" started-at="2020-01-27T16:08:50 BRT" finished-at="2020-01-27T16:09:11 BRT">
           <reporter-output>
             <line>
               <![CDATA[ A aplicação foi iniciada com sucesso |]]>
@@ -251,7 +281,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- testeCadastroInvalido -->
-        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@eafc191]" name="encerra" is-config="true" duration-ms="53" started-at="2020-01-27T11:07:23 BRT" finished-at="2020-01-27T11:07:23 BRT">
+        <test-method status="PASS" signature="encerra()[pri:0, instance:br.com.rsinet.hub_TDD.testes.TesteCadastro@44784e2f]" name="encerra" is-config="true" duration-ms="83" started-at="2020-01-27T16:09:11 BRT" finished-at="2020-01-27T16:09:11 BRT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- encerra -->
