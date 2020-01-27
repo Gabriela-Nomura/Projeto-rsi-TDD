@@ -7253,3 +7253,183 @@
 2020-01-26 15:50:41,956 INFO  [Fábrica de driver] Configurado o arquivo do excel a ser lido 
 2020-01-26 15:50:41,956 INFO  [Teste de busca pela lupa] O arquivo do excel foi configurado 
 2020-01-26 15:50:41,956 INFO  [Fábrica de driver] Configurado driver de execução 
+2020-01-27 10:18:47,151 INFO  [Teste de busca pela lupa] Configurado arquivo de registros de logs 
+2020-01-27 10:18:47,519 INFO  [Fábrica de driver] Configurado o arquivo do excel a ser lido 
+2020-01-27 10:18:47,519 INFO  [Teste de busca pela lupa] O arquivo do excel foi configurado 
+2020-01-27 10:18:47,519 INFO  [Fábrica de driver] Configurado driver de execução 
+2020-01-27 10:18:57,598 INFO  [Fábrica de driver] A janela foi maximizada 
+2020-01-27 10:18:57,598 INFO  [Teste de busca pela lupa] Faz a configuração do driver 
+2020-01-27 10:18:58,634 INFO  [Teste de busca pela lupa] O Website foi acessado 
+2020-01-27 10:18:58,682 INFO  [Teste de busca pela lupa] Driver recebeu um comando de espera implicito por 15 segundos 
+2020-01-27 10:18:58,738 INFO  [Teste de busca pela lupa] Configurado arquivo de registros de logs 
+2020-01-27 10:18:58,771 INFO  [Fábrica de driver] Configurado o arquivo do excel a ser lido 
+2020-01-27 10:18:58,771 INFO  [Teste de busca pela lupa] O arquivo do excel foi configurado 
+2020-01-27 10:18:58,771 INFO  [Fábrica de driver] Configurado driver de execução 
+2020-01-27 10:19:08,308 INFO  [Fábrica de driver] A janela foi maximizada 
+2020-01-27 10:19:08,308 INFO  [Teste de busca pela lupa] Faz a configuração do driver 
+2020-01-27 10:19:09,222 INFO  [Teste de busca pela lupa] O Website foi acessado 
+2020-01-27 10:19:09,230 INFO  [Teste de busca pela lupa] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-27 10:19:09,284 INFO  [Teste de busca por clique] Configurado arquivo de registros de logs 
+2020-01-27 10:19:09,284 INFO  [Fábrica de driver] Configurado driver de execução 
+2020-01-27 10:19:18,416 INFO  [Fábrica de driver] A janela foi maximizada 
+2020-01-27 10:19:18,416 INFO  [Teste de busca por clique] Faz a configuração do driver 
+2020-01-27 10:19:19,349 INFO  [Teste de busca por clique] O Website foi acessado 
+2020-01-27 10:19:19,353 INFO  [Teste de busca por clique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-27 10:19:19,945 INFO  [Teste de busca por clique] O driver é encerrado 
+2020-01-27 10:19:19,954 INFO  [Teste de busca por clique] Configurado arquivo de registros de logs 
+2020-01-27 10:19:19,954 INFO  [Fábrica de driver] Configurado driver de execução 
+2020-01-27 10:19:29,119 INFO  [Fábrica de driver] A janela foi maximizada 
+2020-01-27 10:19:29,119 INFO  [Teste de busca por clique] Faz a configuração do driver 
+2020-01-27 10:19:30,048 INFO  [Teste de busca por clique] O Website foi acessado 
+2020-01-27 10:19:30,051 INFO  [Teste de busca por clique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-27 10:19:30,646 INFO  [Teste de busca por clique] O driver é encerrado 
+2020-01-27 10:19:30,655 INFO  [Teste de Cadastro] Configurado arquivo de registros de logs 
+2020-01-27 10:19:30,655 INFO  [Fábrica de driver] Configurado driver de execução 
+2020-01-27 10:19:39,768 INFO  [Fábrica de driver] A janela foi maximizada 
+2020-01-27 10:19:39,768 INFO  [Teste de Cadastro] Faz a configuração do driver 
+2020-01-27 10:19:40,698 INFO  [Teste de Cadastro] O Website foi acessado 
+2020-01-27 10:19:40,720 INFO  [Fábrica de driver] Configurado o arquivo do excel a ser lido 
+2020-01-27 10:19:40,724 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-27 10:19:40,727 INFO  [Teste de Cadastro] Ocorreu uma exceção 
+2020-01-27 10:19:40,727 INFO  [Teste de Cadastro] Foi impresso o caminho do erro 
+2020-01-27 10:19:41,323 INFO  [Teste de Cadastro] O driver é encerrado 
+2020-01-27 10:19:41,332 INFO  [Teste de Cadastro] Configurado arquivo de registros de logs 
+2020-01-27 10:19:41,332 INFO  [Fábrica de driver] Configurado driver de execução 
+2020-01-27 10:20:13,484 INFO  [Teste de busca pela lupa] Configurado arquivo de registros de logs 
+2020-01-27 10:20:14,081 INFO  [Fábrica de driver] Configurado o arquivo do excel a ser lido 
+2020-01-27 10:20:14,081 INFO  [Teste de busca pela lupa] O arquivo do excel foi configurado 
+2020-01-27 10:20:14,081 INFO  [Fábrica de driver] Configurado driver de execução 
+2020-01-27 10:20:24,369 INFO  [Fábrica de driver] A janela foi maximizada 
+2020-01-27 10:20:24,369 INFO  [Teste de busca pela lupa] Faz a configuração do driver 
+2020-01-27 10:20:25,283 INFO  [Teste de busca pela lupa] O Website foi acessado 
+2020-01-27 10:20:25,322 INFO  [Teste de busca pela lupa] Driver recebeu um comando de espera implicito por 15 segundos 
+2020-01-27 10:20:25,405 INFO  [Teste de busca pela lupa] Configurado arquivo de registros de logs 
+2020-01-27 10:20:25,453 INFO  [Fábrica de driver] Configurado o arquivo do excel a ser lido 
+2020-01-27 10:20:25,453 INFO  [Teste de busca pela lupa] O arquivo do excel foi configurado 
+2020-01-27 10:20:25,453 INFO  [Fábrica de driver] Configurado driver de execução 
+2020-01-27 10:20:34,652 INFO  [Fábrica de driver] A janela foi maximizada 
+2020-01-27 10:20:34,652 INFO  [Teste de busca pela lupa] Faz a configuração do driver 
+2020-01-27 10:20:35,604 INFO  [Teste de busca pela lupa] O Website foi acessado 
+2020-01-27 10:20:35,611 INFO  [Teste de busca pela lupa] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-27 10:20:35,685 INFO  [Teste de busca por clique] Configurado arquivo de registros de logs 
+2020-01-27 10:20:35,686 INFO  [Fábrica de driver] Configurado driver de execução 
+2020-01-27 10:25:07,018 INFO  [Teste de busca pela lupa] Configurado arquivo de registros de logs 
+2020-01-27 10:25:07,372 INFO  [Fábrica de driver] Configurado o arquivo do excel a ser lido 
+2020-01-27 10:25:07,372 INFO  [Teste de busca pela lupa] O arquivo do excel foi configurado 
+2020-01-27 10:25:07,372 INFO  [Fábrica de driver] Configurado driver de execução 
+2020-01-27 10:25:17,368 INFO  [Fábrica de driver] A janela foi maximizada 
+2020-01-27 10:25:17,368 INFO  [Teste de busca pela lupa] Faz a configuração do driver 
+2020-01-27 10:25:18,305 INFO  [Teste de busca pela lupa] O Website foi acessado 
+2020-01-27 10:25:18,338 INFO  [Teste de busca pela lupa] Driver recebeu um comando de espera implicito por 15 segundos 
+2020-01-27 10:25:19,217 INFO  [Fabrica de objetos - Página inicial] O ícone de busca recebeu um clique 
+2020-01-27 10:25:19,501 INFO  [Fabrica de objetos - Página inicial] O ícone de busca recebeu um clique 
+2020-01-27 10:25:21,929 INFO  [Teste de busca pela lupa] A comparação com método Assert foi realizada com sucesso 
+2020-01-27 10:25:21,933 INFO  [Teste de busca pela lupa] Aguarda 10s 
+2020-01-27 10:25:22,266 INFO  [Teste de busca pela lupa] Tira um PrintScreen 
+2020-01-27 10:25:22,344 INFO  [Teste de busca pela lupa] Configurado arquivo de registros de logs 
+2020-01-27 10:25:22,398 INFO  [Fábrica de driver] Configurado o arquivo do excel a ser lido 
+2020-01-27 10:25:22,399 INFO  [Teste de busca pela lupa] O arquivo do excel foi configurado 
+2020-01-27 10:25:22,399 INFO  [Fábrica de driver] Configurado driver de execução 
+2020-01-27 10:25:31,566 INFO  [Fábrica de driver] A janela foi maximizada 
+2020-01-27 10:25:31,566 INFO  [Teste de busca pela lupa] Faz a configuração do driver 
+2020-01-27 10:25:32,622 INFO  [Teste de busca pela lupa] O Website foi acessado 
+2020-01-27 10:25:32,626 INFO  [Teste de busca pela lupa] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-27 10:25:33,493 INFO  [Fabrica de objetos - Página inicial] O ícone de busca recebeu um clique 
+2020-01-27 10:25:33,494 INFO  [Teste de busca pela lupa] O botão de lupa recebeu um clique 
+2020-01-27 10:25:33,818 INFO  [Fabrica de objetos - Página inicial] O ícone de busca recebeu um clique 
+2020-01-27 10:25:33,844 INFO  [Teste de busca pela lupa] O texto de busca foi enviado HP ELITEPAD 1000 G2 TABLET 
+2020-01-27 10:25:33,844 INFO  [Teste de busca pela lupa] A pela lupa foi executada com sucesso 
+2020-01-27 10:25:35,501 INFO  [Teste de busca pela lupa] Clica no elemento que foi buscado 
+2020-01-27 10:25:35,515 INFO  [Teste de busca pela lupa] Realiza a comparação através do método Assert 
+2020-01-27 10:25:35,518 INFO  [Teste de busca pela lupa] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-27 10:25:35,831 INFO  [Teste de busca pela lupa] Tira um PrintScreen 
+2020-01-27 10:25:35,901 INFO  [Teste de busca por clique] Configurado arquivo de registros de logs 
+2020-01-27 10:25:35,901 INFO  [Fábrica de driver] Configurado driver de execução 
+2020-01-27 10:25:45,006 INFO  [Fábrica de driver] A janela foi maximizada 
+2020-01-27 10:25:45,006 INFO  [Teste de busca por clique] Faz a configuração do driver 
+2020-01-27 10:25:45,885 INFO  [Teste de busca por clique] O Website foi acessado 
+2020-01-27 10:25:45,889 INFO  [Teste de busca por clique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-27 10:25:49,284 INFO  [Fabrica de objetos - Página inicial] O produto selecionado recebeu um clique 
+2020-01-27 10:25:49,284 INFO  [Fabrica de objetos - Página de busca] Instancia um comando de espera  
+2020-01-27 10:25:50,055 INFO  [Fabrica de objetos - Página de busca] Driver recebeu um comando de espera para aguardar que o elemento se torne visível 
+2020-01-27 10:25:50,108 INFO  [Fabrica de objetos - Página de busca] Adiciona o produto procurado ao carrinho 
+2020-01-27 10:25:50,722 INFO  [Fabrica de objetos - Página de busca] A opção de checkout recebeu um clique 
+2020-01-27 10:25:50,734 INFO  [Teste de busca por clique] Confirma que o item adicionado é diferente do item clicado inicialmente 
+2020-01-27 10:25:51,024 INFO  [Teste de busca por clique] Tira um PrintScreen 
+2020-01-27 10:25:51,611 INFO  [Teste de busca por clique] O driver é encerrado 
+2020-01-27 10:25:51,626 INFO  [Teste de busca por clique] Configurado arquivo de registros de logs 
+2020-01-27 10:25:51,626 INFO  [Fábrica de driver] Configurado driver de execução 
+2020-01-27 10:26:00,807 INFO  [Fábrica de driver] A janela foi maximizada 
+2020-01-27 10:26:00,807 INFO  [Teste de busca por clique] Faz a configuração do driver 
+2020-01-27 10:26:01,718 INFO  [Teste de busca por clique] O Website foi acessado 
+2020-01-27 10:26:01,722 INFO  [Teste de busca por clique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-27 10:26:05,132 INFO  [Fabrica de objetos - Página inicial] A categoria de Headphones recebeu um clique 
+2020-01-27 10:26:05,133 INFO  [Fabrica de objetos - Página de busca] Instancia um comando de espera  
+2020-01-27 10:26:06,160 INFO  [Fabrica de objetos - Página de busca] Driver recebeu um comando de espera para aguardar que o elemento se torne visível 
+2020-01-27 10:26:06,211 INFO  [Fabrica de objetos - Página de busca] Clica no elemento: Beats Studio 2 Over-Ear Matte Black Headphones 
+2020-01-27 10:26:06,211 INFO  [Fabrica de objetos - Página de busca] Instancia um comando de espera  
+2020-01-27 10:26:06,498 INFO  [Fabrica de objetos - Página de busca] Driver recebeu um comando de espera para aguardar que o elemento se torne visível 
+2020-01-27 10:26:06,558 INFO  [Fabrica de objetos - Página de busca] Adiciona o produto procurado ao carrinho 
+2020-01-27 10:26:07,195 INFO  [Fabrica de objetos - Página de busca] A opção de checkout recebeu um clique 
+2020-01-27 10:26:07,199 INFO  [Teste de busca por clique] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-27 10:26:07,377 INFO  [Teste de busca por clique] Localiza o produto no carrinho 
+2020-01-27 10:26:07,377 INFO  [Teste de busca por clique] Localiza o produto no carrinho 
+2020-01-27 10:26:07,703 INFO  [Teste de busca por clique] Foi obtido um print da tela 
+2020-01-27 10:26:08,303 INFO  [Teste de busca por clique] O driver é encerrado 
+2020-01-27 10:26:08,313 INFO  [Teste de Cadastro] Configurado arquivo de registros de logs 
+2020-01-27 10:26:08,313 INFO  [Fábrica de driver] Configurado driver de execução 
+2020-01-27 10:26:17,478 INFO  [Fábrica de driver] A janela foi maximizada 
+2020-01-27 10:26:17,478 INFO  [Teste de Cadastro] Faz a configuração do driver 
+2020-01-27 10:26:18,417 INFO  [Teste de Cadastro] O Website foi acessado 
+2020-01-27 10:26:18,444 INFO  [Fábrica de driver] Configurado o arquivo do excel a ser lido 
+2020-01-27 10:26:18,448 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-27 10:26:19,303 INFO  [Fabrica de objetos - Página inicial] O link minha conta recebu um clique 
+2020-01-27 10:26:19,307 INFO  [Fabrica de objetos - Página inicial] Foi aplicado um comando de espera para carregamento da página de 20 segundos 
+2020-01-27 10:26:19,776 INFO  [Fabrica de objetos - Página inicial] O link nova conta recebeu um clique 
+2020-01-27 10:26:20,126 INFO  [Fabrica de objetos - Cadastro] Insere o nome de usuario 
+2020-01-27 10:26:20,406 INFO  [Fabrica de objetos - Cadastro] Insere o email do usuário 
+2020-01-27 10:26:20,547 INFO  [Fabrica de objetos - Cadastro] Insere a senha do usuário 
+2020-01-27 10:26:20,744 INFO  [Fabrica de objetos - Cadastro] Insere a confirmação de senha do usuário 
+2020-01-27 10:26:20,878 INFO  [Fabrica de objetos - Cadastro] Insere o primeiro nome do usuário 
+2020-01-27 10:26:20,979 INFO  [Fabrica de objetos - Cadastro] Insere o telefone do usuário 
+2020-01-27 10:26:21,110 INFO  [Fabrica de objetos - Cadastro] Insere o telefone do usuário 
+2020-01-27 10:26:21,195 INFO  [Fabrica de objetos - Cadastro] Seleciona a lista de países 
+2020-01-27 10:26:21,238 INFO  [Fabrica de objetos - Cadastro] Instancia um objeto select para manipulação da lista 
+2020-01-27 10:26:21,242 INFO  [Fabrica de objetos - Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-27 10:26:22,847 INFO  [Fabrica de objetos - Cadastro] O país Brazil foi selecionado 
+2020-01-27 10:26:22,963 INFO  [Fabrica de objetos - Cadastro] Insere a cidade do usuário 
+2020-01-27 10:26:23,333 INFO  [Fabrica de objetos - Cadastro] Insere o endereço do usuário 
+2020-01-27 10:26:23,460 INFO  [Fabrica de objetos - Cadastro] Insere o estado do usuário 
+2020-01-27 10:26:23,565 INFO  [Fabrica de objetos - Cadastro] Insere o CEP do usuário 
+2020-01-27 10:26:23,640 INFO  [Fabrica de objetos - Cadastro] A opção de aceitação dos termos de privacidade foi selecionada 
+2020-01-27 10:26:23,713 INFO  [Fabrica de objetos - Cadastro] O link para registrar um novo usuário recebeu um clique 
+2020-01-27 10:26:26,014 INFO  [Teste de Cadastro] Um PrintScreen é obtido da tela atual 
+2020-01-27 10:26:26,604 INFO  [Teste de Cadastro] O driver é encerrado 
+2020-01-27 10:26:26,609 INFO  [Teste de Cadastro] Configurado arquivo de registros de logs 
+2020-01-27 10:26:26,609 INFO  [Fábrica de driver] Configurado driver de execução 
+2020-01-27 10:26:35,802 INFO  [Fábrica de driver] A janela foi maximizada 
+2020-01-27 10:26:35,803 INFO  [Teste de Cadastro] Faz a configuração do driver 
+2020-01-27 10:26:36,677 INFO  [Teste de Cadastro] O Website foi acessado 
+2020-01-27 10:26:36,705 INFO  [Fábrica de driver] Configurado o arquivo do excel a ser lido 
+2020-01-27 10:26:36,708 INFO  [Teste de Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-27 10:26:37,554 INFO  [Fabrica de objetos - Página inicial] O link minha conta recebu um clique 
+2020-01-27 10:26:37,557 INFO  [Fabrica de objetos - Página inicial] Foi aplicado um comando de espera para carregamento da página de 20 segundos 
+2020-01-27 10:26:38,059 INFO  [Fabrica de objetos - Página inicial] O link nova conta recebeu um clique 
+2020-01-27 10:26:38,395 INFO  [Fabrica de objetos - Cadastro] Insere o nome de usuario 
+2020-01-27 10:26:38,689 INFO  [Fabrica de objetos - Cadastro] Insere o email do usuário 
+2020-01-27 10:26:38,842 INFO  [Fabrica de objetos - Cadastro] Insere a senha do usuário 
+2020-01-27 10:26:39,015 INFO  [Fabrica de objetos - Cadastro] Insere a confirmação de senha do usuário 
+2020-01-27 10:26:39,158 INFO  [Fabrica de objetos - Cadastro] Insere o primeiro nome do usuário 
+2020-01-27 10:26:39,264 INFO  [Fabrica de objetos - Cadastro] Insere o telefone do usuário 
+2020-01-27 10:26:39,412 INFO  [Fabrica de objetos - Cadastro] Insere o telefone do usuário 
+2020-01-27 10:26:39,506 INFO  [Fabrica de objetos - Cadastro] Seleciona a lista de países 
+2020-01-27 10:26:39,542 INFO  [Fabrica de objetos - Cadastro] Instancia um objeto select para manipulação da lista 
+2020-01-27 10:26:39,543 INFO  [Fabrica de objetos - Cadastro] Driver recebeu um comando de espera implicito por 10 segundos 
+2020-01-27 10:26:41,122 INFO  [Fabrica de objetos - Cadastro] O país Brazil foi selecionado 
+2020-01-27 10:26:41,241 INFO  [Fabrica de objetos - Cadastro] Insere a cidade do usuário 
+2020-01-27 10:26:41,662 INFO  [Fabrica de objetos - Cadastro] Insere o endereço do usuário 
+2020-01-27 10:26:41,809 INFO  [Fabrica de objetos - Cadastro] Insere o estado do usuário 
+2020-01-27 10:26:41,930 INFO  [Fabrica de objetos - Cadastro] Insere o CEP do usuário 
+2020-01-27 10:26:41,998 INFO  [Fabrica de objetos - Cadastro] A opção de aceitação dos termos de privacidade foi selecionada 
+2020-01-27 10:26:42,066 INFO  [Fabrica de objetos - Cadastro] O link para registrar um novo usuário recebeu um clique 
+2020-01-27 10:26:58,065 INFO  [Teste de Cadastro] O driver é encerrado 

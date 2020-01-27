@@ -13,7 +13,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import br.com.rsinet.hub_TDD.pageFactory.CadastraPage_POF;
+import br.com.rsinet.hub_TDD.pageFactory.CadastraPage;
 import br.com.rsinet.hub_TDD.pageFactory.HomePage;
 import br.com.rsinet.hub_TDD.utils.Driver_Factory;
 import br.com.rsinet.hub_TDD.utils.constantes;
@@ -30,7 +30,7 @@ public class TesteCadastro {
 	WebDriver driver;
 
 	HomePage HomePage;
-	CadastraPage_POF CadastraPage_POF;
+	CadastraPage CadastraPage;
 
 	@BeforeMethod
 	public void configura() throws Exception {
@@ -49,8 +49,8 @@ public class TesteCadastro {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		Log.info("Driver recebeu um comando de espera implicito por 10 segundos");
 
-		PageFactory.initElements(driver, HomePage.class);
-		PageFactory.initElements(driver, CadastraPage_POF.class);
+		HomePage = PageFactory.initElements(driver, HomePage.class);
+		CadastraPage = PageFactory.initElements(driver, CadastraPage.class);
 	}
 
 	@Test(priority = 0)
@@ -63,21 +63,21 @@ public class TesteCadastro {
 
 			Reporter.log(" A página de criação de novo usuário foi acessada |");
 
-			CadastraPage_POF.sendUserName(3);
-			CadastraPage_POF.sendUserEmail();
-			CadastraPage_POF.sendUserSenha();
-			CadastraPage_POF.sendUserSenhaConfirmacao();
-			CadastraPage_POF.sendUserSPrimeiroNome();
-			CadastraPage_POF.sendUserUltimoNome();
-			CadastraPage_POF.sendUserTelefone();
-			CadastraPage_POF.clickOn_pais();
-			CadastraPage_POF.seleciona_pais();
-			CadastraPage_POF.sendUserCidade();
-			CadastraPage_POF.sendUserEndereco();
-			CadastraPage_POF.sendUserEstado();
-			CadastraPage_POF.sendUserCep();
-			CadastraPage_POF.aceitaTermos();
-			CadastraPage_POF.registaUser();
+			CadastraPage.sendUserName(3);
+			CadastraPage.sendUserEmail();
+			CadastraPage.sendUserSenha();
+			CadastraPage.sendUserSenhaConfirmacao();
+			CadastraPage.sendUserSPrimeiroNome();
+			CadastraPage.sendUserUltimoNome();
+			CadastraPage.sendUserTelefone();
+			CadastraPage.clickOn_pais();
+			CadastraPage.seleciona_pais();
+			CadastraPage.sendUserCidade();
+			CadastraPage.sendUserEndereco();
+			CadastraPage.sendUserEstado();
+			CadastraPage.sendUserCep();
+			CadastraPage.aceitaTermos();
+			CadastraPage.registaUser();
 			Reporter.log("Os dados foram preenchidos com informações válidas");
 			driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
 
@@ -104,21 +104,21 @@ public class TesteCadastro {
 
 			Reporter.log(" A página de criação de novo usuário foi acessada |");
 
-			CadastraPage_POF.sendUserName(2);
-			CadastraPage_POF.sendUserEmail();
-			CadastraPage_POF.sendUserSenha();
-			CadastraPage_POF.sendUserSenhaConfirmacao();
-			CadastraPage_POF.sendUserSPrimeiroNome();
-			CadastraPage_POF.sendUserUltimoNome();
-			CadastraPage_POF.sendUserTelefone();
-			CadastraPage_POF.clickOn_pais();
-			CadastraPage_POF.seleciona_pais();
-			CadastraPage_POF.sendUserCidade();
-			CadastraPage_POF.sendUserEndereco();
-			CadastraPage_POF.sendUserEstado();
-			CadastraPage_POF.sendUserCep();
-			CadastraPage_POF.aceitaTermos();
-			CadastraPage_POF.registaUser();
+			CadastraPage.sendUserName(2);
+			CadastraPage.sendUserEmail();
+			CadastraPage.sendUserSenha();
+			CadastraPage.sendUserSenhaConfirmacao();
+			CadastraPage.sendUserSPrimeiroNome();
+			CadastraPage.sendUserUltimoNome();
+			CadastraPage.sendUserTelefone();
+			CadastraPage.clickOn_pais();
+			CadastraPage.seleciona_pais();
+			CadastraPage.sendUserCidade();
+			CadastraPage.sendUserEndereco();
+			CadastraPage.sendUserEstado();
+			CadastraPage.sendUserCep();
+			CadastraPage.aceitaTermos();
+			CadastraPage.registaUser();
 			Reporter.log("Os dados foram preenchidos com um nome de usuario ja cadastrado");
 		} catch (Exception e) {
 			Log.info("Ocorreu uma exceção");

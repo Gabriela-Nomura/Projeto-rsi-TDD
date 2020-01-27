@@ -3,26 +3,9 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Teste - TDD]">
   <test thread-count="5" name="br.com.rsinet.hub_TDD(failed)">
     <classes>
-      <class name="br.com.rsinet.hub_TDD.testes.TestBuscaLupa">
-        <methods>
-          <include name="testaBuscaLupaValido"/>
-          <include name="encerra"/>
-          <include name="testaBuscaLupaInvalido"/>
-          <include name="configura"/>
-        </methods>
-      </class> <!-- br.com.rsinet.hub_TDD.testes.TestBuscaLupa -->
-      <class name="br.com.rsinet.hub_TDD.testes.TesteBuscaClique">
-        <methods>
-          <include name="testaBuscaCliqueInvalido"/>
-          <include name="testaBuscaCliqueValido"/>
-          <include name="encerra"/>
-          <include name="configura"/>
-        </methods>
-      </class> <!-- br.com.rsinet.hub_TDD.testes.TesteBuscaClique -->
       <class name="br.com.rsinet.hub_TDD.testes.TesteCadastro">
         <methods>
           <include name="encerra"/>
-          <include name="testeCadastroValido"/>
           <include name="configura"/>
           <include name="testeCadastroInvalido"/>
         </methods>

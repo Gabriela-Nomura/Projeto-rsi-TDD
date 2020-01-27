@@ -46,8 +46,9 @@ public class TestBuscaLupa {
 		driver.get(constantes.URL);
 		Log.info("O Website foi acessado");
 
-		PageFactory.initElements(driver, HomePage.class);
-		PageFactory.initElements(driver, PaginaBusca.class);
+		HomePage = PageFactory.initElements(driver, HomePage.class);
+		
+		BuscaPage =PageFactory.initElements(driver, PaginaBusca.class);
 	}
 
 	@Test(priority = 0)

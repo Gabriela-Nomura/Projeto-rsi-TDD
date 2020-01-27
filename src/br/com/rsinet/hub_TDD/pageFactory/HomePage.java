@@ -46,7 +46,7 @@ public class HomePage {
 
 	@FindBy(how = How.XPATH, using = "//*[@id=\"menuUserLink\"]/span")
 	private WebElement userText;
-	CadastraPage_POF CadastraPage_POF;
+	CadastraPage CadastraPage;
 
 	@FindBy(how = How.ID, using = "autoComplete")
 	private WebElement buscaBox;

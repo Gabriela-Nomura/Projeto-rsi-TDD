@@ -48,8 +48,8 @@ public class TesteBuscaClique {
 
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		Log.info("Driver recebeu um comando de espera implicito por 10 segundos");
-		PageFactory.initElements(driver, HomePage.class);
-		PageFactory.initElements(driver, PaginaBusca.class);
+		HomePage = PageFactory.initElements(driver, HomePage.class);
+		BuscaPage = PageFactory.initElements(driver, PaginaBusca.class);
 	}
 
 	@Test(priority = 0)

@@ -12,14 +12,14 @@ import org.openqa.selenium.support.ui.Select;
 
 import br.com.rsinet.hub_TDD.utils.constantes;
 
-public class CadastraPage_POF {
+public class CadastraPage {
 	/**
 	 * Classe de manipulacao de webElements da pagina de cadastro
 	 */
 	final WebDriver driver;
 	Logger Log = Logger.getLogger("Fabrica de objetos - Cadastro");
 
-	public CadastraPage_POF(WebDriver driver) {
+	public CadastraPage(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 	}
@@ -118,7 +118,7 @@ public class CadastraPage_POF {
 	}
 
 	public void seleciona_pais() {
-		Select paisBox = new Select(CadastraPage_POF.paisUsuario);
+		Select paisBox = new Select(CadastraPage.paisUsuario);
 		Log.info("Instancia um objeto select para manipulação da lista");
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		Log.info("Driver recebeu um comando de espera implicito por 10 segundos");
