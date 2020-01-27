@@ -69,7 +69,7 @@ public class TestBuscaLupa {
 		Log.info("A pela lupa foi executada com sucesso");
 		Reporter.log("O campo de busca recebeu os parâmetros enviados |");
 
-		driver.findElement(By.id("16")).click();
+//		HomePage.seleciona();
 
 		Log.info("Clica no elemento que foi buscado");
 

@@ -3,6 +3,7 @@ package br.com.rsinet.hub_TDD.pageFactory;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -59,7 +60,9 @@ public class HomePage {
 		novaConta.sendKeys(Keys.ENTER);
 		Log.info("O link nova conta recebeu um clique");
 	}
-
+	public void seleciona() {
+		driver.findElement(By.id("16")).click();
+	}
 	public boolean logadoNomeUser() throws Exception {
 
 		try {
