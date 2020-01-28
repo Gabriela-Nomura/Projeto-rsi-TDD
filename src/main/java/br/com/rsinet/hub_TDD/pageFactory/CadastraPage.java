@@ -8,7 +8,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import br.com.rsinet.hub_TDD.utils.constantes;
 
@@ -74,9 +76,16 @@ public class CadastraPage {
 	@FindBy(how = How.XPATH, using = "//*[@id=\"registerPage\"]/article/sec-form/div[2]/label[1]/font/font")
 	private WebElement alerta;
 
+	private void waitUntil(WebElement element) {
+
+		WebDriverWait wait = new WebDriverWait(driver, 15);
+		wait.until(ExpectedConditions.elementToBeClickable(element));
+	}
+
 	// metodo que obtem o valor lido do excel e insere o valor no respectivo campo
 	// o parametro i se refere a linha do excel que sera lida
 	public String sendUserName(int i) throws Exception {
+		waitUntil(nomeUsuario);
 		nomeUsuario.sendKeys(constantes.userName(i));
 		Log.info("Insere o nome de usuario");
 		return constantes.userName(i);
@@ -148,16 +157,14 @@ public class CadastraPage {
 	}
 
 	public void aceitaTermos() {
-		aceitaTermos.click();
+		if (aceitaTermos.isSelected() == false)
+			aceitaTermos.click();
 		Log.info("A opção de aceitação dos termos de privacidade foi selecionada");
 	}
 
 	public void registaUser() {
-
 		registraUsuario.click();
 		Log.info("O link para registrar um novo usuário recebeu um clique");
-		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
-		registraUsuario.click();
 	}
 
 }

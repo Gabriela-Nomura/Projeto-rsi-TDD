@@ -1,7 +1,5 @@
 package br.com.rsinet.hub_TDD.pageFactory;
 
-import java.util.concurrent.TimeUnit;
-
 import org.apache.log4j.Logger;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
@@ -49,13 +47,18 @@ public class HomePage {
 	@FindBy(how = How.ID, using = "16")
 	private WebElement produtoSeleciona;
 	
+	private void waitUntil(WebElement element) {
+		
+		WebDriverWait wait = new WebDriverWait(driver, 15);
+		wait.until(ExpectedConditions.elementToBeClickable(element));}
+	
 	public void minhaConta() {
 		minhaConta.click();
 		Log.info("O link minha conta recebu um clique");
 	}
 
 	public void novaConta() {
-		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
+		waitUntil(novaConta);
 		Log.info("Foi aplicado um comando de espera para carregamento da página de 20 segundos");
 
 		novaConta.sendKeys(Keys.ENTER);
@@ -77,38 +80,32 @@ public class HomePage {
 	}
 
 	public void clickOn_HeadPhone() {
-		WebDriverWait wait = new WebDriverWait(driver, 15);
-		wait.until(ExpectedConditions.elementToBeClickable(HeadPhones));
+		waitUntil(HeadPhones);
 		HeadPhones.click();
 		Log.info("A categoria de Headphones recebeu um clique");
 	}
 
 	public void clickOn_produtos() {
-		WebDriverWait wait = new WebDriverWait(driver, 15);
-		wait.until(ExpectedConditions.elementToBeClickable(produto));
+		waitUntil(produto);
 		produto.click();
 		Log.info("O produto selecionado recebeu um clique");
 	}
 
 	public void clickOn_busca() {
-		WebDriverWait wait = new WebDriverWait(driver, 15);
-		wait.until(ExpectedConditions.elementToBeClickable(busca));
+		waitUntil(busca);
 		busca.click();
 		Log.info("O ícone de busca recebeu um clique");
 	}
 
 	public void sendText_buscaFalha() throws Exception {
-		WebDriverWait wait = new WebDriverWait(driver, 15);
-		wait.until(ExpectedConditions.elementToBeClickable(buscaBox));
+		waitUntil(buscaBox);
 		buscaBox.sendKeys(constantes.buscaLupaFalha());
 		Log.info("O ícone de busca recebeu um clique");
 		buscaBox.sendKeys(Keys.ENTER);
-		Thread.sleep(200);
 	}
 
 	public void sendText_busca() throws Exception {
-		WebDriverWait wait = new WebDriverWait(driver, 15);
-		wait.until(ExpectedConditions.elementToBeClickable(buscaBox));
+		waitUntil(buscaBox);
 		buscaBox.sendKeys(constantes.buscaLupa());
 		Log.info("O ícone de busca recebeu um clique");
 		buscaBox.sendKeys(Keys.ENTER);

@@ -28,11 +28,15 @@ public class PaginaBusca {
 	@FindBy(how = How.ID, using = "checkOutPopUp")
 	private WebElement checkout;
 
-	public void clickOn_Produto() {
-		WebDriverWait wait = new WebDriverWait(driver, 15);
-		Log.info("Instancia um comando de espera ");
+	private void waitUntil(WebElement element) {
 
-		wait.until(ExpectedConditions.elementToBeClickable(produto));
+		WebDriverWait wait = new WebDriverWait(driver, 15);
+		wait.until(ExpectedConditions.elementToBeClickable(element));
+	}
+
+	public void clickOn_Produto() {
+
+		waitUntil(produto);
 		Log.info("Driver recebeu um comando de espera para aguardar que o elemento se torne visível");
 
 		produto.click();
@@ -41,10 +45,7 @@ public class PaginaBusca {
 
 	public void addOn_carrinho() {
 
-		WebDriverWait wait = new WebDriverWait(driver, 15);
-		Log.info("Instancia um comando de espera ");
-
-		wait.until(ExpectedConditions.elementToBeClickable(carrinho));
+		waitUntil(carrinho);
 		Log.info("Driver recebeu um comando de espera para aguardar que o elemento se torne visível");
 
 		carrinho.click();
@@ -52,8 +53,7 @@ public class PaginaBusca {
 	}
 
 	public void clickOn_checkOut() {
-		WebDriverWait wait = new WebDriverWait(driver, 15);
-		wait.until(ExpectedConditions.elementToBeClickable(checkout));
+		waitUntil(checkout);
 		checkout.click();
 		Log.info("A opção de checkout recebeu um clique");
 	}
